@@ -1,3 +1,4 @@
 name: Akshay S Dinesh
 markdown: redcarpet
 highlighter: pygments
+permalink: :title/
