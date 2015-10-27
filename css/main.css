@@ -58,9 +58,15 @@ a:visited { color: #a0a; }
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
+  width: 90%;
   margin: 3em auto 2em;
   line-height: 1.5em;
+}
+
+@media (min-width: 45em) {
+  .site {
+    width: 42em;
+  }
 }
 
 .header a {
