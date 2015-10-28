@@ -1,11 +1,8 @@
 ---
 layout: post
-title:  "My (remote) Mozfest Experience"
+title:  "My (Remote) Mozfest Experience"
 categories: mozilla
 ---
-
-# My (Remote) Mozfest Experience
-
 
 ![moExperience](https://wiki.mozilla.org/images/4/42/Mozfest2012_5.png)
 
