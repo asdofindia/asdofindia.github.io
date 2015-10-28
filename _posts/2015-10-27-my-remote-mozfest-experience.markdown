@@ -56,7 +56,7 @@ With these, **I hope to**
 
 ## Experiences
 
-* Create a definite pathway for learning & contributing to MozillaIndia repositories.
+* Create a definite pathway for getting motivated, learning & contributing to MozillaIndia repositories.
 * Create a badge creator that allows one to host created badges on github.
 * Anything that strikes when going through other things.
 
@@ -92,7 +92,3 @@ Explore
 * [Design Thinking](https://github.com/mozilla/mozfest-program/issues/506)
 * [Cynefin game](https://github.com/mozilla/mozfest-program/issues/428)
 *  Atlantis. (Figure out where to download this)
-
-
-## Online Experiences I will Create Afterwards
-* A definite pathway for getting motivated, learning & contributing to MozillaIndia repositories.
