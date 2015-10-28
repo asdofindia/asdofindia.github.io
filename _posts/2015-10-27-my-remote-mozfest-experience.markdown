@@ -56,7 +56,9 @@ With these, **I hope to**
 
 ## Experiences
 
-* Five experiences you promise to yourself for Mozfest.  Some suggestions should have been covered in coaching.
+* Create a definite pathway for learning & contributing to MozillaIndia repositories.
+* Create a badge creator that allows one to host created badges on github.
+* Anything that strikes when going through other things.
 
 ## Conversations
 Conversations I should have before MozFest
