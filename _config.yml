@@ -1,4 +1,6 @@
 name: Akshay S Dinesh
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 permalink: :title/
+kramdown:
+    input: GFM

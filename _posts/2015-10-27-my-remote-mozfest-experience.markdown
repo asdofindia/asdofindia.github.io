@@ -10,11 +10,12 @@ categories: mozilla
 
 *This is an experimental design. I believe in open learning and that any knowledge that exists can be attained through the Web. Fortunately, I have got a chance to test it against knowledge obtained through an intense experience like that of MozFest*
 
-*Most of these experiences depend on the corresponding session in MozFest. But since there'd be too much going on in MozFest for anyone to facilitate remote participation, many experiences will be experienced **after** MozFest by catching up with participants. I'll try to design alternatives to sessions wherever possible.*
+*Most of these experiences depend on the corresponding session in MozFest. But since there'd be too much going on in MozFest for anyone to facilitate remote participation, many experiences will be experienced* ***after*** *MozFest by catching up with participants. I'll try to design alternatives to sessions wherever possible.*
 
 ## Primary Pathway
 
 The pathway that resonates with my personal goals the most is **scaling participatory learning experiences**. I want to figure out ways to best engage learners and tools that allow them to create experiences for others. The following things must be explored:
+
 * Getting down with github
  * Find out what resources are available on github (issues, labels, geojson, milestones, checklists, etc.)
  * Think of creative remixing of the above features in ways nobody ever has (like participation team did).
@@ -34,6 +35,7 @@ The pathway that resonates with my personal goals the most is **scaling particip
  * Can we host some badges on MozillaIndia repo? Can we make people collect them?
 
 With these, **I hope to**
+
 * learn how to motivate and engage learners and lead them to become contributors
 * create an awesome list for learning topics
 
@@ -45,6 +47,7 @@ With these, **I hope to**
 
 
 ## Post-event Blogposts I'm Looking Forward To
+
 * [Scaling the leading & learning program](https://github.com/mozilla/mozfest-program/issues/606)
 * New technologies for participation & demo
 * [Digital Literacy in the World of Accelerating Returns](https://github.com/mozilla/mozfest-program/issues/217)
@@ -52,13 +55,16 @@ With these, **I hope to**
 * [Use your skill to change the world](https://github.com/mozilla/mozfest-program/issues/467) : Can the "interactive stories" stuff be used in learning? Interactive learning. How?
 
 ## Experiences
+
 * Five experiences you promise to yourself for Mozfest.  Some suggestions should have been covered in coaching.
 
 ## Conversations
 Conversations I should have before MozFest
+
 * Emma Irwin: My ideas about scaling the leading & learning program and  tech speakers program
 
 Conversations I should have after MozFest
+
 * Personal, with all participation leaders from India who attended: about the various things they learned.
 
 ## Making Up for Things I will Miss Out
@@ -73,12 +79,14 @@ There are multiple sessions that are specifically targeted at participation lead
 * Participation leaders specific track
 
 ### Also
+
 * Opening keynote
 * Lightning talks
 
 
 ## Since I have all the Time
 Explore
+
 * [Design Thinking](https://github.com/mozilla/mozfest-program/issues/506)
 * [Cynefin game](https://github.com/mozilla/mozfest-program/issues/428)
 *  Atlantis. (Figure out where to download this)
