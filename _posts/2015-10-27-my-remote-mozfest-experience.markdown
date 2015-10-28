@@ -8,7 +8,7 @@ categories: mozilla
 
 *What I commit to for Mozfest.  This experience will help me move closer to my 2016 goals for empowering contributors and facilitating quick learning.*
 
-*This is an experimental design. I believe in open learning and that any knowledge that exists can be attained through the Web. Fortunately, I have got a chance to test it against knowledge obtained through an intense experience like that of MozFest*
+*This is an experiment. I believe in open learning and that any knowledge that exists can be attained through the Web. Fortunately, I have got a chance to test that theory against knowledge obtained through an intense experience like that of MozFest*
 
 *Most of these experiences depend on the corresponding session in MozFest. But since there'd be too much going on in MozFest for anyone to facilitate remote participation, many experiences will be experienced* ***after*** *MozFest by catching up with participants. I'll try to design alternatives to sessions wherever possible.*
 
