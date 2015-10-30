@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Grambot"
+categories: mozilla, telegram
+---
+
+Grambot (@gram_bot) is the Telegram <=> IRC integration bot that I made for Mozilla India policy and advocacy task force. It was later used for various other groups too.
+
+## What is Grambot?
+
+Grambot is a node.js program that runs on an openshift server and connects to both Telegram (using the [bots api](https://telegram.org/blog/bot-revolution)) and IRC (using the IRC protocol).
+
+You can see the source code of an earlier version [here](https://github.com/asdofindia/node-telegrambot).
+
+It is running as `@gram_bot` on Telegram and as `grambot` on Mozilla IRC.
+
+## What does Grambot do?
+
+It does a lot of things. But the primary job it serves is,
+
+* Listen to conversations in Telegram groups it is added to and IRC channels it is configured to join
+* The configuration file is a two-way, 1:1 mapping of Telegram group <-> IRC channel.
+* When it receives a message in a Telegram group, if an IRC channel is configured for the group, it sends that message to the IRC channel. The message is prefixed with the Telegram username of the sender (or the first name, if the sender doesn't have a username)
+* When it receives a message in an IRC channel, if a Telegram group is configured for the group, it sends that message to the Telegram group. The message is prefixed with the IRC nick of the sender.
+* Grambot makes conversations open to everyone.
+
+It also has some extra features which should not be used in groups.
+
+## What does Grambot not do?
+
+* Grambot doesn't spam groups. It only sends messages across from IRC to Telegram and vice versa.
+* Some Telegram clients make words starting with "/" clickable if a bot is in the group. And if a user clicks on these it is sent to the chat automatically. There is nothing Grambot can do to prevent this. (If there's let [@akshay](https://telegram.me/akshay) know)
+* Grambot doesn't kill conversations.
+
+## Why was Grambot created?
+
+Telegram is a great messaging tool. But Telegram isn't completely FOSS. Also, Telegram requires a phone number for signing up. Not everyone can be on Telegram. But IRC is FOSS. And IRC doesn't require a phone number to sign up. So some people who can't be on Telegram can be on IRC.
+
+More importantly, anyone can join any public IRC channels. One doesn't have to be an Indian to join #india. They can join and leave as they wish. But Telegram groups aren't like that. You don't get added to a Telegram group which you don't belong to. So Telegram makes conversations very difficult to passively listen to.
+
+Grambot wants to solve that. It makes it convenient for people on Telegram to continue doing whatever they were doing. Then, it gives an option for everyone else to listen to what happens in the Telegram group.
+
+It makes conversations open.
+
+And at Mozilla, we believe in openness.
