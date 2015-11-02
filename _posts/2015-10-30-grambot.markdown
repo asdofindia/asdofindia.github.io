@@ -12,7 +12,7 @@ Grambot is a node.js program that runs on an openshift server and connects to bo
 
 You can see the source code of an earlier version [here](https://github.com/asdofindia/node-telegrambot).
 
-It is running as `@gram_bot` on Telegram and as `grambot` on Mozilla IRC.
+It is running as `@gram_bot` on Telegram and as ~~`grambot`~~ `TelegramUser` on Mozilla IRC.
 
 ## What does Grambot do?
 
