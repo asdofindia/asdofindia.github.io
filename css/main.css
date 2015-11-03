@@ -133,7 +133,7 @@ a:visited { color: #a0a; }
 }
 
 .post ul, .post ol {
-  margin-left: 1.35em;
+  margin-left: 0.25em;
 }
 
 .post code {
@@ -147,12 +147,13 @@ a:visited { color: #a0a; }
 }
 
 /* terminal */
-.post pre.terminal {
+.post pre {
   border: 1px solid #000;
   background-color: #333;
   color: #FFF;
+  overflow-x: auto;
 }
 
-.post pre.terminal code {
+.post pre code {
   background-color: #333;
 }

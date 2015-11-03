@@ -1,7 +1,5 @@
 name: Akshay S Dinesh
-markdown: kramdown
+markdown: redcarpet
 highlighter: pygments
 permalink: :title/
-kramdown:
-    input: GFM
 url: http://asd.learnlearn.in
