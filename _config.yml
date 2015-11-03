@@ -4,3 +4,4 @@ highlighter: pygments
 permalink: :title/
 kramdown:
     input: GFM
+url: http://asd.learnlearn.in
