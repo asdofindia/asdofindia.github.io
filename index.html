@@ -10,7 +10,38 @@ scripts: ["jquery-2.1.4.min", "mousetrap.min", "main"]
   <articles>
   <ul class="articles posts">
     {% for post in paginator.posts %}
-      <li class="post"><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a><br>{{post.excerpt | strip_html }} <a href="{{ post.url }}" class="readMore">Read more</a></li>
+      <li class="post">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+          <br>
+          <span>
+          {% assign postDate = post.date | date: "%s" %}
+          {% assign dateDiff = 'now' | date: "%s" | minus:postDate %}
+          {% if dateDiff < 60 %}
+          {{ dateDiff }} second(s) back
+          {% elsif dateDiff < 3600 %}
+          {{ dateDiff | divided_by:60 }} minute(s) back
+          {% elsif dateDiff < 86400 %}
+          {{ dateDiff | divided_by:3600 }} hour(s) back
+          {% elsif dateDiff < 345600 %}
+          {{ dateDiff | divided_by:86400 }} day(s) back
+          {% elsif dateDiff < 518400 %}
+          almost a week back
+          {% elsif dateDiff < 864000 %}
+          one week back
+          {% elsif dateDiff < 1209600 %}
+          two weeks back
+          {% elsif dateDiff < 2592000 %}
+          a month back
+          {% elsif dateDiff < 31536000 %}
+          {{ dateDiff | divided_by:2592000 }} month(s) back
+          {% else %}
+          {{ post.date | date: "%a, %b %d '%y at %I:%M %p" }}
+          {% endif %}
+          </span>
+          <br>
+          {{post.excerpt | strip_html }}
+          <a href="{{ post.url }}" class="readMore">Read more</a>
+      </li>
     {% endfor %}
   </ul>
   </articles>
