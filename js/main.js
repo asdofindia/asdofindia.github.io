@@ -30,6 +30,7 @@
     function fetchPost(context) {
         context.load(context.find(".readMore").attr("href") + " article", function(){
             highlightPost(context);
+            context.off('click', postClickListener);
         });
     }
 
@@ -63,6 +64,7 @@
             highlightPost($(".post:last"));
             currPost = $(".post").length;
         } else {
+
             highlightPost($( ".post.highlightedPost" ).prev());
             currPost = currPost - 1;
         }
@@ -78,16 +80,17 @@
     Mousetrap.bind('l', function(){
 
     });
+    function postClickListener(e){
+        e.preventDefault();
+        fetchPost($(this));
+    }
 
     function loadPostLoaders(){
         $(".readMore").on('click', function(e){
             e.preventDefault();
             fetchPost($(this).parent(".post"));
         });
-        $(".post").on('click', function(e){
-            e.preventDefault();
-            fetchPost($(this));
-        })
+        $(".post").on('click', postClickListener);
     }
 
     function init(){
