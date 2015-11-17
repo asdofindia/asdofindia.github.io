@@ -36,7 +36,6 @@
     function highlightPost(context) {
         $( ".post.highlightedPost").removeClass("highlightedPost");
         if (context.length){
-            console.log(context);
             context.addClass("highlightedPost");
             var scrollHeight = context.offset().top;
             $(document).scrollTop(scrollHeight);
