@@ -183,4 +183,8 @@ a.loadMore {
 
 .post {
     padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: inset 0 0 10px #efefef, 0 0 10px #efefef;
+    margin: 10px;
 }

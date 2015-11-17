@@ -28,8 +28,9 @@
     });
 
     function fetchPost(context) {
-        context.load(context.find(".readMore").attr("href") + " article");
-        highlightPost(context);
+        context.load(context.find(".readMore").attr("href") + " article", function(){
+            highlightPost(context);
+        });
     }
 
     function highlightPost(context) {
@@ -51,13 +52,21 @@
         } else {
             if (moreExists){
                 fetchMore(currPageNum + 1);
+            } else {
+                currPost = 1;
+                highlightPost($(".post:first"));
             }
         }
     }
 
     function highlightPrev() {
-        highlightPost($( ".post.highlightedPost").prev());
-        currPost = currPost - 1;
+        if (!$(".post.highlightedPost").length){
+            highlightPost($(".post:last"));
+            currPost = $(".post").length;
+        } else {
+            highlightPost($( ".post.highlightedPost" ).prev());
+            currPost = currPost - 1;
+        }
     }
 
     Mousetrap.bind('j', function() { highlightNext(); });
@@ -76,6 +85,10 @@
             e.preventDefault();
             fetchPost($(this).parent(".post"));
         });
+        $(".post").on('click', function(e){
+            e.preventDefault();
+            fetchPost($(this));
+        })
     }
 
     function init(){
