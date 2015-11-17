@@ -8,11 +8,30 @@
 
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
-
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
-
         <link href='http://asd.learnlearn.in/feed.atom' rel='alternate' type='application/atom+xml'>
+
+        <!-- Social media -->
+        <link rel="canonical" href="http://asd.learnlearn.in{{ page.url }}" />
+        <meta name="title" content="{{ page.title }}" />
+        <meta name="description" content="{{ page.excerpt | strip_html }}" />
+
+        <meta property="og:title" content="{{ page.title }}" />
+        <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
+        <!-- <meta property="og:image" content="img/demo.jpg" /> -->
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="http://asd.learnlearn.in{{ page.url }}" />
+
+        <!-- Twitter Card data -->
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@asdofindia" />
+        <meta name="twitter:title" content="{{ page.title }}" />
+        <meta name="twitter:description" content="{{ page.excerpt | strip_html }}" />
+        <meta name="twitter:creator" content="@asdofindia">
+        <!-- Twitter summary card with large image must be at least 280x150px -->
+        <!-- <meta name="twitter:image:src" content="img/demo.jpg" /> -->
+
 
     </head>
     <body>
