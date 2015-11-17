@@ -2,7 +2,7 @@
     var currPageNum = 1;
     var moreExists = true;
     var currPost = 1;
-    var postsPerPage = 2;
+    var postsPerPage = 5;
 
     function fetchMore(pageNum) {
         $.get( "archive/" + pageNum + "/index.html", function(data){
