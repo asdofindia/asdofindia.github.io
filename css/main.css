@@ -26,16 +26,22 @@ a:visited { color: #a0a; }
 /* Home
 /*
 /*****************************************************************************/
-.posts {
+/*articles {
   list-style-type: none;
   margin-bottom: 2em;
+}*/
+
+articles > ul {
+  padding-left: 5px;
 }
 
-.posts li {
+articles > ul > li {
+  list-style-type: none;
   line-height: 1.75em;
+  padding-bottom: 20px;
 }
 
-.posts span {
+articles span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
@@ -126,34 +132,55 @@ a:visited { color: #a0a; }
 /*****************************************************************************/
 
 /* standard */
-.post pre {
+article pre {
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .4em;
 }
 
-.post ul, .post ol {
+article ul, article ol {
   margin-left: 0.25em;
 }
 
-.post code {
+article code {
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .2em;
 }
 
-.post pre code {
+article pre code {
   border: none;
 }
 
 /* terminal */
-.post pre {
+article pre {
   border: 1px solid #000;
   background-color: #333;
   color: #FFF;
   overflow-x: auto;
 }
 
-.post pre code {
+article pre code {
   background-color: #333;
+}
+
+
+/* posts on homepage */
+
+.post.highlightedPost {
+    background-color: #efefef;
+}
+
+a.loadMore {
+    display: block;
+    width: 50%;
+    margin: 10px auto 10px;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.post {
+    padding: 10px;
 }

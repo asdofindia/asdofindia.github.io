@@ -4,5 +4,7 @@ markdown: redcarpet
 highlighter: pygments
 permalink: :title/
 url: http://asd.learnlearn.in
+paginate: 2
+paginate_path: "/archive/:num/"
 redcarpet:
     extensions: ["autolink", "strikethrough"]
