@@ -13,7 +13,7 @@
             $.get( 'archive/' + pageNum + '/index.html', function(data){
                 var morePosts = $('<div>').append($.parseHTML(data));
                 $('.posts').append(morePosts.find('.posts li'));
-                var moreInfo = $(morePosts.find('noscript').html());
+                var moreInfo = $(morePosts.find('noscript').text());
                 pageNum = moreInfo.find('.pageNum').html();
                 currPageNum = +pageNum;
                 var nextExists = moreInfo.find('.next').length;
