@@ -192,3 +192,12 @@ a.loadMore {
 .helpText {
     text-align: center;
 }
+
+.stalePost {
+    cursor: grab;
+}
+
+.stalePost a {
+    text-decoration: none;
+    color: black;
+}
