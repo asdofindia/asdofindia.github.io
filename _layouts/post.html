@@ -6,3 +6,10 @@ layout: default
 <p class="meta">{{ page.date | date: "%a, %b %d '%y at %I:%M %p" }}</p>
 {{ content }}
 </article>
+<hr>
+{% if page.previous %}
+Older post: <a href="{{ page.previous.url }}" class="olderPostLink">{{ page.previous.title }}</a><br>
+{% endif %}
+{% if page.next %}
+Newer post: <a href="{{ page.next.url }}" class="newerPostLink">{{ page.next.title }}</a>
+{% endif %}

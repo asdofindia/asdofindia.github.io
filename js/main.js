@@ -5,6 +5,7 @@
     var currPost = 1;
     var postsPerPage = 5;
     var fetchingMore = false;
+    var pageType = 'home';
 
     function fetchMore(pageNum) {
         if (!fetchingMore) {
@@ -37,11 +38,6 @@
     function hideFetchingAnimation(){
         $('.loadMore').text('Load more posts');
     }
-
-    $('.loadMore').on('click', function(e){
-        e.preventDefault();
-        fetchMore(currPageNum + 1);
-    });
 
     function fetchPost(context) {
         context.load(context.find('.readMore').attr('href') + ' article', function(){
@@ -87,18 +83,6 @@
         }
     }
 
-    /* global Mousetrap:false */
-
-    Mousetrap.bind('j', function() { highlightNext(); });
-    Mousetrap.bind('k', function() { highlightPrev(); });
-    Mousetrap.bind('o', function() {
-        if($('.highlightedPost').length){
-            fetchPost($('.highlightedPost'));
-        }
-    });
-    Mousetrap.bind('l', function(){
-
-    });
     function postClickListener(e){
         e.preventDefault();
         fetchPost($(this));
@@ -138,8 +122,50 @@
         $('.post:not(.stalePost)').addClass('stalePost');
     }
 
-    function init(){
+    function setPageType(){
+        if ($('.olderPostLink').length || $('.newerPostLink').length) {
+            pageType = 'post';
+        }
+    }
+
+    function homeInit(){
         loadPostLoaders();
+        $('.loadMore').on('click', function(e){
+            e.preventDefault();
+            fetchMore(currPageNum + 1);
+        });
+
+        /* global Mousetrap:false */
+
+        Mousetrap.bind('j', function() { highlightNext(); });
+        Mousetrap.bind('k', function() { highlightPrev(); });
+        Mousetrap.bind('o', function() {
+            if($('.highlightedPost').length){
+                fetchPost($('.highlightedPost'));
+            }
+        });
+
+    }
+
+    function moveToPost(direction){
+        var moveToLink = $(direction).attr('href');
+        if (moveToLink) {
+            window.location = moveToLink;
+        }
+    }
+
+    function postInit(){
+        Mousetrap.bind('j', function() { moveToPost('.olderPostLink'); });
+        Mousetrap.bind('k', function() { moveToPost('.newerPostLink'); });
+    }
+
+    function init(){
+        setPageType();
+        if (pageType === 'home'){
+            homeInit();
+        } else if (pageType === 'post') {
+            postInit();
+        }
     }
 
     init();

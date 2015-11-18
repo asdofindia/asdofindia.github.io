@@ -62,9 +62,9 @@
             </div>
           </div>
         </div>
-        {% if page.scripts %}
-        {% for script in page.scripts %}
-        <script src="js/{{ script }}.js" charset="utf-8"></script>
+        {% if site.scripts %}
+        {% for script in site.scripts %}
+        <script src="/js/{{ script }}.js" charset="utf-8"></script>
         {% endfor %}
         {% endif %}
     </body>

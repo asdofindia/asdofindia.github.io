@@ -8,3 +8,4 @@ paginate: 5
 paginate_path: "/archive/:num/"
 redcarpet:
     extensions: ["autolink", "strikethrough"]
+scripts: ["jquery-2.1.4.min", "mousetrap.min", "main"]
