@@ -13,30 +13,8 @@ scripts: ["jquery-2.1.4.min", "mousetrap.min", "main"]
       <li class="post">
           <a href="{{ post.url }}">{{ post.title }}</a>
           <br>
-          <span>
-          {% assign postDate = post.date | date: "%s" %}
-          {% assign dateDiff = 'now' | date: "%s" | minus:postDate %}
-          {% if dateDiff < 60 %}
-          {{ dateDiff }} second(s) back
-          {% elsif dateDiff < 3600 %}
-          {{ dateDiff | divided_by:60 }} minute(s) back
-          {% elsif dateDiff < 86400 %}
-          {{ dateDiff | divided_by:3600 }} hour(s) back
-          {% elsif dateDiff < 345600 %}
-          {{ dateDiff | divided_by:86400 }} day(s) back
-          {% elsif dateDiff < 518400 %}
-          almost a week back
-          {% elsif dateDiff < 864000 %}
-          one week back
-          {% elsif dateDiff < 1209600 %}
-          two weeks back
-          {% elsif dateDiff < 2592000 %}
-          a month back
-          {% elsif dateDiff < 31536000 %}
-          {{ dateDiff | divided_by:2592000 }} month(s) back
-          {% else %}
+          <span class="postDate" data-date="{{ post.date | date: "%s" }}">
           {{ post.date | date: "%a, %b %d '%y at %I:%M %p" }}
-          {% endif %}
           </span>
           <br>
           {{post.excerpt | strip_html }}

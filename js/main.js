@@ -110,6 +110,31 @@
             fetchPost($(this).parent('.post'));
         });
         $('.post:not(.stalePost)').on('click', postClickListener);
+        $('.post:not(.stalePost)').each(function(){
+            var postDate = $(this).find('.postDate').data('date');
+            var dateDiff = new Date().getTime() / 1000 - postDate;
+            var postDateText = $(this).find('.postDate').text();
+            if (dateDiff < 60) {
+                postDateText = Math.floor(dateDiff) + ' second(s) back';
+            } else if (dateDiff < 3600) {
+                postDateText = Math.floor(dateDiff / 60) + ' minute(s) back';
+            } else if (dateDiff < 86400) {
+                postDateText = Math.floor(dateDiff / 3600) + ' hour(s) back';
+            } else if (dateDiff < 345600) {
+                postDateText = Math.floor(dateDiff / 86400) + ' day(s) back';
+            } else if (dateDiff < 518400) {
+                postDateText = 'almost a week back';
+            } else if (dateDiff < 864000) {
+                postDateText = 'one week back';
+            } else if (dateDiff < 1209600) {
+                postDateText = 'two weeks back';
+            } else if (dateDiff < 2592000) {
+                postDateText = 'a month back';
+            } else if (dateDiff < 31536000) {
+                postDateText = Math.floor(dateDiff / 2592000) + ' month(s) back';
+            }
+            $(this).find('.postDate').text(postDateText);
+        });
         $('.post:not(.stalePost)').addClass('stalePost');
     }
 
