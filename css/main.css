@@ -55,7 +55,7 @@ articles span {
 
 .site {
   font-size: 115%;
-  text-align: justify;
+  text-align: left;
   width: 90%;
   margin: 3em auto 2em;
   line-height: 1.5em;
@@ -67,7 +67,7 @@ articles span {
   }
 }
 
-.header a {
+.header a, article > h2 > a {
   font-weight: bold;
   text-decoration: none;
 }
@@ -132,6 +132,10 @@ articles span {
 /*****************************************************************************/
 
 /* standard */
+article a {
+    text-decoration: none;
+}
+
 article pre {
   border: 1px solid #ddd;
   background-color: #eef;

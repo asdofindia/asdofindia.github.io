@@ -2,14 +2,14 @@
 layout: default
 ---
 <article>
-<h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+<h2><a class="permalink" href="{{ page.url }}">{{ page.title }}</a></h2>
 <p class="meta">{{ page.date | date: "%a, %b %d '%y at %I:%M %p" }}</p>
 {{ content }}
 </article>
 <hr>
-{% if page.previous %}
-Older post: <a href="{{ page.previous.url }}" class="olderPostLink">{{ page.previous.title }}</a><br>
-{% endif %}
 {% if page.next %}
-Newer post: <a href="{{ page.next.url }}" class="newerPostLink">{{ page.next.title }}</a>
+Newer post: <a href="{{ page.next.url }}" class="newerPostLink">{{ page.next.title }}</a> (press 'k')<br>
+{% endif %}
+{% if page.previous %}
+Older post: <a href="{{ page.previous.url }}" class="olderPostLink">{{ page.previous.title }}</a> (press 'j')
 {% endif %}
