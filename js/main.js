@@ -70,7 +70,7 @@
     }
 
     function generateShareElement(shareButtons){
-        var shareElement = $('<div>').text('Share: ');
+        var shareElement = $('<div class="shareButtons">').text('Share: ');
         for (var button in shareButtons) {
             if (shareButtons.hasOwnProperty(button)) {
                 shareElement.append($('<a>').text(button).attr('href', shareButtons[button]));
