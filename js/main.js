@@ -44,7 +44,46 @@
             highlightPost(context);
             context.off('click', postClickListener);
             context.removeClass('stalePost');
+            var thisPostUrl = context.find('.permalink').attr('href');
+            context.find('article').append(generateShare(thisPostUrl));
         });
+    }
+
+    function generateShare(href) {
+        return generateShareElement(getShareButtons(href));
+    }
+
+    function getShareButtons(href) {
+        if (stringStartsWith(href, '/')) {
+            href = 'http://asd.learnlearn.in' + href;
+        }
+        return {
+            permalink: href,
+            diaspora: 'https://sharetodiaspora.github.io/?url=' + href,
+            twitter: 'https://twitter.com/intent/tweet?url=' + href,
+            facebook: 'https://www.facebook.com/sharer/sharer.php?u=' + href,
+            google: 'https://plus.google.com/share?url=' + href,
+            email: 'mailto:?body=' + href,
+            telegram: 'tg://msg?text=' + href,
+            whatsapp: 'whatsapp://send?text=' + href
+        };
+    }
+
+    function generateShareElement(shareButtons){
+        var shareElement = $('<div>').text('Share: ');
+        for (var button in shareButtons) {
+            if (shareButtons.hasOwnProperty(button)) {
+                shareElement.append($('<a>').text(button).attr('href', shareButtons[button]));
+                if (button !== 'whatsapp') {
+                    shareElement.append(' | ');
+                }
+            }
+        }
+        return shareElement;
+    }
+
+    function stringStartsWith (string, prefix) {
+        return string.slice(0, prefix.length) == prefix;
     }
 
     function highlightPost(context) {
@@ -165,6 +204,11 @@
         }
     }
 
+    function addShareButtonsToPost(){
+        var thisPostUrl = $('a.permalink').attr('href');
+        $('.postFooter').prepend(generateShare(thisPostUrl));
+    }
+
     function postInit(){
         Mousetrap.bind('j', function() { moveToPost('.olderPostLink'); });
         Mousetrap.bind('k', function() { moveToPost('.newerPostLink'); });
@@ -175,6 +219,7 @@
                 window.location = '/';
             }
         });
+        addShareButtonsToPost();
     }
 
     function init(){
