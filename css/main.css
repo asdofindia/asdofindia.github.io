@@ -67,7 +67,11 @@ articles span {
   }
 }
 
-.header a, article > h2 > a {
+.site a {
+    text-decoration: none;
+}
+
+.header a {
   font-weight: bold;
   text-decoration: none;
 }
