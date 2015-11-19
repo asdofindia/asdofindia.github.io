@@ -61,9 +61,17 @@ articles span {
   line-height: 1.5em;
 }
 
+.site img {
+    width: 90%;
+    margin: 0 auto;
+}
+
 @media (min-width: 45em) {
   .site {
     width: 42em;
+  }
+  .site img {
+     max-width: 40em;
   }
 }
 
