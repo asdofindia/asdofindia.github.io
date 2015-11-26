@@ -73,7 +73,7 @@
         var shareElement = $('<div class="shareButtons">').text('Share: ');
         for (var button in shareButtons) {
             if (shareButtons.hasOwnProperty(button)) {
-                shareElement.append($('<a>').text(button).attr('href', shareButtons[button]));
+                shareElement.append($('<a target="_blank">').text(button).attr('href', shareButtons[button]));
                 if (button !== 'whatsapp') {
                     shareElement.append(' | ');
                 }
