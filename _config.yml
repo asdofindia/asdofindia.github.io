@@ -7,5 +7,5 @@ url: http://asd.learnlearn.in
 paginate: 5
 paginate_path: "/archive/:num/"
 redcarpet:
-    extensions: ["autolink", "strikethrough", "with_toc_data"]
+    extensions: ["autolink", "footnotes", "strikethrough", "with_toc_data"]
 scripts: ["jquery-2.1.4.min", "mousetrap.min", "main"]
