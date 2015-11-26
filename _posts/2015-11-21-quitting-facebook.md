@@ -2,7 +2,7 @@
 layout: post
 title: Quitting Facebook
 date: 2015-11-21 01:03:21 +0530
-categories:
+categories: social
 ---
 I [permanently deleted](https://www.facebook.com/help/224562897555674/) my Facebook account like a few days back. It's scheduled to be deleted from their server on 23rd, but I'm not sure they'll delete my data.
 
