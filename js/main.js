@@ -64,7 +64,7 @@
             facebook: 'https://www.facebook.com/sharer/sharer.php?u=' + href,
             google: 'https://plus.google.com/share?url=' + href,
             email: 'mailto:?body=' + href,
-            telegram: 'tg://msg?text=' + href,
+            telegram: 'https://telegram.me/share/url?url=' + href,
             whatsapp: 'whatsapp://send?text=' + href
         };
     }
