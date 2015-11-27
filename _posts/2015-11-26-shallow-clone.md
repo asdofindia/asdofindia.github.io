@@ -12,7 +12,7 @@ There's no way I can complete a git clone without broken pipes.
 
 That's where `--depth` comes in.
 
-I do `git clone mozilla-b2g/gaia --depth=1` and the download now is a manageable size. It still took more than I can remember, but manageable.
+I do `git clone mozilla-b2g/gaia --depth=1` and the download now is a manageable size. It still took more time than I can remember, but manageable.
 
 Now, how do I stay in sync with upstream? How do I fetch older commits?
 
@@ -26,7 +26,7 @@ Well, one thing that sucks is you can't just `git merge` them.
 
 You've to `git reset --hard upstream/master`
 
-And you'll lost the commits in the old branch too.
+And you'll lose the commits in the old branch too.
 
 ---
 
@@ -38,11 +38,11 @@ I was indeed able to run mulet at the end of it. And there was gaia running on m
 
 But during npm install there was an error at marionette-js-runner.
 
-The script does a ``which python`` to decide the python binary to use. On ArchLinux, the binary is python3.
+The script does a `` `which python` `` to decide the python binary to use. On ArchLinux, the binary is python3.
 
 But the tasks that marionette runs requires python to be 2.
 
-And then no matter what I do, I couldn't get ``which python`` to be /usr/bin/python2
+And then no matter what I do, I couldn't get `` `which python` `` to be /usr/bin/python2
 
 And I was so fatigued that I quit.
 
