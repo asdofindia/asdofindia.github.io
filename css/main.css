@@ -144,6 +144,10 @@ articles span {
 /*****************************************************************************/
 
 /* standard */
+article {
+    font-size: 18px;
+}
+
 article a {
     text-decoration: none;
 }
