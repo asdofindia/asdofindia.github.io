@@ -9,3 +9,4 @@ paginate_path: "/archive/:num/"
 redcarpet:
     extensions: ["autolink", "footnotes", "strikethrough", "with_toc_data"]
 scripts: ["jquery-2.1.4.min", "mousetrap.min", "main"]
+gems: [jekyll-paginate]
