@@ -146,6 +146,7 @@ articles span {
 /* standard */
 article {
     font-size: 18px;
+    line-height: 2;
 }
 
 article a {
