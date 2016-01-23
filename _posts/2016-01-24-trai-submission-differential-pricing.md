@@ -117,12 +117,17 @@ With the unprecedented number of people who came out in support of net neutralit
 Affiliation disclosure: I am also a volunteer of the savetheinternet movement but I am making this submission of my own volition.
 
 Akshay S Dinesh
+
 Mysore Medical College,
+
 Mysore
 
 Links:
+
 Google antitrust lawsuits:
+
 US: http://arstechnica.com/tech-policy/2011/03/googles-expanding-influence-sparks-call-for-antitrust-hearings/
+
 Europe: http://latimesblogs.latimes.com/technology/2010/02/google-europe-antitrust.html
 
 Facebook censorship: http://www.huffingtonpost.com/news/facebook-censorship/
