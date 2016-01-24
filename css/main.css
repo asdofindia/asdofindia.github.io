@@ -59,6 +59,7 @@ articles span {
   width: 90%;
   margin: 3em auto 2em;
   line-height: 1.5em;
+  word-wrap: break-word;
 }
 
 .site img {
