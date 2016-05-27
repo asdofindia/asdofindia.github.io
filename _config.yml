@@ -1,7 +1,6 @@
 name: Akshay S Dinesh
 shortname: ASD
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
 permalink: :title/
 url: http://asd.learnlearn.in
 paginate: 5
