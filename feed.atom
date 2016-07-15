@@ -17,8 +17,8 @@
     {% for post in site.posts limit:20 %}
     <entry>
         <title>{{ post.title }}</title>
-        {% if post.externalLink %}
-        <link href="{{ post.externalLink }}"/>
+        {% if post.link %}
+        <link href="{{ post.link }}"/>
         {% else %}
         <link href="{{ site.url }}{{ post.url }}" rel="alternate" type="text/html"/>
         {% endif %}

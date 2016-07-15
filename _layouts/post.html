@@ -5,6 +5,9 @@ layout: default
 <h2><a class="permalink" href="{{ page.url }}">{{ page.title }}</a></h2>
 <p class="meta">{{ page.date | date: "%a, %b %d '%y at %I:%M %p" }}</p>
 {{ content }}
+{% if page.link %}
+<a href="{{ page.link }}" class="linkButton">Read the original post</a><br><br>
+{% endif %}
 </article>
 <hr>
 <aside class="postFooter">

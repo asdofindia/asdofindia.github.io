@@ -223,3 +223,9 @@ a.loadMore {
     text-decoration: none;
     color: black;
 }
+
+.linkButton {
+    border: 1px solid blue;
+    border-radius: 5px;
+    padding: 5px;
+}
