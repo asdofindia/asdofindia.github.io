@@ -16,13 +16,13 @@
     </generator>
     {% for post in site.posts limit:20 %}
     <entry>
-        <title>{{ post.title }}</title>
+        <title>{{ post.title | xml_escape }}</title>
         {% if post.link %}
-        <link href="{{ post.link }}"/>
+        <link href="{{ post.link | xml_escape }}" rel="alternate" type="text/html"/>
         {% else %}
-        <link href="{{ site.url }}{{ post.url }}" rel="alternate" type="text/html"/>
+        <link href="{{ site.url }}{{ post.url | xml_escape }}" rel="alternate" type="text/html"/>
         {% endif %}
-        <id>{{ site.url }}{{ post.url }}</id>
+        <id>{{ site.url }}{{ post.url | xml_escape }}</id>
         <updated>{{ post.date | date_to_xmlschema }}</updated>
         <author>
             <name>Akshay S Dinesh</name>
@@ -31,6 +31,9 @@
         </author>
         <content type="html">
             {{ post.content | xml_escape }}
+            {% if post.link %}
+            &lt;a href=&quot;{{ post.link | xml_escape }}&quot;&gt;Read the linked post&lt;/a&gt;
+            {% endif %}
         </content>
     </entry>
     {% endfor %}
