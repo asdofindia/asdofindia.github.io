@@ -7,13 +7,13 @@ categories: mozilla
 
 ##### Mozilla India underwent a restructure in Mozilla India Meetup 2016. What's the new structure? Will it be any good? What are the new challenges that face Mozilla India in this regard? #####
 
-Thanks to George there was [an impetus to refresh Mozilla India](https://discourse.mozilla-community.org/t/mozilla-india-community-refresh-a-take-from-george-discussion/9074) to a state where it isn't broken. The refresh was set to happen in a community meetup. This meetup happened on 26-28 August in Pune. Before the meetup, there was a meta (planning) meetup in Pune to figure out how the meetup should be. In the planning meetup people were divided into teams that focused on various parts of the meetup.
+Thanks to George there was [an impetus to refresh Mozilla India](https://discourse.mozilla-community.org/t/mozilla-india-community-refresh-a-take-from-george-discussion/9074?u=asdofindia) to a state where it isn't broken. The refresh was set to happen in a community meetup. This meetup happened on 26-28 August in Pune. Before the meetup, there was a meta (planning) meetup in Pune to figure out how the meetup should be. In the planning meetup people were divided into teams that focused on various parts of the meetup.
 
 One of the teams was the strategy/structure options team. (There's an interesting back story to how this team was formed instead of just deciding a structure within the planning meetup. [Ping me](/about/#contact) in private to listen to that). The role of this team was to come up with various possible structures for Mozilla India through an open consultation with the community (TRAI made this a fashion) and consolidate those into one nice and neat structure that hopefully works.
 
-So, there was a [call for proposals](https://discourse.mozilla-community.org/t/call-for-proposal-mozilla-india-community-restructure/9833) and [a reminder](https://discourse.mozilla-community.org/t/applications-for-a-restructured-taskforce-model-close-on-31st/9980/). And there were a total of 10 (decimal number) proposals submitted which were put in [a google drive folder](https://drive.google.com/open?id=0BwDg_0rFagbyX3NuZFFNTzc3OUE) and left for [scrutiny by community](https://discourse.mozilla-community.org/t/mozin-restructure-call-for-comments-on-proposals/10161).
+So, there was a [call for proposals](https://discourse.mozilla-community.org/t/call-for-proposal-mozilla-india-community-restructure/9833?u=asdofindia) and [a reminder](https://discourse.mozilla-community.org/t/applications-for-a-restructured-taskforce-model-close-on-31st/9980?u=asdofindia). And there were a total of 10 (decimal number) proposals submitted which were put in [a google drive folder](https://drive.google.com/open?id=0BwDg_0rFagbyX3NuZFFNTzc3OUE) and left for [scrutiny by community](https://discourse.mozilla-community.org/t/mozin-restructure-call-for-comments-on-proposals/10161?u=asdofindia).
 
-Kaustav and I were added to the strategy group for being valuable in this process. (It was decided in the planning meetup itself that two additional slots of the strategy group would be filled in this fashion. The others in the group were selected by drawing names (Deb, Vnisha, Prathamesh, Vineel), or because they absolutely had to be in the team (George)). So, the 7 of us had a lot of video calls and chats (just days before time ran out and the meetup started). The ideas from various proposals were [summed up](https://discourse.mozilla-community.org/t/updated-evaluating-the-comments-and-integrating-the-response-by-mozin-restructure-and-strategy-workgroup/10365).
+Kaustav and I were added to the strategy group for being valuable in this process. (It was decided in the planning meetup itself that two additional slots of the strategy group would be filled in this fashion. The others in the group were selected by drawing names (Deb, Vnisha, Prathamesh, Vineel), or because they absolutely had to be in the team (George)). So, the 7 of us had a lot of video calls and chats (just days before time ran out and the meetup started). The ideas from various proposals were [summed up](https://discourse.mozilla-community.org/t/updated-evaluating-the-comments-and-integrating-the-response-by-mozin-restructure-and-strategy-workgroup/10365?u=asdofindia).
 
 Just a couple of days before the meetup, we decided to split up so that we didn't run out of time. Deb, Kaustav, and I worked on drafting the integrated draft proposal. Vnisha, Prathamesh, and George on orchestration of the sessions introducing the proposal. [This etherpad](https://public.etherpad-mozilla.org/p/r.b436dc93dd3f74f5926e54a9d2206174) shows that. Towards the end of the pad you can also read the rough draft we built starting that night.
 
@@ -21,7 +21,7 @@ By next day, there was a [Google Doc with the draft proposal](https://docs.googl
 
 ## Day 1 of meetup ##
 
-Thanks to Jafar, Tripad, and Kaustav, and I don't know who else, there was live-streaming of almost all parts of the meetup. [Links to videos here](https://discourse.mozilla-community.org/t/mozilla-india-meetup-2016-relive/10560).
+Thanks to Jafar, Tripad, and Kaustav, and I don't know who else, there was live-streaming of almost all parts of the meetup. [Links to videos here](https://discourse.mozilla-community.org/t/mozilla-india-meetup-2016-relive/10560?u=asdofindia).
 
 The proposal was introduced on day 1 in the morning itself and questions were asked and comments were made and clarifications were sought and given and so on.
 
@@ -97,3 +97,5 @@ Kaustav took the initiative in converting the structure proposal from Google doc
 Various functional and focus teams have already started talking. [View or modify the list here](https://public.etherpad-mozilla.org/p/MinMteams). If you do not see in this list the team you are interested in, make some noise and get it added.
 
 As for the provisional meta team, we haven't yet started working together as the provisional meta team and we hope to soon.
+
+If you have any questions or comments, please add them to [this discourse topic](https://discourse.mozilla-community.org/t/mozilla-india-restructure-whats-next/10761?u=asdofindia).
