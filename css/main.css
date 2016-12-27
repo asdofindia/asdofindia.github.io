@@ -9,7 +9,11 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
+  color: #212121;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: 0.02em;
+  font: 13.34px "Helvetica Neue", "Calibri Light", Roboto, sans-serif;
   font-size: small;
   text-align: center;
 }
