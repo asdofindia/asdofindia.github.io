@@ -17,7 +17,7 @@ If you want a more secure way to communicate, here is [my public key](//learnlea
 
 Key fingerprint = 2314 289E 1800 11C3 821D  6E82 E19A FA78 DCE1 E3DC
 
-gpg --recv-keys 0xDCE1E3DC
+`gpg --recv-keys 0xE19AFA78DCE1E3DC`
 
 Download my pgp public key: [akshay.asc](//learnlearn.in/akshay.asc) or [just look at it](//learnlearn.in/my-pgp-key/)
 
