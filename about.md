@@ -9,7 +9,7 @@ I'm Akshay S Dinesh (asd). I live in the Internet. I love learning. I am (almost
 ## Contact ##
 
 I love hearing from you. Please, please, send me a message.
-There are multiple ways to contact me. The easiest is to send me a message on telegram messenger by clicking here: [telegram.me/akshay](https://telegram.me/akshay)
+There are multiple ways to contact me. The easiest is to send me a message on telegram messenger by clicking here: [t.me/akshay](https://t.me/akshay)
 
 You can send me an email too to [akshay@learnlearn.in](mailto:akshay@learnlearn.in) or [akshay@autistici.org](mailto:akshay@autistici.org)
 
