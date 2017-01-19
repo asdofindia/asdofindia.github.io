@@ -61,12 +61,12 @@
         return {
             permalink: href,
             diaspora: 'https://sharetodiaspora.github.io/?url=' + href + '&title=' + title,
-            twitter: 'https://twitter.com/intent/tweet?url=' + href,
+            twitter: 'https://twitter.com/intent/tweet?url=' + href + '&via=asdofindia' + '&text=' + encodeURIComponent(title),
             facebook: 'https://www.facebook.com/sharer/sharer.php?u=' + href,
             google: 'https://plus.google.com/share?url=' + href,
-            email: 'mailto:?body=' + href,
-            telegram: 'https://telegram.me/share/url?url=' + href,
-            whatsapp: 'whatsapp://send?text=' + href
+            email: 'mailto:?subject=' + title + '&body=' + href,
+            telegram: 'https://telegram.me/share/url?url=' + href + '&text=' + title,
+            whatsapp: 'whatsapp://send?text=' + title + ' ' + href
         };
     }
 
