@@ -45,21 +45,22 @@
             context.off('click', postClickListener);
             context.removeClass('stalePost');
             var thisPostUrl = context.find('.permalink').attr('href');
-            context.find('article').append(generateShare(thisPostUrl));
+            var thisPostTitle = context.find('.permalink').text();
+            context.find('article').append(generateShare(thisPostUrl, thisPostTitle));
         });
     }
 
-    function generateShare(href) {
-        return generateShareElement(getShareButtons(href));
+    function generateShare(href, title) {
+        return generateShareElement(getShareButtons(href, title));
     }
 
-    function getShareButtons(href) {
+    function getShareButtons(href, title) {
         if (stringStartsWith(href, '/')) {
             href = 'http://asd.learnlearn.in' + href;
         }
         return {
             permalink: href,
-            diaspora: 'https://sharetodiaspora.github.io/?url=' + href,
+            diaspora: 'https://sharetodiaspora.github.io/?url=' + href + '&title=' + title,
             twitter: 'https://twitter.com/intent/tweet?url=' + href,
             facebook: 'https://www.facebook.com/sharer/sharer.php?u=' + href,
             google: 'https://plus.google.com/share?url=' + href,
@@ -206,7 +207,8 @@
 
     function addShareButtonsToPost(){
         var thisPostUrl = $('a.permalink').attr('href');
-        $('.postFooter').prepend(generateShare(thisPostUrl));
+        var thisPostTitle = $('a.permalink').text();
+        $('.postFooter').prepend(generateShare(thisPostUrl, thisPostTitle));
     }
 
     function postInit(){
