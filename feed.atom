@@ -26,7 +26,7 @@
         <updated>{{ post.date | date_to_xmlschema }}</updated>
         <author>
             <name>Akshay S Dinesh</name>
-            <uri>http://learnlearn.in/about/</uri>
+            <uri>http://asd.learnlearn.in/about/</uri>
             <email>akshay@learnlearn.in</email>
         </author>
         <content type="html">
