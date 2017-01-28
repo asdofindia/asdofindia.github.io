@@ -46,8 +46,13 @@
             context.removeClass('stalePost');
             var thisPostUrl = context.find('.permalink').attr('href');
             var thisPostTitle = context.find('.permalink').text();
+            context.find('article').append(getCommentButton());
             context.find('article').append(generateShare(thisPostUrl, thisPostTitle));
         });
+    }
+
+    function getCommentButton() {
+      return $('<a href="/comments/">').text("Comment");
     }
 
     function generateShare(href, title) {
@@ -222,6 +227,7 @@
             }
         });
         addShareButtonsToPost();
+        $('.postFooter').prepend(getCommentButton());
     }
 
     function init(){
