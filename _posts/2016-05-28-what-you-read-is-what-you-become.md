@@ -31,7 +31,7 @@ The filter bubble is getting stronger by the day. People are having radically di
 ##### What we can do is to stop giving them too much power #####
 
 * Stop consuming junk news.
-* Quit [Facebook](http://learnlearn.in/facebook/), at least install add-ons like [PrivacyBadger](https://www.eff.org/privacybadger) that prevents sites like Facebook from [tracking you all over the web](http://www.theverge.com/2016/5/27/11795248/facebook-ad-network-non-users-cookies-plug-ins).
+* Quit [Facebook](https://learnlearn.in/facebook/), at least install add-ons like [PrivacyBadger](https://www.eff.org/privacybadger) that prevents sites like Facebook from [tracking you all over the web](http://www.theverge.com/2016/5/27/11795248/facebook-ad-network-non-users-cookies-plug-ins).
 *  Promote good journalism by reading long, insightful articles from investigative journalists.
 * [Read books](http://www.goodreads.com/).
 * Go back and read all the links I put in this post.

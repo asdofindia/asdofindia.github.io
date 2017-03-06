@@ -6,7 +6,7 @@ categories: social
 ---
 I've owned a domain name (learnlearn.in) for a long time now. Yet, my blog Blissful Life hosted on blogspot at asdofindia.blogspot.com was my primary means of writing till today.
 
-I had moved to using learnlearn.in [a few months back](http://learnlearn.in/keep-in-touch/) but I was using it mainly like a wiki to collect knowledge and insights.
+I had moved to using learnlearn.in [a few months back](https://learnlearn.in/keep-in-touch/) but I was using it mainly like a wiki to collect knowledge and insights.
 
 Today, I added the [blog.learnlearn.in](http://blog.learnlearn.in) subdomain to Blissful Life. And it was smooth! I just [added a CNAME entry](https://support.google.com/blogger/troubleshooter/1233381) to my DNS pointing `blog` to `ghs.google.com` and voilah!
 

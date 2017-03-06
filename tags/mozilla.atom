@@ -6,12 +6,12 @@
 
     <title type="text">Posts on Mozilla by Akshay S Dinesh</title>
     <subtitle type="text">Thinker, blogger, coder, learner, (to be) doctor</subtitle>
-    <id>http://asd.learnlearn.in/tags/mozilla.atom</id>
+    <id>https://asd.learnlearn.in/tags/mozilla.atom</id>
     <updated>{{ site.time | date_to_xmlschema }}</updated>
-    <link href="http://asd.learnlearn.in/tags/mozilla.atom" rel="self" type="application/"/>
-    <link href="http://asd.learnlearn.in/tags/mozilla/" hreflang="en" rel="alternate" type="text/html"/>
+    <link href="https://asd.learnlearn.in/tags/mozilla.atom" rel="self" type="application/"/>
+    <link href="https://asd.learnlearn.in/tags/mozilla/" hreflang="en" rel="alternate" type="text/html"/>
     <rights>Copyright (c) Akshay S Dinesh, released under CC-BY-SA 4.0 license</rights>
-    <generator uri="https://github.com/asdofindia/asdofindia.github.io/blob/master/tags/mozilla.atom" version="1.0">
+    <generator uri="https://gitlab.com/asdofindia/asdofindia.gitlab.io/blob/master/tags/mozilla.atom" version="1.0">
         Jekyll feed template
     </generator>
     {% for post in site.posts%}
@@ -27,7 +27,7 @@
         <updated>{{ post.date | date_to_xmlschema }}</updated>
         <author>
             <name>Akshay S Dinesh</name>
-            <uri>http://asd.learnlearn.in/about/</uri>
+            <uri>https://asd.learnlearn.in/about/</uri>
             <email>akshay@learnlearn.in</email>
         </author>
         <content type="html">

@@ -7,6 +7,6 @@ permalink: follow/
 
 There are multiple ways to get updates from me.
 
-* **Web Feed**: [Follow my atom feed](http://asd.learnlearn.in/feed.atom)
+* **Web Feed**: [Follow my atom feed](https://asd.learnlearn.in/feed.atom)
 * **Telegram**: [Follow my Telegram channel](https://telegram.me/learnlearnin)
 * **Twitter**: [Follow me on Twitter](https://twitter.com/asdofindia)
