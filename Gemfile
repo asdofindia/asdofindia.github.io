@@ -1,3 +1,4 @@
-source 'https://rubygems.org' 
+source 'https://rubygems.org'
 
 gem 'github-pages', '115', group: :jekyll_plugins
+gem 'rubyracer'
