@@ -2,7 +2,7 @@
 layout: post
 date: 2016-01-14 12:25:50 +0530
 title: Communication Tools in FOSS Communities
-categories: social, foss, mozilla
+tags: [social, foss, mozilla]
 ---
 
 Chat apps are probably used as the hello world project for learning server-client programming. I think so because there are so many messaging apps out there and rarely do they inter-operate. The shift to mobile phones and rich text messaging just speeds up the process of fragmented communication channels.

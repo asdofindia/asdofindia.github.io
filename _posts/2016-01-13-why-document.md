@@ -2,7 +2,7 @@
 layout: post
 date: 2016-01-13 19:21:38 +0530
 title: Why Document Everything You Can?
-categories: knowledge, mozilla
+tags: [knowledge, mozilla]
 ---
 
 When I take part in conference calls, or attend an event, or even just have an interesting conversation, I try to take down notes.

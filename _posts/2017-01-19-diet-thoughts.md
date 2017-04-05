@@ -2,7 +2,7 @@
 layout: post
 title: Contemplating Diet Change
 date: 2017-01-19 15:44:00 +0530
-categories: health
+tags: health
 ---
 
 ##### Diet, like religion, is forced upon you by your immediate surroundings. What if you were eating the wrong things all your life? #####

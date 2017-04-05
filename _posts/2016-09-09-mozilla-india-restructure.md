@@ -2,7 +2,7 @@
 layout: post
 title: Mozilla India Restructure 2016
 date: 2016-09-09 02:50:00 +0530
-categories: mozilla
+tags: mozilla
 ---
 
 ##### Mozilla India underwent a restructure in Mozilla India Meetup 2016. What's the new structure? Will it be any good? What are the new challenges that face Mozilla India in this regard? #####

@@ -2,7 +2,7 @@
 layout: post
 title: GSoC Beginner's Handbook to Free Software
 date: 2017-02-17 07:49:00 +0530
-categories: code
+tags: code
 ---
 
 ##### Essential things about free software projects and communities that GSoC first timers should know #####

@@ -2,7 +2,7 @@
 layout: post
 title: Cleaning up Spam on MediaWiki
 date: 2017-01-26 14:09:00 +0530
-categories: knowledge, code
+tags: [knowledge, code]
 ---
 
 ##### How I cleaned up about two thousand spam users and their thousands of spam pages and edits from a mediawiki instance #####

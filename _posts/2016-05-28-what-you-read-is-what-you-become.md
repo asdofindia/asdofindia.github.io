@@ -2,7 +2,7 @@
 layout: post
 date: 2016-05-28 01:00:00 +0530
 title: What you read is what you become
-categories: web
+tags: web
 ---
 
 ##### All that noise in the digital world is what fills your mind. Do you trust the world to keep it neat? #####

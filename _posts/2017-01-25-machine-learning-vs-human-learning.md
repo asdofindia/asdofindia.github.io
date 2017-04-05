@@ -2,7 +2,7 @@
 layout: post
 title: How is Machine Learning Different from Human Learning
 date: 2017-01-25 21:59:00 +0530
-categories: knowledge
+tags: knowledge
 ---
 
 ##### Machines can never think like humans, or can they? #####

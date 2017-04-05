@@ -116,6 +116,10 @@ articles span {
   color: #aaa;
 }
 
+.meta a {
+  color: #77a;
+}
+
 .footer {
   font-size: 80%;
   color: #666;

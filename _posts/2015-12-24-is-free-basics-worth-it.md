@@ -2,7 +2,7 @@
 layout: post
 title: Is Free Basics Worth it?
 date: 2015-12-24 22:46:55 +0530
-categories: web
+tags: web
 ---
 Free Basics gives poor people access to health-care info. Why are Indians opposing it then? Asks [@MikeatFacebook](https://twitter.com/MikeatFacebook) who's apparently a VP at Facebook.
 

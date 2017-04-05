@@ -2,7 +2,7 @@
 layout: post
 date: 2015-12-31 11:02:33 +0530
 title: My Application for Mozilla Participation Leadership Cohort
-categories: mozilla
+tags: mozilla
 ---
 
 I had applied for being a part of participation leadership cohort and attending various [global gatherings](https://wiki.mozilla.org/Participation/Global_Gatherings_2015) in September 2015. It was an [involved application process](https://wiki.mozilla.org/index.php?title=Participation/Global_Gatherings_2015#How_can_I_apply.3F). I should thank Jafar, Abhiram, and Sagar for giving me a shoulder tap each.

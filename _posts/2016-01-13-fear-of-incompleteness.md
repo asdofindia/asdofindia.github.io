@@ -2,7 +2,7 @@
 layout: post
 date: 2016-01-13 19:04:03 +0530
 title: Fear of Incompleteness
-categories: knowledge
+tags: knowledge
 ---
 
 I believe I have self-diagnosed an illness that perfectionist autodidacts are prone for. It is the thought that "you aren't ready", or "your knowledge is incomplete".

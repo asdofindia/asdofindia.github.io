@@ -2,7 +2,7 @@
 layout: post
 title: Working on Mammoth-sized Repositories and 2G speed Internet
 date: 2015-11-26 17:16:58 +0530
-categories: code
+tags: code
 ---
 [Firefox OS simulators](https://ftp.mozilla.org/pub/labs/fxos-simulator/) are becoming old. They haven't been updated in quite some time. The current way to simulate gaia on desktop is to use [mulet](https://developer.mozilla.org/en-US/Firefox_OS/Developing_Gaia/Different_ways_to_run_Gaia#Using_Gaia_in_Firefox_Mulet).
 

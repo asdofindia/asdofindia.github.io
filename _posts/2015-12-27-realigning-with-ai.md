@@ -2,7 +2,7 @@
 layout: post
 date: 2015-12-27 23:03:45 +0530
 title: Realigning with AI
-categories: ai
+tags: ai
 ---
 
 I was going through Kaustav's website when I saw [this post](https://kaustavdm.in/2015/02/realigning.html) where he was realigning himself with AI and that's when I realized I should also realign. We were talking yesterday and that had led to the textbooks in [this MIT course](http://www.cs.jhu.edu/~ben/cs335/syllabus.shtml) getting added to my reading list.

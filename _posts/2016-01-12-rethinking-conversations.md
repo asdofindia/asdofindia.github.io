@@ -2,7 +2,7 @@
 layout: post
 date: 2016-01-12 03:10:20 +0530
 title: Rethinking Conversations I Have
-categories: social
+tags: social
 ---
 
 For the past 10 days I was home, tending my parents' kitchen garden and doing other chores. I was so consumed and the days would fly so fast that I skipped many conversations on Telegram, Slack, Email, etc.

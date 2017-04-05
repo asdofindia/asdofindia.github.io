@@ -2,7 +2,7 @@
 layout: post
 title: Mozilla India Restructure Proposal
 date: 2016-07-30 23:30:00 +0530
-categories: mozilla
+tags: mozilla
 ---
 
 ##### Can Mozilla India become a guardian of the open Web in India? #####

@@ -2,7 +2,7 @@
 layout: post
 date: 2016-01-13 00:03:01 +0530
 title: Using Blogs to Chat
-categories: social
+tags: social
 ---
 
 I often find myself talking about the same things again and again with different people. And I sometimes have ideas that I feel proud of. Very often, I feel like what I just told someone in a private chat needs to be heard by the whole world.

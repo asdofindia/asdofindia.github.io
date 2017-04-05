@@ -2,7 +2,7 @@
 layout: post
 title: Dear Zindagi
 date: 2016-11-28 18:14:00 +0530
-categories: movies
+tags: movies
 ---
 
 When I went in for *Dear Zindagi*, I didn't know it was a Shah Rukh Khan movie. But my unsettled mind became alright when I saw Alia Bhatt on the screen.

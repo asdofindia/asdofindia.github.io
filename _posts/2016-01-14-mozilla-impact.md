@@ -2,7 +2,7 @@
 layout: post
 date: 2016-01-14 10:15:35 +0530
 title: Make Impactful Contributions to Mozilla
-categories: mozilla
+tags: mozilla
 ---
 
 Mozilla has a lot of projects and activities. Getting involved with Mozilla has always been *easy* for people of [any background](http://whatcanidoformozilla.org/).

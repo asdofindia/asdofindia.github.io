@@ -2,7 +2,7 @@
 layout: post
 title: Career Advice
 date: 2016-11-27 17:20:00 +0530
-categories: life
+tags: life
 ---
 
 This is what they say.

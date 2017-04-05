@@ -2,7 +2,7 @@
 layout: post
 date: 2016-01-24 02:48:00 +0530
 title: On differential pricing and net neutrality (and a bit about broadband also)
-categories: web
+tags: web
 ---
 
 *This is a copy of the submission I sent to TRAI on its [consultation paper on differential pricing for data packs](http://trai.gov.in/Content/ConDis/20761_0.aspx)*
