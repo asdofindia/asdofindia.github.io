@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Dear Zindagi
-date: 2016-11-28 18:14:00 +0530
 tags: movies
 ---
 

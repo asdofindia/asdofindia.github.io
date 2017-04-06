@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2016-01-13 19:04:03 +0530
 title: Fear of Incompleteness
 tags: knowledge
 ---

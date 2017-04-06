@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2016-01-12 03:10:20 +0530
 title: Rethinking Conversations I Have
 tags: social
 ---

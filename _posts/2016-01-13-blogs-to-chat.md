@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2016-01-13 00:03:01 +0530
 title: Using Blogs to Chat
 tags: social
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Google Direct
-date: 2017-04-05 10:02:00 +0530
 link: https://asdofindia.github.io/googledirect/
 tags: code
 ---

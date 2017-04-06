@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2016-01-24 02:48:00 +0530
 title: On differential pricing and net neutrality (and a bit about broadband also)
 tags: web
 ---

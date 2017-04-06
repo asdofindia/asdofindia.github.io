@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2016-01-14 12:25:50 +0530
 title: Communication Tools in FOSS Communities
 tags: [social, foss, mozilla]
 ---

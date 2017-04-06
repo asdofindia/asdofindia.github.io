@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Mozilla India Restructure Proposal
-date: 2016-07-30 23:30:00 +0530
 tags: mozilla
 ---
 

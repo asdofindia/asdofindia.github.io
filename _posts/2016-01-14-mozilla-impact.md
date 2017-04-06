@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2016-01-14 10:15:35 +0530
 title: Make Impactful Contributions to Mozilla
 tags: mozilla
 ---

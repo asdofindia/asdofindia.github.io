@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2015-12-31 11:02:33 +0530
 title: My Application for Mozilla Participation Leadership Cohort
 tags: mozilla
 ---

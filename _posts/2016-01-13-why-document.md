@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2016-01-13 19:21:38 +0530
 title: Why Document Everything You Can?
 tags: [knowledge, mozilla]
 ---

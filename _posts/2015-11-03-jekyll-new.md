@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Fish function for creating a new Jekyll post with front matter
-date: 2015-11-03 19:23:32 +0530
 tags: code
 ---
 I started using jekyll for this feed aggregation and I couldn't make myself write the weird date format in jekyll front matter. That's how I came up with this simple snippet that creates a file automatically with the YAML front matter for jekyll.

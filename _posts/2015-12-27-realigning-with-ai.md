@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2015-12-27 23:03:45 +0530
 title: Realigning with AI
 tags: ai
 ---

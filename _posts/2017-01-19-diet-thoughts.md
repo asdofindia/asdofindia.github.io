@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Contemplating Diet Change
-date: 2017-01-19 15:44:00 +0530
 tags: health
 ---
 

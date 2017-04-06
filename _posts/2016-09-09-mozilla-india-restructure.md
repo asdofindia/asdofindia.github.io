@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Mozilla India Restructure 2016
-date: 2016-09-09 02:50:00 +0530
 tags: mozilla
 ---
 

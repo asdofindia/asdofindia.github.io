@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2016-05-28 01:00:00 +0530
 title: What you read is what you become
 tags: web
 ---
