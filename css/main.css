@@ -216,7 +216,9 @@ a.loadMore {
     padding: 20px;
     /*border: 1px solid black;*/
     border-radius: 10px;
-    box-shadow: inset 0 0 10px #999, 0 0 10px #efefef;
+    /*box-shadow: inset 0 0 10px #999, 0 0 10px #efefef;*/
+    border-top: 1px solid #999;
+    border-bottom: 1px dotted #999;
     margin: 10px 0;
 }
 
