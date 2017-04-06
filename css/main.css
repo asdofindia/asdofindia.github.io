@@ -81,6 +81,13 @@ articles span {
   }
 }
 
+@media (min-width: 1070px) {
+  .title a {
+    font-size: 400%;
+    margin-left: -200px;
+  }
+}
+
 .site a {
     text-decoration: none;
 }
@@ -157,6 +164,12 @@ articles span {
 article {
     font-size: 18px;
     line-height: 2;
+}
+
+@media (min-width: 45em) {
+  article {
+    font-size: 20px;
+  }
 }
 
 article a {
