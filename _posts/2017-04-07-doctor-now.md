@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I am a Doctor Now
+tags: ['life', 'health']
 ---
 
 ##### What happens to you when you go to medical school for 5.5 years ######
