@@ -61,7 +61,7 @@
 
     function getShareButtons(href, title) {
         if (stringStartsWith(href, '/')) {
-            href = 'http://asd.learnlearn.in' + href;
+            href = 'https://asd.learnlearn.in' + href;
         }
         return {
             permalink: href,
@@ -190,7 +190,7 @@
         Mousetrap.bind('j', function() { moveToPost('.olderPostLink'); });
         Mousetrap.bind('k', function() { moveToPost('.newerPostLink'); });
         Mousetrap.bind('h', function() {
-            if (document.referrer === 'http://asd.learnlearn.in' || document.referrer === 'http://localhost:4000/'){
+            if (document.referrer === 'https://asd.learnlearn.in' || document.referrer === 'http://localhost:4000/'){
                 window.history.back();
             } else {
                 window.location = '/';
