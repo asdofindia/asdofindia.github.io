@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(Serious) Series Review: Black Mirror"
-tags: ['life', 'review']
+tags: ['life', 'review', 'social']
 ---
 
 ##### Apply Murphy's law to everything that you use today or are going to use in a few years from now. Imagine the worst consequences. And imagine being helpless in the face of those. That's *Black Mirror* for you. #####
