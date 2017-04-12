@@ -40,7 +40,9 @@
     }
 
     function fetchPost(context) {
+        context.addClass('postBeingLoaded');
         context.load(context.find('.readMore').attr('href') + ' article', function(){
+            context.removeClass('postBeingLoaded');
             highlightPost(context);
             context.off('click', postClickListener);
             context.removeClass('stalePost');

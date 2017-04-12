@@ -248,6 +248,20 @@ a.loadMore {
     color: black;
 }
 
+.postBeingLoaded {
+    animation-duration: 0.5s;
+    animation-name: blink;
+}
+
+@keyframes blink {
+    from {
+        background-color: #000;
+    }
+    to {
+        background-color: #fff;
+    }
+}
+
 .linkButton {
     border: 1px solid blue;
     border-radius: 5px;
