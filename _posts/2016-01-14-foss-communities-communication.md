@@ -80,5 +80,3 @@ I have no perfect answer. But I do have some recommendations that work.
 * [Use blogs to communicate serious ideas](/blogs-to-chat/). Make it a habit to create content on an open platform and link to it from other platforms.
 
 There could still be interactions that happen inside platforms which aren't relayed to other platforms. Well, in that matter, there are also real life conversations between community members that happens in private spaces. If these conversations are important, they deserve more attention and should be summarized and broadcasted to all channels. But if nobody cares enough to sit down and write a blog post or discourse thread about it, maybe that conversation isn't worth it.
-
-*Have any comments on this? I urge you to [make a blog post](/blogs-to-chat/) and [send me](/about/#contact) the link*

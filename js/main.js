@@ -54,7 +54,7 @@
     }
 
     function getCommentButton() {
-      return $('<a href="/comments/">').text("Comment");
+        return $('<p>').html('<em>Have a <a href="/comments/">comment</a>? I urge you to <a href="/blogs-to-chat/">make a blog post</a> and <a href="/about/#contact">send me</a> the link</em>');
     }
 
     function generateShare(href, title) {
