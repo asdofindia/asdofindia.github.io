@@ -34,8 +34,16 @@
 
         <script type="text/javascript">
         var host = "asd.learnlearn.in";
+        var gl = "asdofindia.gitlab.io";
+        var gh = "asdofindia.github.io";
         if ((host == window.location.host) && (window.location.protocol != 'https:')) {
           window.location = window.location.toString().replace(/^http:/, "https:");
+        }
+        if (gl == window.location.host) {
+          window.location = window.location.toString().replace(/^http:/, "https:").replace(/asdofindia\.gitlab\.io/, "asd.learnlearn.in");
+        }
+        if (gh == window.location.host) {
+          window.location = window.location.toString().replace(/^http:/, "https:").replace(/asdofindia\.github\.io/, "asd.learnlearn.in");
         }
         </script>
 
