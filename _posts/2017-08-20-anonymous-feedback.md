@@ -11,9 +11,13 @@ Feedback from others helps people improve in their social life. Improving social
 
 Anyhow, now that this is the season for it, I would be really happy if you can give me useful feedback - things you like or hate about me, things you would appreciate I change, etc.
 
+---
+
 If you are on Sayat, here's [asdofindia on Sayat](https://sayat.me/asdofindia/)
 
 If you are Sarahah, here's [asdofindia on Sarahah](https://asdofindia.sarahah.com/)
+
+---
 
 Or if you're the type of person who's into straight face talking, you can always [contact me directly](/about/#contact).
 
