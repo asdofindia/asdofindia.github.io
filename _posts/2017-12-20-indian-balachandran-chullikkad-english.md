@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \"Indian\" by Balachandran Chullikkad (my English translation)
+title: '"Indian" by Balachandran Chullikkad (my English translation)'
 tags: ["politics"]
 ---
 ##### This is the English translation of the poem "Indian" by Balachandran Chullikkad which appeared in Malayalam in Mathrubhumi weekly (Issue 41) #####
