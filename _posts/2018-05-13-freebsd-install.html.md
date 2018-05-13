@@ -113,3 +113,34 @@ In hindsight, should have added [`status=progress`](https://askubuntu.com/a/2155
 Finally, the dd command finished.
 
 Nautilus seemed to think the USB drive was empty. Anyhow, should restart and see.
+
+## Ahem!! ##
+
+This is after the reboot.
+
+The bios/uefi stuff seems to have smoothly crossed. My laptop could easily boot from the USB drive I just made.
+
+But once I choose the multi-user mode, I get a garbled screen with what were supposed to be messages being dots in the garble. 
+
+## gop mode ##
+
+After some ducking, figured out that the issue is with the mode that is used for the display driver. Used `mode 2` and it did not work. Then, trying `gop list` and `gop mode 3` accordingly worked. (To be followed by `boot` for booting the OS.
+
+## Network! ##
+
+Most of the installation was easy and straightforward. Except network. I have a convoluted setup wherein I access internet on my android phone using wifi, login to the captive portal on the android and then give internet on the laptop by using USB tethering. I had no idea how to configure this manually. I think I chose one re0 network in the list thinking it would be the right interface. Anyhow, post installation there was no internet.
+
+After some more searching around the web, figured out that rdnis protocol is already loaded and all I needed to do was `dhclient ue0` for the USB network interface card and it started working. Also had to correct the `/etc/resolv.conf` entries that I randomly gave during the installation for `ping learnlearn.in` to work.
+
+## Installing xorg ##
+Once connected to the internet, everything was smooth.
+
+```
+$ pkg install xorg
+$ pkg install git
+$ pkg install firefox
+```
+
+Eerie resemblance with pacman on archlinux. Mostly not a coincidence. 
+
+The next steps are configuring xorg, wm/de/dm, and figuring out how to do the `gop set 3` automatically. 
