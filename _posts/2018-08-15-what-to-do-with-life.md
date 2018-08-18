@@ -8,7 +8,7 @@ First, the good news. I am now a Fellow in HIV Medicine. I finished this one yea
 
 I set up a web server on Amazon Web Services last month and have been hosting my email, websites, and other services on it since then. I have written about these under the ["devops" category](https://asd.learnlearn.in/tag/devops/) on my site. I have to write about SVYM, and my adventurous journey to reach home later.
 
-I have also made all necessary arrangements for recording videos for [my YouTube channel](https://www.youtube.com/channel/UCv2M-cpTDCf9gBbOLd_QLUw). So except some video action soon.
+I have also made all necessary arrangements for recording videos for [my YouTube channel](https://www.youtube.com/channel/UCv2M-cpTDCf9gBbOLd_QLUw). So expect some video action soon.
 
 I re-read "[A Guide for Young People: What to Do With Your Life](https://zenhabits.net/career/)" which is a small blog post by my favorite blogger Leo Babauta. [He is not a Buddhist monk](https://zenhabits.net/my-story/).
 
