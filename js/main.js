@@ -3,7 +3,7 @@
     var currPageNum = 1;
     var moreExists = true;
     var currPost = 1;
-    var postsPerPage = 5;
+    var postsPerPage = 7;
     var fetchingMore = false;
     var pageType = 'home';
 
