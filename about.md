@@ -6,6 +6,15 @@ permalink: about/
 ---
 I'm Akshay S Dinesh (asd). I live in the Internet. I love learning. I am a doctor. In my free time I code, I fight for digital rights and I advocate [free software](//learnlearn.in/foss/). You can read a more detailed biopic on [my wikipedia user page](https://en.wikipedia.org/wiki/User:Asdofindia).
 
+## On the web
+Besides this [social feed](https://asd.learnlearn.in/welcome/), I write at a few other places:
+* [Blissful Life](https://blog.learnlearn.in) - Full length blog posts in English
+* [Learn Learnin'](https://learnlearn.in) - Website dedicated to insights and knowledge
+* [Medicine, Mind, and Me](https://mbbshacker.blogspot.com) - Full length blog posts related to healthcare
+* [ഇഹലോകവാസം](https://ihalokavaasam.blogspot.com) - Full length blog posts in Malayalam
+
+The best way to keep up with all my writings is to [follow me](../follow/)
+
 ## Contact ##
 
 I love hearing from you. Please, please, send me a message.
