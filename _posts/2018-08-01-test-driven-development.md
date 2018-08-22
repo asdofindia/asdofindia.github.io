@@ -31,4 +31,4 @@ The [learn-tdd github project](https://github.com/dwyl/learn-tdd) is a quick ove
 
 I also read this [discussion about how not to do unit tests](https://dev.to/kayis/what-are-the-alternatives-to-unit-tests-2jii)? (Make sure you read the comments)
 
-And a [post about why TDD is bad](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html). This and the PDF linked at the end of it would make less sense if functional programming is used, I think.
+And a [post about why TDD is bad](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html). This and the PDF linked at the end of it would make less sense if [functional programming](../functional-javascript) is used, I think.
