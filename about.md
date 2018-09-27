@@ -4,7 +4,7 @@ title: About
 excerpt: Akshay S Dinesh is a polymath who lives in the Internet
 permalink: about/
 ---
-I'm Akshay S Dinesh (asd). I live in the Internet. I love learning. I am a doctor. In my free time I code, I fight for digital rights and I advocate [free software](//learnlearn.in/foss/). You can read a more detailed biopic on [my wikipedia user page](https://en.wikipedia.org/wiki/User:Asdofindia).
+I'm Akshay S Dinesh (asd). I live in the Internet. I love learning. I am a doctor. In my free time I code, I fight for digital rights and I advocate [free software](//learnlearn.in/foss/). You can read a more detailed biopic on [my wikipedia user page](https://en.wikipedia.org/wiki/User:Asdofindia). You can also read an old version of [about me from my blog](https://blog.learnlearn.in/2009/02/about-me.html).
 
 ## On the web
 Besides this [social feed](https://asd.learnlearn.in/welcome/), I write at a few other places:
