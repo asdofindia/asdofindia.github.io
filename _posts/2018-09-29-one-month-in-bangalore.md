@@ -12,7 +12,7 @@ tags: ["life"]
 
 I did know what [my goals](https://blog.learnlearn.in/2018/08/what-next.html) were while moving to Bangalore. But I had [no idea what I was going to do](https://blog.learnlearn.in/2018/09/bridges-bridges-everywhere.html) about them. This is how things have been.
 
-After days of searching, shifting, shifting again, fighting bed bugs and so on, Swathi and I found a home in Mathikere and I promptly changed my couchsurfing status to "Accpeting Guests".
+After days of searching, shifting, shifting again, fighting bed bugs and so on, Swathi and I found a home in Mathikere and I promptly changed my couchsurfing status to "Accepting Guests".
 
 I now go regularly to [Paisool](https://paisool.com/) where I have been programming solutions to interesting problems since January. Their new office in Halasoor is a lovely place to work in.
 
