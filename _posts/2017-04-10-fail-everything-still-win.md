@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Book Review: How to Fail at Almost Everything and Still Win Big by Scott Adams"
-tags: ["review", "book", "life"]
+tags: ["review", "book", "self-help"]
 ---
 ##### Cartoonist Scott Adams, the creator of *Dilbert* comic strip tells his life story in *How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life*. A cartoonists life is not necessarily filled with humor as we learn. #####
 
