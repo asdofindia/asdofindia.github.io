@@ -1,7 +1,3 @@
-backend:
-  name: git-gateway
-  branch: master
-
 media_folder: "uploads"
 
 collections:
