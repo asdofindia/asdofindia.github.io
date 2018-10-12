@@ -1,0 +1,24 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: "uploads"
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Content", name: "body", widget: "markdown"}
+
+backend:
+  name: gitlab
+  repo: asdofindia/asdofindia.gitlab.io
+  auth_type: implicit
+  app_id: 852228bb378263ecc66720a62e2b8a5ff99afe080daf94bfdcd5ca9c2e025d42
+
