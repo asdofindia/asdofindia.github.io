@@ -12,3 +12,7 @@ Netlify CMS can be used entirely independent of netlify. You can directly login 
 What is even more cool is that it is amazingly easy to deploy.
 
 This post is from the frontend. Or backend?
+
+
+
+**​​Update**: Oh, and this is from my Firefox for Android!
