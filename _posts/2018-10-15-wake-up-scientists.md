@@ -3,6 +3,7 @@ layout: post
 title: Wake Up Scientists
 tags:
   - social
+  - science
 ---
 ##### Professor K VijayRaghavan, principal scientific advisor to the government of India, gave an inspiring talk yesterday called "_Science, the fulcrum for social and economic change_" as part of the ongoing series of _kaapi with kuriosity_ organized by the wonderful International Centre for Theoretical Sciences
 
