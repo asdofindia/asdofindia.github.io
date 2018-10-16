@@ -12,6 +12,6 @@ jekyll-archives:
     - tags
   layout: "archive"
 scripts: ["jquery-2.1.4.min", "mousetrap.min", "main"]
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-archives
