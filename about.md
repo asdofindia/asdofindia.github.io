@@ -37,6 +37,7 @@ Okay, if you want to stalk me, here are the places you go:
 
 * [mozillians.org/u/asdofindia](https://mozillians.org/u/asdofindia)
 * [github.com/asdofindia](https://github.com/asdofindia)
+* [gitlab.com/asdofindia](https://gitlab.com/asdofindia)
 * [asdofindia@joindiaspora.com](https://joindiaspora.com/people/2a39042b15979f8b)
 * [twitter.com/asdofindia](https://twitter.com/asdofindia)
 * [plus.google.com/+AkshaySDinesh](https://plus.google.com/+AkshaySDinesh)
