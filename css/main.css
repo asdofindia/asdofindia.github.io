@@ -13,8 +13,9 @@ body {
   color: #212121;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  letter-spacing: 0.02em;
-  font: 13.34px "Helvetica Neue", "Calibri Light", Roboto, sans-serif;
+  letter-spacing: 0.01em;
+  letter-spacing: normal;
+  font: 13.34px manjari, "Helvetica Neue", "Calibri Light", Roboto, sans-serif;
   font-size: small;
   text-align: center;
 }
@@ -163,7 +164,7 @@ articles span {
 /* standard */
 article {
     font-size: 18px;
-    line-height: 2;
+    line-height: 1.333;
 }
 
 @media (min-width: 45em) {
