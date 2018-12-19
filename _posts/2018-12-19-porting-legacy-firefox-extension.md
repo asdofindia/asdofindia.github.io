@@ -44,3 +44,7 @@ Earlier, I had to emit a message to the worker script once the script had been a
 I did a good thing and installed [`web-ext`](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Getting_started_with_web-ext) in between thereby allowing to do things like `web-ext lint` and `web-ext run`. Having tested that the extension is now working, I had to update my add-on on AMO. For that, I did `web-ext build` which put the zip in an artifacts folder. I then went to addons.mozilla.org and submitted a new version of mine.
 
 Turns out there is no wait for reviewing these days. Extensions are automatically approved with a warning that it would be reviewed later and maybe taken down.
+
+External links:
+* AMO: [Zero Internet](https://addons.mozilla.org/firefox/addon/zero-internet/)
+* Source code: [github.com/asdofindia/zero-internet](https://github.com/asdofindia/zero-internet)
