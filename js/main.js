@@ -68,6 +68,7 @@
         return {
             permalink: href,
             diaspora: 'https://sharetodiaspora.github.io/?url=' + href + '&title=' + title,
+            mastodon: 'web+mastodon://share?text=' + title + '%0A%0A' + href,
             twitter: 'https://twitter.com/intent/tweet?url=' + href + '&via=asdofindia' + '&text=' + encodeURIComponent(title),
             facebook: 'https://www.facebook.com/sharer/sharer.php?u=' + href,
             google: 'https://plus.google.com/share?url=' + href,
