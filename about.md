@@ -43,3 +43,32 @@ Okay, if you want to stalk me, here are the places you go:
 * [twitter.com/asdofindia](https://twitter.com/asdofindia)
 * [plus.google.com/+AkshaySDinesh](https://plus.google.com/+AkshaySDinesh)
 * [facebook.com](//learnlearn.in/facebook/)
+
+# Curriculum Vitae / Resume / Portfolio #
+
+## Traditional Education ##
+
+### National Law School of India University, Bangalore ###
+
+**Post Graduate Diploma in Medical Law & Ethics**
+(October 2018 - present)
+
+### Vivekananda Memorial Hospital, Saragur ###
+
+**Fellowship in HIV Medicine**
+(August 2017 - July 2018)
+
+### Mysore Medical College & Research Institute, Mysore ###
+
+**Bachelor of Medicine and Bachelor of Surgery**
+(August 2011 - March 2017)
+
+### Chinmaya Vidyalaya, Kannur ###
+
+**Senior Secondary School**
+(June 2009 - March 2011)
+
+### Sree Sankara Vidya Peetham, Mattanur ##
+
+**Higher Secondary School, Upper Primary School, Lower Primary School**
+(June 1999 - April 2009)
