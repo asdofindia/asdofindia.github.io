@@ -268,3 +268,15 @@ a.loadMore {
     border-radius: 5px;
     padding: 5px;
 }
+
+.youtube-embed {
+  width: 90%;
+  height: 90%;
+}
+
+@media(min-width: 640px) {
+  .youtube-embed {
+    width: 560px;
+    height: 315px;
+  }
+}
