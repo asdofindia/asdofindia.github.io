@@ -8,9 +8,9 @@ tags:
 
 ##### What are the things I want to see happening in Mozilla (India) #####
 
-I have previously and provocatively written about how [Mozilla India is dead](https://asd.learnlearn.in/mozilla-india-is-dead/). Well, Mozilla India is so dead that apart from a few comments that the title was clickbait or misleading, there was no strong opposition from anyone.
+I have previously and provocatively written about how [Mozilla India is dead](https://asd.learnlearn.in/mozilla-india-is-dead/). Well, Mozilla India is so dead that apart from a few comments that the title was clickbait or misleading, there was no opposition or support from anyone.
 
-Kavita Arora, [the founder of Bangalore Makespace and Open Source Creativity](https://www.redbull.com/in-en/DIY-pioneer-Kavita-Arora) and I had a one hour long phone chat tonight. We were talking to each other for the first time today. But we were talking exactly the same things to each other.
+Kavita Arora, [the founder of Bangalore Makespace and Open Source Creativity](https://www.redbull.com/in-en/DIY-pioneer-Kavita-Arora), and I had a one hour long phone chat tonight. We were talking to each other for the first time today. But we were talking exactly the same things to each other.
 
 We both agreed on the fact that Mozilla India has a long way to go in fulfilling [Mozilla's mission](http://mozilla.org/mission/) in India. That we need to attract a mature crowd into our community. That there is a lack of leadership. That there is a lot of talent that is trapped and wasted in our community and the wider engineering/technology community of India. That Mozilla is in the perfect space to be the flagbearer of a better future in India because of the pragmatism that the focus on open web brings (in contrast with the puritan approach of free software communities). For example, mozilla is able to question [what diversity and inclusion means in free and open source software communities](https://medium.com/@sunnydeveloper) because the [manifesto](https://www.mozilla.org/about/manifesto/) is so beautifully designed to ensure *everyone* has access to the web and nobody is left behind. One of the biggest pain points of the free software movement(s) is that people (say, poor who cannot afford self-hosting, say, a girl who does not feel welcome to "send in a patch") are left behind.
 
