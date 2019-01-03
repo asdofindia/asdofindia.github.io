@@ -8,7 +8,7 @@ tags:
 
 ##### What are the things I want to see happening in Mozilla (India) #####
 
-I have previously and provacatively written about how [Mozilla India is dead](https://asd.learnlearn.in/mozilla-india-is-dead/). Well, Mozilla India is so dead that apart from a few comments that the title was clickbait or misleading, there was no strong opposition from anyone.
+I have previously and provocatively written about how [Mozilla India is dead](https://asd.learnlearn.in/mozilla-india-is-dead/). Well, Mozilla India is so dead that apart from a few comments that the title was clickbait or misleading, there was no strong opposition from anyone.
 
 Kavita Arora, [the founder of Bangalore Makespace and Open Source Creativity](https://www.redbull.com/in-en/DIY-pioneer-Kavita-Arora) and I had a one hour long phone chat tonight. We were talking to each other for the first time today. But we were talking exactly the same things to each other.
 
