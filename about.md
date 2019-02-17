@@ -48,12 +48,78 @@ Okay, if you want to stalk me, here are the places you go:
 
 I do not believe in CVs, but apparently it is important.
 
+## Skills ##
+
+### Health ###
+
+* Clinical history taking
+* Physical examination (respiratory system being my favourite)
+* Diagnosis and management of common infectious diseases and non-communicable diseases
+* Management of emergencies including poly-trauma, MI, stroke, sepsis and other medical emergencies
+* Minor procedures (I&D, dressing, NG tube insertion, central line placement, peripheral line)
+* Uncomplicated deliveries
+* Newborn resuscitation
+* Cardiopulmonary resuscitation
+* Advanced Emergency Life Support
+* Antenatal health monitoring
+* Preventive care - including vaccinations
+* HIV & Opportunistic infections
+
+### Tech ###
+
+* GNU/Linux, bash scripting, system administration (including maintaining servers that support email, DNS, websites). Can install and configure any package. Preferred OS = ArchLinux. Can configure correctly and securely ssh, ufw, fail2ban, certbot, postfix, dovecot, mailman (2 & 3), nginx, apache, caddy, mosh, tmux, cryptpad, npm, yarn, pipenv, and other useful packages.
+* Web development - nodejs (express, sails). Can write compliant html using the latest features. Can write CSS, javascript. Can setup gulp, grunt, webpack, sass.
+* Static site development - jekyll, docpad
+* Programming - can do whatever I want in python, nodejs, javascript per se; can write algorithms slowly but surely in c, c++, julia, R, go, ruby, rust, bash, kotlin, haskell, php, java, scala, clojure (lisp, ftw!)
+* Algorithms and data structures
+* Frameworks - jquery, bootstrap, bulma
+* Libraries - google or-tools, fulcrum, dplyr, ggplot2, d3.js, leaflet.js
+* Webextensions
+* Chatbots, chatops; webhooks
+* Code review - can read others' code, can debug bugs
+* Unit testing - can and does do TDD, BDD (unless in a rush)
+* Can root android phones, install custom ROMs
+* Can capture the flag
+* LaTeX
+* Office suites - LibreOffice, G Suite, Microsoft Office
+* Can do anything with appropriate documentation on hand
+
+## Informal Education ##
+
+### PCMH Restore Health, Bangalore ###
+
+**Primary Care Physician**
+(August 2019 - present)
+
+As a primary care physician, I am learning to provide primary care. You think primary care is easy? Think again. Primary care is managing 4 different chronic illnesses (all deadly on its own) in a patient who is taking multiple drugs for each and then responding to an acute illness which has to be seen in the context of the patient's previously known illnesses. Hospital based secondary or tertiary care can often miss this important context. Therefore, questions like "Should we do an angiogram though ECG is not very suggestive?" are easier to answer for a primary care physician who knows the patient and their family and community closely. Okay, enough of that. I am learning how to manage HIV, diabetes, tuberculosis, hypertension, thyroid dysfunction, heart failure, depression, anxiety, obsessive compulsive disorder, hepatitis, syphilis, etc.
+
+**Public Health Consultant**
+(September 2019 - present)
+
+I have been helping many health researchers set up their projects. Data collection, management, and analysis
+
+### Infinity+Beyond, Bangalore ###
+
+**Programmer**
+(January 2018 - present)
+
+I do all kinds of things here - system administration, backend api development, SMS gateway integration, frontend interface development, algorithms for optimizing service.
+
+### Mozilla ###
+
+**Mozillian**
+(March 2014 - present)
+
+Being a [Mozillian](https://learnlearn.in/mozillian/) has changed my life quite a bit. I was and is deeply in love with the open web. I have interacted with some great people. I constantly stayed in touch with the tech community through Mozilla.
+
 ## Traditional Education ##
 
 ### National Law School of India University, Bangalore ###
 
 **Post Graduate Diploma in Medical Law & Ethics**
 (October 2018 - present)
+
+PGDMLE was in my bucket list from medical school. Once I joined law school, my perception of law changed. I started understanding law as something dynamic and something that individuals can help reinterpret. Currently I am looking for a thesis topic.
 
 ### Vivekananda Memorial Hospital, Saragur ###
 
