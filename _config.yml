@@ -5,6 +5,7 @@ permalink: :title/
 url: https://asd.learnlearn.in
 paginate: 7
 paginate_path: "/archive/:num/"
+include: [".well-known"]
 redcarpet:
     extensions: ["autolink", "footnotes", "strikethrough", "with_toc_data"]
 jekyll-archives:
