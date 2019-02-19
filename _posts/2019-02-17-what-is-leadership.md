@@ -1,6 +1,6 @@
 ---
 layout: post
-title: what-is-leadership
+title: What is Leadership?
 date: 2019-02-17 22:19 +0530
 tags:
   - life
