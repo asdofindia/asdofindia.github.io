@@ -1,6 +1,6 @@
 ---
 layout: post
-title: lyx-malayalam
+title: Adding Malayalam language to Lyx
 date: 2019-02-19 18:49 +0530
 tags:
   - code
