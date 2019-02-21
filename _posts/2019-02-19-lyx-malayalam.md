@@ -31,3 +31,9 @@ By using `git bisect` I figured out that Hindi was introduced in commit `1aa5a0d
 To really add support one might have to send a corresponding patch on [polyglossia](https://github.com/reutenauer/polyglossia) or [babel](https://www.ctan.org/pkg/babel) unless they already support Malayalam. But I'm half sure they already support Malayalam.
 
 I have offered help in the [Swathanthra Malayalam Computing telegram group](https://t.me/smc_project/12244) to anyone who wants to work on this. If you are reading this and you're interested, feel free to [ping me](../about/#contact).
+
+### Update on 21/2/19 ###
+
+Joice went ahead and [sent a patch to lyx-devel](https://www.mail-archive.com/lyx-devel@lists.lyx.org/msg207952.html). But it was pointed out that new language requires a version change. And when version changes, there needs to be a few convertor functions written like it can be seen in [the commit that introduced languages like Kannada](https://www.lyx.org/trac/changeset/d9c52c7a3f06ec892cd2e36d0d20998bc99b2fd8/lyxgit).
+
+He [updated patch for that as well](https://www.mail-archive.com/lyx-devel@lists.lyx.org/msg207967.html)
