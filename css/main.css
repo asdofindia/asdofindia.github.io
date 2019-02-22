@@ -179,7 +179,6 @@ article a {
 
 article pre {
   border: 1px solid #ddd;
-  background-color: #eef;
   padding: 0 .4em;
 }
 
@@ -189,7 +188,6 @@ article ul, article ol {
 
 article code {
   border: 1px solid #ddd;
-  background-color: #eef;
   padding: 0 .2em;
 }
 
@@ -200,15 +198,8 @@ article pre code {
 /* terminal */
 article pre {
   border: 1px solid #000;
-  background-color: #333;
-  color: #FFF;
   overflow-x: auto;
 }
-
-article pre code {
-  background-color: #333;
-}
-
 
 /* posts on homepage */
 
