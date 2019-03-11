@@ -34,10 +34,13 @@ make
 * Create a new LyX document
 * Insert Malayalam text into it
 * Go to Document -> Settings -> Language and set Language to "Malayalam"
-* Go to Document -> Settings -> LaTeX Preamble and insert `\setmainfont[HyphenChar="00AD]{Manjari}`
+* Go to Document -> Settings -> LaTeX Preamble and insert `\setmainfont[HyphenChar="00AD]{Manjari}`[^thottingal]
 * Document -> View PDF
 
+[^thottingal]: Santhosh Thottingal whose pioneering work in this field enables all of this had originally [written this critical line in his blog](https://thottingal.in/blog/2014/07/20/typesetting-malayalam-using-xetex/)
 
 ### Here's a video demonstration ###
 
 <iframe class="youtube-embed" width="560" height="315" src="https://www.youtube.com/embed/D6z9Z0OaLJM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
