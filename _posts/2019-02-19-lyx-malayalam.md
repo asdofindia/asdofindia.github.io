@@ -37,3 +37,7 @@ I have offered help in the [Swathanthra Malayalam Computing telegram group](http
 Joice went ahead and [sent a patch to lyx-devel](https://www.mail-archive.com/lyx-devel@lists.lyx.org/msg207952.html). But it was pointed out that new language requires a version change. And when version changes, there needs to be a few convertor functions written like it can be seen in [the commit that introduced languages like Kannada](https://www.lyx.org/trac/changeset/d9c52c7a3f06ec892cd2e36d0d20998bc99b2fd8/lyxgit).
 
 He [updated patch for that as well](https://www.mail-archive.com/lyx-devel@lists.lyx.org/msg207967.html)
+
+### Update on 11/3/19 ###
+
+The patch has been [committed](https://www.mail-archive.com/lyx-devel@lists.lyx.org/msg208113.html) and [available in lyx 2.4.0](https://www.lyx.org/trac/changeset/ebd7a1a22a758336c6fa56ee12b988e6c1cd0736/lyxgit). I have written a [how-to article on get it working](../lyx-malayalam-support/)
