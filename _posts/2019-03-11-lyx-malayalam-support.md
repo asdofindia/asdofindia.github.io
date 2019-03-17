@@ -43,4 +43,9 @@ make
 
 <iframe class="youtube-embed" width="560" height="315" src="https://www.youtube.com/embed/D6z9Z0OaLJM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+### Here is a preview document generated using LyX ###
+
+<iframe src="https://drive.google.com/file/d/1HYAnZknN9sKZVQZZhFGagrQ44md8MSSZ/preview" width="640" height="480"></iframe>
+
 ---
