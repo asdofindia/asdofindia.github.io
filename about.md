@@ -44,7 +44,7 @@ Okay, if you want to stalk me, here are the places you go:
 * [plus.google.com/+AkshaySDinesh](https://plus.google.com/+AkshaySDinesh)
 * [facebook.com](//learnlearn.in/facebook/)
 
-# Curriculum Vitae / Resume / Portfolio #
+# CV #
 
 I do not believe in CVs, but apparently it is important.
 
