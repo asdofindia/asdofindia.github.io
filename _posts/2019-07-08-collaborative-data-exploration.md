@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Collaborative data exploration (in R)"
-date: 2019-07-05 17:49 +0530
 tags:
   - code
   - data-science
