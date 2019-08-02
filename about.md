@@ -72,8 +72,9 @@ I do not believe in CVs, but apparently it is important.
 * Static site development - jekyll, docpad
 * Programming - can do whatever I want in python, nodejs, javascript per se; can write algorithms slowly but surely in c, c++, julia, R, go, ruby, rust, bash, kotlin, haskell, php, java, scala, clojure (lisp, ftw!)
 * Algorithms and data structures
-* Frameworks - jquery, bootstrap, bulma
+* Frameworks - jquery, bootstrap, bulma, react
 * Libraries - google or-tools, fulcrum, dplyr, ggplot2, d3.js, leaflet.js
+* Database - mongodb
 * Webextensions
 * Chatbots, chatops; webhooks
 * Code review - can read others' code, can debug bugs
@@ -82,7 +83,22 @@ I do not believe in CVs, but apparently it is important.
 * Can capture the flag
 * LaTeX
 * Office suites - LibreOffice, G Suite, Microsoft Office
-* Can do anything with appropriate documentation on hand
+* Google-fu - very strong (if it is searchable on the internet, I can find it)
+* Can do anything that has instructions on the internet
+
+### Special ###
+
+* Critical thinking (to the point it becomes annoying to some)
+* Devising business plans and foreseeing potential problems
+* Fixing accounting tables where numbers aren't matching
+* Ethical sense & moral compass that points in the right direction
+* Reading, comprehending, critiquing, and developing law & policy papers
+
+### People ###
+
+* Treating everyone as equals and with respect
+* De-escalating and resolving conflicts (of other people)
+* Mentoring/peer-learning
 
 ## Informal Education ##
 
