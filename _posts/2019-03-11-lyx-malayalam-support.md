@@ -41,7 +41,9 @@ make
 
 ### Here's a video demonstration ###
 
-<iframe class="youtube-embed" width="560" height="315" src="https://www.youtube.com/embed/D6z9Z0OaLJM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="youtube-embed">
+<iframe src="https://www.youtube.com/embed/D6z9Z0OaLJM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 ### Here is a preview document generated using LyX ###

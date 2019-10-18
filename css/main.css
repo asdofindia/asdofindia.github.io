@@ -1,176 +1,117 @@
-/*****************************************************************************/
-/*
-/* Common
-/*
-/*****************************************************************************/
-
-/* Global Reset */
-html, body { height: 100%; }
-
 body {
-  background-color: #f2f2f2;
-  background: url('https://learnlearn.in/noise.png') repeat scroll top #f2f2f2;
-  color: #212121;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  letter-spacing: 0.01em;
-  letter-spacing: normal;
-  font: 13.34px manjari, "Helvetica Neue", "Calibri Light", Roboto, sans-serif;
-  font-size: small;
-  text-align: center;
+    background-color: #f2f2f2;
+    background: url('https://learnlearn.in/noise.png') repeat scroll top #f2f2f2;
+    color: #212121;
+    font: 1em manjari, "Helvetica Neue", "Calibri Light", Roboto, sans-serif;
+    display: grid;
+    grid-template-areas:
+        "header"
+        "main"
+        "footer";
+}
+@media(min-width: 40em) {
+    body{
+        grid-template-columns: auto auto;
+        grid-template-rows: 50vh 50vh;
+        grid-gap: 2em;
+        grid-template-areas:
+        "header main"
+        "footer main"
+        ;
+    }
 }
 
-h1 { margin-bottom: 1em; }
+header {
+    grid-area: header;
+}
+
+main {
+    grid-area: main;
+    max-width: 40em;
+}
+
+pre, code {
+    overflow: auto;
+    white-space: pre-wrap;
+
+}
+
+footer {
+    grid-area: footer;
+    margin: auto;
+}
+
+
+header h1 {
+    margin-bottom: 0;
+    line-height: 3em;
+}
+
+header {
+    text-align: center;
+}
+
 p { margin: 1em 0; }
 
 a         { color: #00a; }
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
 
-/*****************************************************************************/
-/*
-/* Home
-/*
-/*****************************************************************************/
-/*articles {
-  list-style-type: none;
-  margin-bottom: 2em;
-}*/
 
 articles > ul {
-  padding-left: 5px;
+    padding-left: 5px;
 }
 
 articles > ul > li {
-  list-style-type: none;
-  line-height: 1.75em;
-  padding-bottom: 20px;
+    list-style-type: none;
+    line-height: 1.75em;
+    padding-bottom: 20px;
 }
 
 articles span {
-  color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
-}
-
-/*****************************************************************************/
-/*
-/* Site
-/*
-/*****************************************************************************/
-
-.site {
-  font-size: 115%;
-  text-align: left;
-  width: 99%;
-  margin: 3em auto 2em;
-  line-height: 1.5em;
-  word-wrap: break-word;
-}
-
-.site img {
-    width: 90%;
-    margin: 0 auto;
-}
-
-@media (min-width: 45em) {
-  .site {
-    width: 42em;
-  }
-  .site img {
-     max-width: 40em;
-  }
+    color: #aaa;
+    font-family: Monaco, "Courier New", monospace;
+    font-size: 80%;
 }
 
 @media (min-width: 1070px) {
-  .title a {
-    font-size: 400%;
-    margin-left: -200px;
-  }
+    .title a {
+        font-size: 400%;
+    }
 }
 
-.site a {
+body a {
     text-decoration: none;
 }
 
-.header a {
-  font-weight: bold;
-  text-decoration: none;
-}
-
-.title {
-  display: inline-block;
-  margin-bottom: 2em;
+header a {
+    font-weight: bold;
+    text-decoration: none;
 }
 
 .title a {
-  color: #a00;
+    color: #a00;
 }
 
 .title a:hover {
-  color: #000;
+    color: #000;
 }
 
-.header a.extra {
-  color: #aaa;
-  margin-left: 1em;
+header a.extra {
+    color: #aaa;
+    margin-left: 1em;
 }
 
-.header a.extra:hover {
-  color: #000;
+header a.extra:hover {
+    color: #000;
 }
 
 .meta {
-  color: #aaa;
+    color: #aaa;
 }
 
 .meta a {
-  color: #77a;
-}
-
-.footer {
-  font-size: 80%;
-  color: #666;
-  border-top: 4px solid #eee;
-  margin-top: 2em;
-  overflow: hidden;
-}
-
-.footer .contact {
-  float: left;
-  margin-right: 3em;
-}
-
-.footer .contact a {
-  color: #8085C1;
-}
-
-.footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
-}
-
-.footer .rss img {
-  border: 0;
-}
-
-/*****************************************************************************/
-/*
-/* Posts
-/*
-/*****************************************************************************/
-
-/* standard */
-article {
-    font-size: 18px;
-    line-height: 1.333;
-}
-
-@media (min-width: 45em) {
-  article {
-    font-size: 20px;
-  }
+    color: #77a;
 }
 
 article a {
@@ -178,27 +119,27 @@ article a {
 }
 
 article pre {
-  border: 1px solid #ddd;
-  padding: 0 .4em;
+    border: 1px solid #ddd;
+    padding: 0 .4em;
 }
 
 article ul, article ol {
-  margin-left: 0.25em;
+    margin-left: 0.25em;
 }
 
 article code {
-  border: 1px solid #ddd;
-  padding: 0 .2em;
+    border: 1px solid #ddd;
+    padding: 0 .2em;
 }
 
 article pre code {
-  border: none;
+    border: none;
 }
 
 /* terminal */
 article pre {
-  border: 1px solid #000;
-  overflow-x: auto;
+    border: 1px solid #000;
+    overflow-x: auto;
 }
 
 /* posts on homepage */
@@ -213,15 +154,14 @@ a.loadMore {
     margin: 10px auto 10px;
     text-align: center;
     text-decoration: none;
+    text-transform: uppercase;
     border: 1px solid black;
     padding: 5px;
 }
 
 .post {
     padding: 20px;
-    /*border: 1px solid black;*/
     border-radius: 10px;
-    /*box-shadow: inset 0 0 10px #999, 0 0 10px #efefef;*/
     border-top: 1px solid #999;
     border-bottom: 1px dotted #999;
     margin: 10px 0;
@@ -261,13 +201,18 @@ a.loadMore {
 }
 
 .youtube-embed {
-  width: 90%;
-  height: 90%;
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
 }
 
-@media(min-width: 640px) {
-  .youtube-embed {
-    width: 560px;
-    height: 315px;
-  }
+.youtube-embed iframe, .youtube-embed object, .youtube-embed embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
+

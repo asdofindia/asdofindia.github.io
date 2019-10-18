@@ -24,6 +24,8 @@ The very reason I love Bangalore is the number of interesting events that happen
 
 But the most interesting thing I did last month was to start working on the [healthcare app idea](https://mbbshacker.blogspot.com/2018/09/app-based-healthcare-delivery.html). The team at PCMH applied for [Stars in Global Health](http://www.grandchallenges.ca/programs/stars-in-global-health/) grant. Our focus in the first year of operations will be on female commercial sex workers and transgender women. [Here is a video](https://youtu.be/FNxbXp7o4q4) in which I talk more about it. (Turn volume up to hear :P)
 
-<iframe class="youtube-embed" width="560" height="315" src="https://www.youtube.com/embed/FNxbXp7o4q4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="youtube-embed">
+<iframe src="https://www.youtube.com/embed/FNxbXp7o4q4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 That is how things have been. It is getting really interesting.

@@ -8,7 +8,9 @@ tags:
 
 ##### Textual response to a YouTube video about selective empathy #####
 
-<iframe class="youtube-embed" width="560" height="315" src="https://www.youtube.com/embed/Knb-xfBcBeg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="youtube-embed">
+<iframe src="https://www.youtube.com/embed/Knb-xfBcBeg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 This video is erroneous in its examples.
 Of course, plastic straw and plastic spoon is a case of selective empathy.
