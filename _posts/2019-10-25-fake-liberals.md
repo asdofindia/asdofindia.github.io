@@ -29,7 +29,7 @@ All going well till now.
 
 Next day, I see that the account I was interacting with has been deleted/renamed. When I click on the @krutiswit link on the twitter reply I sent on android it took me to the current profile which is [@hinduwolverine](https://twitter.com/hinduwolverine/).
 
-Now, the bio of this account reads at this point: "All Indian Dalit Society Activist | Humanity Student from JNU | Rahul Gandhi fan | Polymeth"
+Now, the bio of this account reads at this point: "All Indian Dalit Society Activist \| Humanity Student from JNU \| Rahul Gandhi fan \| Polymeth"
 
 That's when I realized. This is a fake account. That's not a new thing. There are a lot of fake accounts on twitter. But this fake account is a fake liberal and distorts the very idea of liberalism. Or a fake feminist who distorts the very idea of feminism. That kind of fake narratives is being peddled in the society through these fake accounts. That is a new thing for me.
 
