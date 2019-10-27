@@ -21,6 +21,10 @@ body {
     }
 }
 
+article {
+    font-size: 1.5em;
+}
+
 header {
     grid-area: header;
 }
