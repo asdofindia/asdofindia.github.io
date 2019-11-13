@@ -14,7 +14,7 @@ The sorrow state of engineering education in India is why some of my friends sta
 
 **Enter GirlScript**
 
-I started talking to [Anubha Maneshwar](https://twitter.com/anubhamane) on email to discuss about Mozilla Karnataka partnering with [GraphQL Asia](https://graphql.asia) (a GraphQL conference organized by [Hasura](https://hasura.io/) in Bangalore). But the conversation took an interesting turn when we talked about Anubha's other engagement - that of fixing some of the gaps in technology (computer science, mostly) education in India (and outside India) through GirlScript. Read their "about us":
+I started talking to [Anubha Maneshwar](https://twitter.com/anubhamane) on email to discuss about Mozilla Karnataka partnering with [GraphQL Asia](https://graphql.asia) (a GraphQL conference organized by [Hasura](https://hasura.io/) in Bangalore). But the conversation took an interesting turn when we talked about Anubha's other engagement - that of fixing some of the gaps in technology (computer science, mostly) education in India (and outside India) through GirlScript. Read their "[about us](https://www.girlscript.tech/about-us/)":
 
 > GirlScript is a section-8 company registered under Government of India established on 2nd of June, 2017. It started under Mozilla Open Leaders Program to help beginners in technology and programming. GirlScript is open for all community, although it supports diversity and wants to bring equality in tech, therefore, reserves 50% of seats for under-represented groups including women, LGBTQ etc. GirlScript and its different initiatives are driven by leaders throughout the world.
 
