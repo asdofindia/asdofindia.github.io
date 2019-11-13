@@ -192,3 +192,16 @@ This is also the time I started loving computers. I was fascinated beyond words 
 
 * [Rashtrapati scout](https://en.wikipedia.org/wiki/Rashtrapati_Award) - mine is from Pratibha Patil. I really value being a scout as it taught me incredible life lessons. I also participated in a state level Camporee in Calicut University grounds.
 * [National Talent Search scholar](https://en.wikipedia.org/wiki/National_Talent_Search_Examination) - more than the scholarship, the 10 day camp at SCERT of Kerala was a unique opportunity in my life. I met many of the best students at my age there.
+
+## Privileges ##
+
+I have kept this section at the end so that you can judge me last. I am [very privileged](https://blog.learnlearn.in/2018/08/what-next.html). Here is an incomplete list of my privileges:
+
+* I was born into a higher middle class family in Kerala.
+* I have not been discriminated against based on my family's religion/caste (and yes, I was born in a privileged caste of the majority religion in my country).
+* I am a straight cis-male.
+* My parents are both alive, healthy, independent, and work in public sector.
+* I had access to internet at a very early age.
+* I was allowed and assisted to dream.
+* I passed my childhood without a lot of psychological or physical trauma.
+* [...all the privileges I'm currently blind towards]
