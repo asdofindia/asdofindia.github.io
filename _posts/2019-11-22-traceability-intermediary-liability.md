@@ -30,9 +30,11 @@ These are some orthogonal thoughts. Essentially my point is two things:
 1. Platforms can easily implement traceability. In fact, people who make software like Tor browser struggle every day to keep their users' traffic non-traceable.
 2. But, traceability should not be mandatory at all. It doesn't solve any problem and only creates problems like oppression of free speech.
 
+In fact, IFF has made an excellent submission to the high court in Madras about [traceability being an utterly useless concept](https://drive.google.com/file/d/1B2ShWywwVpPX1zTz25UgPMSOokZbcJBx/view).
+
 ## Proactive content takedown ##
 
-This is an absolutely rubbish thing to be made into policy. Even the most sophisticated AI can correctly understand content. Forget AI, even humans cannot sometimes understand what people mean when they write things one way or the other. To proactively or automatically take illegal content down without also censoring a lot of legal content would be impossible. I don't know why people even waste their time taking these arguments seriously and talk about NLP and stuff like that.
+This is an absolutely rubbish thing to be made into policy. Even the most sophisticated AI cannot correctly understand content. Forget AI, even humans cannot sometimes understand what people mean when they write things one way or the other. To proactively or automatically take illegal content down without also censoring a lot of legal content would be impossible. I don't know why people even waste their time taking these arguments seriously and talk about NLP and stuff like that.
 
 ## The real way forward ##
 
