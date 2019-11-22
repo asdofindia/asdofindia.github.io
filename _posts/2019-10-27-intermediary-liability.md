@@ -2,8 +2,7 @@
 layout: post
 title: Intermediary Liability and the Duty of Care Approach in Software
 tags:
-  - free-culture
-  - law
+  - tech-policy
 ---
 
 ##### Should online services like Facebook be held responsible for the content that is distributed through them? What about free speech? #####
