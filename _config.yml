@@ -3,7 +3,7 @@ shortname: ASD
 markdown: kramdown
 permalink: :title/
 url: https://asd.learnlearn.in
-paginate: 7
+paginate: 20
 paginate_path: "/archive/:num/"
 include: [".well-known"]
 redcarpet:
