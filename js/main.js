@@ -23,8 +23,6 @@
                     $('.loadMore').toggle();
                 }
                 loadPostLoaders();
-                currPost = (currPageNum-1)*postsPerPage+1;
-                highlightPost($('.post:nth-child(' + currPost + ')'));
                 fetchingMore = false;
                 hideFetchingAnimation();
             });
