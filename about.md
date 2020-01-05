@@ -106,6 +106,13 @@ I do not believe in CVs, but apparently it is important.
 
 ## Informal Education ##
 
+### Metastring Foundation, Bangalore ###
+
+**Digital health**
+(November 2019 - present)
+
+I joind Metastring to build a health data platform for the country. This is where I picked up Java.
+
 ### PCMH Restore Health, Bangalore ###
 
 **Primary Care Physician**
