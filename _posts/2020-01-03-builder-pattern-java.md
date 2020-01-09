@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Bad, Java! Builder Pattern, Fluent Programming"
+title: 'Bad, Java! Builder Pattern, Fluent Programming'
 tags:
   - code
 ---
-
-##### In this post on learning Java (and OOP) as a functional programming person, I look at the builder pattern, what problem it solves, and why it may be that way #####
+##### In this post on learning Java (and OOP) as a functional programming person, I look at the builder pattern, what problem it solves, and why it may be that way
 
 Certain design decisions in Java are very hard to understand. The lack of named arguments, default parameter value, or optional parameters are for example one such thing.
 
@@ -127,4 +126,4 @@ Here is [another example of builder pattern](https://stackoverflow.com/a/1988035
 
 If you think that is too much boilerplate code, there are things like [AutoValue](https://github.com/google/auto/blob/master/value/userguide/index.md), [Immutables](https://immutables.github.io/), and [Lombok](https://projectlombok.org/) which are code generators that let you mark classes with annotations and automatically include builder code in those when being compiled.
 
-If you think that is a hack, you should go learn [kotlin](https://kotlinlang.org/)
+If you think that is a hack, you should go learn [kotlin](https://kotlinlang.org/).
