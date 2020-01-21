@@ -135,9 +135,9 @@ I do all kinds of things here - system administration, backend api development, 
 ### Mozilla ###
 
 **Mozillian**
-(March 2014 - present)
+(March 2014 - December 2019)
 
-Being a [Mozillian](https://learnlearn.in/mozillian/) has changed my life quite a bit. I was and is deeply in love with the open web. I have interacted with some great people. I constantly stayed in touch with the tech community through Mozilla.
+Being a [Mozillian](https://learnlearn.in/mozillian/) has changed my life quite a bit. I was and is deeply in love with the open web. I have interacted with some great people. I constantly stayed in touch with the tech community through Mozilla. But I had to stop contributing when there were [irreconcilable differences with the community management](../why-no-mozilla/).
 
 ## Traditional Education ##
 
