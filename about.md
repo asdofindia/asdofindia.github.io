@@ -39,14 +39,13 @@ You can send me a message on [Briar](https://briarproject.org/) by adding my ID:
 ## Links ##
 Okay, if you want to stalk me, here are the places you go:
 
-* [mozillians.org/u/asdofindia](https://mozillians.org/u/asdofindia)
-* [github.com/asdofindia](https://github.com/asdofindia)
 * [gitlab.com/asdofindia](https://gitlab.com/asdofindia)
-* [asdofindia@joindiaspora.com](https://joindiaspora.com/people/2a39042b15979f8b)
+* [github.com/asdofindia](https://github.com/asdofindia)
 * <a rel="me" href="https://mastodon.technology/@akshay">@akshay@mastodon.technology</a>
 * [twitter.com/asdofindia](https://twitter.com/asdofindia)
-* [plus.google.com/+AkshaySDinesh](https://plus.google.com/+AkshaySDinesh)
+* [asdofindia@joindiaspora.com](https://joindiaspora.com/people/2a39042b15979f8b)
 * [facebook.com](//learnlearn.in/facebook/)
+* [mozillians.org/u/asdofindia](../why-no-mozilla/)
 
 # CV #
 
