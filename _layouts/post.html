@@ -13,6 +13,7 @@ layout: default
 <a href="{{ page.link }}" class="linkButton">Read the linked post</a><br><br>
 {% endif %}
 </article>
+<h4>Like what you are reading? <a href="/follow">Subscribe</a> (by <a href="https://asd.learnlearn.in/feed.atom">RSS</a>, <a href="/follow">email</a>, <a href="https://twitter.com/asdofindia">twitter</a>, or <a href="https://t.me/learnlearnin">telegram</a>)!</h4>
 <hr>
 <aside class="postFooter">
 {% if page.next %}
@@ -21,5 +22,4 @@ Newer post: <a href="{{ page.next.url }}" class="newerPostLink">{{ page.next.tit
 {% if page.previous %}
 Older post: <a href="{{ page.previous.url }}" class="olderPostLink">{{ page.previous.title }}</a> (press 'j')
 {% endif %}
-<h4>Like what you are reading? <a href="/follow">Subscribe</a>!</h4>
 </aside>
