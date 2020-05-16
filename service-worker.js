@@ -1,5 +1,13 @@
 "use strict";
 
+function isExternalDomain(url) {
+    const domainName = url
+        .replace('http://', '')
+        .replace('https://', '')
+        .split('/')[0]
+    return domainName !== 'asd.learnlearn.in'
+}
+
 console.log('WORKER: executing.');
 
 /* A version number is useful when updating the worker logic,
@@ -61,7 +69,7 @@ self.addEventListener("fetch", function(event) {
   /* We should only cache GET requests, and deal with the rest of method in the
      client-side, by handling failed POST,PUT,PATCH,etc. requests.
   */
-  if (event.request.method !== 'GET') {
+  if (event.request.method !== 'GET' || isExternalDomain(event.request.url)) {
     /* If we don't block the event as shown below, then the request will go to
        the network as usual.
     */
