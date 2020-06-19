@@ -47,3 +47,23 @@ Well, since I'm not a lawyer, I searched online. There is [this stackoverflow an
 Essentially, if we take this answer as truth, the license of the data coming out of the API is the same as the license of the data going into the software.
 
 And I think it is upto the covid19india team to specify what that license is.
+
+**Update after about an hour**:
+
+But then, there is another layer of complexity here. The API in question is a GPL software. If someone is using a GPL library to build a larger software and redistributing that software, they would have to distribute it in a GPL-compatible license too.
+
+And there does not seem to be any exception for software that is interacting with a library over the internet. That would mean that a software that is using a GPL API would also have to be released in GPL license if being distributed.
+
+But, the indiacovidmodel is running on a server. It is not being redistributed in the sense of GPL. It seems to be that only the output of the running software is distributed.
+
+Here's a [stackoverflow answer about distributing output](https://opensource.stackexchange.com/a/2343) like this. GPL would not mind a web-service running whatever proprietary code and using GPL within it.
+
+AGPL was created specifically for this purpose.
+
+Now, imagine if the code here was actually released in AGPL. Would the indiacovidmodel then have to be released under AGPL too?
+
+The crux of the question is whether the use of the API response would be considered as using a linked library.
+
+If it wouldn't be considered as using a library, then you could essentially wrap any GPL library you want in a GPL microservice and use it in your proprietary service.
+
+Therefore, I think, it is in the spirit of GPL license that libraries accessed through APIs is also considered as using the library directly. Therefore, if covid19india were using AGPL, indiacovidmodel would also have to use AGPL.
