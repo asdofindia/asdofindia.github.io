@@ -17,3 +17,8 @@ Instant Messaging has the advantage that it is synchronous and fast. But that co
 Yet another advantage of communicating through posts is that I spend less and less time on chatting. (Yes, no matter how careful I am about time, each message I send takes at least 2 minutes).
 
 And now I invite you to communicate through permanent URLs.
+
+---
+
+Related posts:
+* [Why I Won't Write Tweets Any More](/anti-social-twitter/)
