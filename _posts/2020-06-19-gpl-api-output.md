@@ -67,3 +67,5 @@ The crux of the question is whether the use of the API response would be conside
 If it wouldn't be considered as using a library, then you could essentially wrap any GPL library you want in a GPL microservice and use it in your proprietary service.
 
 Therefore, I think, it is in the spirit of GPL license that libraries accessed through APIs is also considered as using the library directly. Therefore, if covid19india were using AGPL, indiacovidmodel would also have to use AGPL.
+
+Similarly, if the covid19india data is released under GPL, any data or model derived from the same would have to be GPL too.
