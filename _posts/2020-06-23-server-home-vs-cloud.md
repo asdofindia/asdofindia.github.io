@@ -6,7 +6,7 @@ tags:
   - tech
 ---
 
-##### Running a server on one's and accessing it from a different computer on a different network is one of the happiest things in learning to be a web developer. Here is how to go about it #####
+##### Running a server and accessing it from a different computer on a different network is one of the happiest things in learning to be a web developer. Here is how to go about it #####
 
 A "server" is a fancy word for a computer that is always on and always connected to the internet with an IP address that's universally resolvable to itself.
 
