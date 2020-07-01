@@ -16,9 +16,9 @@ I was reading a [developer story](https://www.geektrust.in/blog/2020/06/18/devel
 
 In connection with [India banning](../slippery-slope-69a/) many apps including TikTok, yesterday, there have been conversations about Indian "clones" which will now take the place of these applications. Hrishi pointed out in an interview that there is also a chance that tech giants like Facebook will take over the vacuum.
 
-The question on why Indians couldn't build their on TikTok on the first place was heard in the background.
+The question on why Indians couldn't build their own TikTok in the first place was heard in the background.
 
-I was listening to [Subin Siby's talk on Youtube](https://www.youtube.com/watch?v=GmGPGKkLItw) (in Malayalam) just now and one particular point Subin made was very interesting. Getting a server to host their innovative ideas was hard. Subin's parents had to be convinced to buy a domain. Free server hosts had to be searched for. Online payment was a hazzle. Even today Subin is developing innovative solutions like [vett.space](https://vett.space/) with client side technologies because that way it would be cheap.
+I was listening to [Subin Siby's talk on Youtube](https://www.youtube.com/watch?v=GmGPGKkLItw) (in Malayalam) just now and one particular point Subin made was very interesting. Getting a server to host their innovative ideas was hard. Subin's parents had to be convinced to buy a domain. Free server hosts had to be searched for. Online payment was a hazzle. Even today Subin is developing projects like [vett.space](https://vett.space/) with client side technologies because that way it would be cheap.
 
 ## The reason why innovation doesn't happen in India
 
