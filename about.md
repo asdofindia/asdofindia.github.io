@@ -71,17 +71,18 @@ I do not believe in CVs, but apparently it is important.
 ### Tech ###
 
 * GNU/Linux, bash scripting, system administration (including maintaining servers that support email, DNS, websites). Can install and configure any package. Preferred OS = ArchLinux. Can configure correctly and securely ssh, ufw, fail2ban, certbot, postfix, dovecot, mailman (2 & 3), nginx, apache, caddy, mosh, tmux, cryptpad, npm, yarn, pipenv, and other useful packages.
-* Web development - nodejs (express, sails). Can write compliant html using the latest features. Can write CSS, javascript. Can setup gulp, grunt, webpack, sass.
+* Web development - nodejs (express, sails), java (jax-rs). Can write compliant html using the latest features. Can write CSS, javascript. Can setup gulp, grunt, webpack, sass.
 * Static site development - jekyll, docpad
-* Programming - can do whatever I want in python, nodejs, javascript per se; can write algorithms slowly but surely in c, c++, julia, R, go, ruby, rust, bash, kotlin, haskell, php, java, scala, clojure (lisp, ftw!)
+* Programming - can do whatever I want in python, javascript, java, and kotlin; can write algorithms slowly but surely in c, c++, julia, R, go, ruby, rust, bash, haskell, php, scala, clojure (lisp, ftw!)
+* Android development - can build widgets (as of now)
 * Algorithms and data structures
 * Frameworks - jquery, bootstrap, bulma, react
 * Libraries - google or-tools, fulcrum, dplyr, ggplot2, d3.js, leaflet.js
-* Database - mongodb
+* Database - mongodb, elasticsearch, postgresql
 * Webextensions
 * Chatbots, chatops; webhooks
 * Code review - can read others' code, can debug bugs
-* Unit testing - can and does do TDD, BDD (unless in a rush)
+* Automated testing - can and does do TDD, BDD (unless in a rush), at least one e2e or integration test too
 * Can root android phones, install custom ROMs
 * Can capture the flag
 * LaTeX
@@ -110,7 +111,7 @@ I do not believe in CVs, but apparently it is important.
 **Digital health**
 (November 2019 - present)
 
-I joind Metastring to build a health data platform for the country. This is where I picked up Java.
+I joined Metastring to build a health data platform for the country. This is where I picked up Java (and consequently Kotlin and Android). At Metastring, I was working on putting disparate datasets in health together on one platform (in a custom-built multidimensional OLAP cube) and making it available for querying and visualization. We built this over elasticsearch's features using Java.
 
 ### PCMH Restore Health, Bangalore ###
 
