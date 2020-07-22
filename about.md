@@ -76,7 +76,7 @@ I do not believe in CVs, but apparently it is important.
 * Programming - can do whatever I want in python, javascript, java, and kotlin; can write algorithms slowly but surely in c, c++, julia, R, go, ruby, rust, bash, haskell, php, scala, clojure (lisp, ftw!)
 * Android development - can build widgets (as of now)
 * Algorithms and data structures
-* Frameworks - jquery, bootstrap, bulma, react
+* Frameworks - jquery, bootstrap, bulma, react, jersey
 * Libraries - google or-tools, fulcrum, dplyr, ggplot2, d3.js, leaflet.js
 * Database - mongodb, elasticsearch, postgresql
 * Webextensions
