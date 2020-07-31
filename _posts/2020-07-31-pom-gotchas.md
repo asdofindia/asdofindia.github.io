@@ -119,7 +119,7 @@ By default the compiler plugin is configured to use an ancient version of Java. 
 
 Like plugins, your dependencies should also preferably be latest versions. This is especially important for rapidly developing frameworks like jersey where there would be large bugs in old versions.
 
-You can use [`mvn versions:use-latest-versions`](https://stackoverflow.com/a/974787/589184) to do this. But this doesn't respect the versions you set by properties. You can use `mvn versions:update-properties` to update only properties. [Read documentation to see what is possible](https://www.mojohaus.org/versions-maven-plugin/index.html)
+You can use [`mvn versions:use-latest-versions`](https://stackoverflow.com/a/974787/589184) to do this. But this doesn't respect the versions you set by properties. You can use `mvn versions:update-properties` to update only properties. [Read documentation to see what is possible](https://www.mojohaus.org/versions-maven-plugin/index.html).
 
 You can also [configure dependabot](https://docs.github.com/en/github/managing-security-vulnerabilities/configuring-github-dependabot-security-updates) on github to get automatic pull requests when there are vulnerabilities in your application dependencies.
 
@@ -129,4 +129,4 @@ Maven can be configured to build a large single JAR file which includes all depe
 
 ## More ##
 
-There are many more secrets in Maven. Some of them I don't know. If you find something that's not here but that causes a great deal of confusion, [let me know](../comment/)
+There are many more secrets in Maven. Some of them I don't know. If you find something that's not here but that causes a great deal of confusion, [let me know](../comments/).
