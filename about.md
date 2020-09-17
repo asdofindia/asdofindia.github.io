@@ -34,7 +34,7 @@ The command you are looking for might be `gpg --import`
 
 ### Instant Messaging ###
 
-You can send me a message on [Briar](https://briarproject.org/) by adding my ID: [briar://adiswnqkvql4r5fuw6vaz2dhfvhvngzlg2o4xafjfo4kog254qmau](briar://adiswnqkvql4r5fuw6vaz2dhfvhvngzlg2o4xafjfo4kog254qmau)
+You can send me a message on [Matrix](https://matrix.org/). My ID is [@akshay:matrix.org](https://matrix.to/#/@akshay:matrix.org)
 
 ## Links ##
 Okay, if you want to stalk me, here are the places you go:
