@@ -59,3 +59,5 @@ Luckily, I had a backup of my primary SSH private key. And most of the things I 
 To be honest, if I was taking a backup, I would have backed up only these private keys and a few small files. But, not having that backup and destroying the filesystem made me feel like a fool. So, always backup the absolute-must-haves when working on the filesystem because you never know what could go wrong.
 
 On the brighter side, ArchLinux feels like home.
+
+**Update**: Pirate Bady helped me figure out the issue. It is the units. In computer science, there seems to be a confusion on what a GigaByte is. Scientifically, a GigaByte is 1000 times a MegaByte. (Just like SI units). But some like to do it 1024 times a MegaByte (where MegaByte is also derived that way). `resize2fs` uses ["power-of-two" gigabytes as units](https://superuser.com/a/1194439). Which means 500G in resize2fs terms is equivalent to 500GiB in parted's units. Which explains the lost 30GB. 
