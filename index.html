@@ -5,10 +5,9 @@ excerpt: "Insight wiki"
 ---
 
 <div id="home">
-  <p class="helpText">Use j/k to navigate up/down, o to open post</p>
   <articles>
   <ul class="articles posts">
-    {% for post in paginator.posts %}
+    {% for post in site.posts %}
       <li class="post">
           <a href="{{ post.url }}">{{ post.title }}</a>
           <br>
@@ -22,22 +21,5 @@ excerpt: "Insight wiki"
     {% endfor %}
   </ul>
   </articles>
-  <a href="#" class="loadMore">Load more posts</a>
 </div>
 
-<noscript>
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% else %}
-    <!-- <span class="previous">Previous</span> -->
-  {% endif %}
-  <span class="page_number ">Page: <span class="pageNum">{{ paginator.page }}</span> of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <!-- <span class="next ">Next</span> -->
-  {% endif %}
-</div>
-</noscript>

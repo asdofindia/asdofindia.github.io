@@ -3,18 +3,12 @@ shortname: ASD
 markdown: kramdown
 permalink: :title/
 url: https://asd.learnlearn.in
-paginate: 20
-paginate_path: "/archive/:num/"
 include: [".well-known"]
-redcarpet:
-    extensions: ["autolink", "footnotes", "strikethrough", "with_toc_data"]
 jekyll-archives:
   enabled:
     - tags
   layout: "archive"
-scripts: ["jquery-2.1.4.min", "mousetrap.min", "main"]
 plugins:
-  - jekyll-paginate
   - jekyll-archives
 defaults:
   -

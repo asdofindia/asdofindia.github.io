@@ -61,6 +61,18 @@
         {{ content }}
         </main>
 
+        <script>
+            // ServiceWorker is a progressive technology. Ignore unsupported browsers
+            // Remove service workers that were previously used
+            if ('serviceWorker' in navigator) {
+                navigator.serviceWorker.getRegistrations().then(function(registrations){
+                    for (const registration of registrations) {
+                        registration.unregister();
+                    }
+                })
+            };
+        </script>
+
         <footer>
             <div class="contact">
                 <p><a class="h-card" rel="me" href="https://asd.learnlearn.in/">Akshay S Dinesh</a></p>

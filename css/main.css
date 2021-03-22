@@ -148,54 +148,12 @@ article pre {
 
 /* posts on homepage */
 
-.post.highlightedPost {
-    background-color: #f5f5f5;
-}
-
-a.loadMore {
-    display: block;
-    width: 50%;
-    margin: 10px auto 10px;
-    text-align: center;
-    text-decoration: none;
-    text-transform: uppercase;
-    border: 1px solid black;
-    padding: 5px;
-}
-
 .post {
     padding: 20px;
     border-radius: 10px;
     border-top: 1px solid #999;
     border-bottom: 1px dotted #999;
     margin: 10px 0;
-}
-
-.helpText {
-    text-align: center;
-}
-
-.stalePost {
-    cursor: grab;
-}
-
-.stalePost a {
-    text-decoration: none;
-    color: black;
-}
-
-.postBeingLoaded {
-    animation-duration: 0.5s;
-    animation-name: blink;
-}
-
-@keyframes blink {
-    from {
-        background-color: #000;
-    }
-    to {
-        background-color: #fff;
-    }
 }
 
 .linkButton {
