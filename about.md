@@ -73,7 +73,7 @@ I do not believe in CVs, but apparently it is important.
 * GNU/Linux, bash scripting, system administration (including maintaining servers that support email, DNS, websites). Can install and configure any package. Preferred OS = ArchLinux. Can configure correctly and securely ssh, ufw, fail2ban, certbot, postfix, dovecot, mailman (2 & 3), nginx, apache, caddy, mosh, tmux, cryptpad, npm, yarn, pipenv, and other useful packages.
 * Web development - nodejs (express, sails), java (jax-rs). Can write compliant html using the latest features. Can write CSS, javascript. Can setup gulp, grunt, webpack, sass.
 * Static site development - jekyll, docpad
-* Programming - can do whatever I want in python, javascript, java, and kotlin; can write algorithms slowly but surely in c, c++, julia, R, go, ruby, rust, bash, haskell, php, scala, clojure (lisp, ftw!)
+* Programming - can do whatever I want in python, javascript, java, and kotlin; can write algorithms slowly but surely in c, c++, julia, R, go, ruby, rust, bash, haskell, php, scala, clojure (lisp, ftw!). Can use async/await properly in javascript. Can use streams and lambdas correctly in java.
 * Android development - can build widgets (as of now)
 * Algorithms and data structures
 * Frameworks - jquery, bootstrap, bulma, react, jersey
