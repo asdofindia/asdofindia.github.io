@@ -72,6 +72,14 @@ articles > ul > li {
     padding-bottom: 20px;
 }
 
+articles > ul > li > a {
+    color: black;
+}
+
+articles > ul > li > a:visited {
+    color: grey;
+}
+
 articles span {
     color: #aaa;
     font-family: Monaco, "Courier New", monospace;

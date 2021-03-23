@@ -9,14 +9,13 @@ excerpt: "Insight wiki"
   <ul class="articles posts">
     {% for post in site.posts %}
       <li class="post">
-          <a href="{{ post.url }}">{{ post.title }}</a>
+          <a href="{{ post.url }}">{{ post.title }}
           <br>
           <span class="postDate">
           {{ post.date | date: "%a, %b %d '%y" }}
           </span>
           <br>
-          {{post.excerpt | strip_html }}
-          <a href="{{ post.url }}" class="readMore">[...]</a>
+          {{post.excerpt | strip_html }}...</a>
       </li>
     {% endfor %}
   </ul>
