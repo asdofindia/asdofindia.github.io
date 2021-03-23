@@ -66,17 +66,17 @@ articles > ul {
     padding-left: 5px;
 }
 
-articles > ul > li {
+articles > ul  li.post {
     list-style-type: none;
     line-height: 1.75em;
     padding-bottom: 20px;
 }
 
-articles > ul > li > a {
+articles > ul > a {
     color: black;
 }
 
-articles > ul > li > a:visited {
+articles > ul > a:visited {
     color: grey;
 }
 

@@ -6,19 +6,19 @@ excerpt: "Insight wiki"
 
 <div id="home">
   <articles>
-  <ul class="articles posts">
-    {% for post in site.posts %}
+    <ul class="articles posts">
+      {% for post in site.posts %}
+      <a href="{{ post.url }}">
       <li class="post">
-          <a href="{{ post.url }}">{{ post.title }}
-          <br>
-          <span class="postDate">
+        {{ post.title }}
+        <br>
+        <span class="postDate">
           {{ post.date | date: "%a, %b %d '%y" }}
-          </span>
-          <br>
-          {{post.excerpt | strip_html }}...</a>
-      </li>
-    {% endfor %}
-  </ul>
+        </span>
+        <br>
+        {{post.excerpt | strip_html }}...
+      </li></a>
+      {% endfor %}
+    </ul>
   </articles>
 </div>
-
