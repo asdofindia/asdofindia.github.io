@@ -39,7 +39,16 @@ This thread is filled with examples of RMS' views (some of which RMS had to corr
 
 Often this happens to each one of us where we unintentionally hurt someone. And then we say "I didn't mean to do that". But does it matter? If you hurt someone without meaning to hurt someone, you've still hurt them. And it is on you to make them feel better by apologizing. Unless, you intend to hurt them. In which case, you have succeeded. By not apologizing to people and setting the record straight, RMS has told all of the people who have been hurt that it was done with intend.
 
-> "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel." ~ Maya Angelou 
+> "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel." ~ Maya Angelou
+
+**Update on 2021-03-27**. I am adding a bit from my own private conversation with RMS where RMS makes this statement:
+
+> Another is that their feelings, their reaction to what I say, are a matter of their ideas.  If a person has a peculiar sensitivity, and feels hurt by something I say which is in no way unfriendly or critical towards per, that doesn't make me wrong for saying it.
+
+> Suppose a person regularly took offense on hearing me say the word "chair". Would that create a moral obligation for me to stop using that word, and call them "seats" or "tables" instead?  I don't think so.
+
+This is why every time RMS refers to the mess RMS created as "unfortunate misunderstanding". RMS unilaterally decides what is not "unfriendly", or not "critical" and then goes on to say that everyone who doesn't agree with RMS' choices are having "peculiar sensitivity".
+
 
 ### Not being humble
 
