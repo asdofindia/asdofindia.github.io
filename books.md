@@ -31,6 +31,7 @@ This page lists the books I have read and the books I want to read.
 * Looking Two Ways / Fail Safe - [brainpickings](https://www.brainpickings.org/2013/05/15/debbie-millman-look-both-ways-fail-safe/)
 * [Mindset: The New Psychology of Success](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
 * Essentialism - recommended [on twitter](https://twitter.com/RheumEpi/status/1376380207263666187?s=20) in the context of getting the *right* things done.
+* Lies That Bind by Kwame Anthony Appiah - suggested by Richard Stallman
 
 ### Politics
 
@@ -56,15 +57,19 @@ This page lists the books I have read and the books I want to read.
 
 ## Have read ##
 
-### Non-fiction
+### Uncategorized non-fiction
 
 * The Diary of a Young Girl - I don't remember about it because I read it when I was very young.
 * Night by Eli Wiesel - a horror story in 56 pages that makes you lose sleep for days.
+* A Brief History of Time by Stephen Hawking - A very nice book about physics.
+* One Two Three... Infinity by George Gamow - A very nice book about science/mathematics.
+
+### Social science
+
 * My Experiments with Truth by MK Gandhi - the idea of truth giving courage and strength and non-violence triggering the moral conscience of opponents. The idea that one can experiment with things in one's own life (n=1 studies, anyone?).
 * The Doctor and The Saint by Arundathi Roy - helped break the idol called MK Gandhi
 * Annihilation of Caste - [full review](https://blog.learnlearn.in/2020/12/annihilation-of-caste.html)
-* A Brief History of Time by Stephen Hawking - A very nice book about physics.
-* One Two Three... Infinity by George Gamow - A very nice book about science/mathematics.
+* Tyranny of Merit by Michael Sandel - [review inside my blog post](https://blog.learnlearn.in/2020/12/what-to-do-with-privilege.html)
 
 ### Fiction
 
