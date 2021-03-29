@@ -20,7 +20,7 @@ This page lists the books I have read and the books I want to read.
 * The Principles of Mathematics by Bertnard Russel - suggested by Ravi
 
 
-### Non-fiction
+### Uncategorized Non-fiction
 
 * Sapiens: A Brief History of Humankind - like the entire world recommends it
 * Freakonomics - Should go back and finish reading this
@@ -37,15 +37,21 @@ This page lists the books I have read and the books I want to read.
 * Prisoners of Geography by Tim Marshall - suggested by Ravi
 * Why Nations Fail - suggested by Ravi
 * Silent Invasion: China's influence in Australia - suggested by Ravi
+* The Free Voice: On Democracy, Culture and the Nation by Ravish Kumar - suggested by Sahil who said "Assertion on what's right. No more words required"
+* A Kim Jong-Il Production: The Incredible True Story of North Korea and the Most Audacious Kidnapping in History by Paul Fischer - Sahil: "If interested in knowing the things behind the facade of North Korea"
 
 ### Fiction
 
 * Norwegian Wood by Haruki Murakami - Suggested by Ravi
-* Animal Farm by George Orwell 
+* Animal Farm by George Orwell - Sahil: "If you want someone to understand how a good natured political movement changes into authoritarian one, want to know all the tactics used and how they work, this short 96 pages something book is the cheat sheet."
 * The Handmaid's Tale by Margaret Atwood - suggested by Ravi
 * The Hairdresser of Harare by Tendai Huchu - suggested by Ravi
 * The Murder of Roger Ackroyd by Agatha Christie - suggested by Ravi
 * The Time Machine by H. G. Wells - suggested by Ravi
+* The Castle by Franz Kafka - suggested by Ravi
+* The Inheritance of Loss by Kiran Desai - Sahil: "How life changes, people you know and trust leave you and you can't trust existence of you're comfortable life."
+* The Namesake by Jhumpa Lahiri - Sahil: "Mostly about stories of cultural shock, changes Indian's face when they migrate abroad. If you like this one genre (Indian diaspora), her other books Unaccustomed Earth and Interpreter of Maladies are also worthwhile."
+* 
 
 
 ## Have read ##
