@@ -106,10 +106,32 @@ I do not believe in CVs, but apparently it is important.
 
 ## Informal Education ##
 
+### Swathanthra Malayalam Computing / Indic Project ###
+
+**Volunteer**
+(June 2014 - present)
+
+I volunteer as a sysadmin, wiki sysop, git repo maintainer, etc.
+
+
+**Community Manager for GSoC**
+(March 2016 - present)
+
+Was one of the organization admins in Google Summer of Code and among the points of contact for students.
+
+### Institute of Public Health, Bangalore ###
+
+**Honorary Associate**
+(December 2020 - present)
+
+**Consultant - Data Collection and Visualization**
+(Sept 2018 - present)
+
+
 ### Metastring Foundation, Bangalore ###
 
 **Digital health**
-(November 2019 - present)
+(November 2019 - March 2021)
 
 I joined Metastring to build a health data platform for the country. This is where I picked up Java (and consequently Kotlin and Android). At Metastring, I was working on putting disparate datasets in health together on one platform (in a custom-built multidimensional OLAP cube) and making it available for querying and visualization. We built this over elasticsearch's features using Java.
 
@@ -137,7 +159,28 @@ I do all kinds of things here - system administration, backend api development, 
 **Mozillian**
 (March 2014 - December 2019)
 
+**Firefox Student Ambassador**
+(December 2014 - 2016)
+
 Being a [Mozillian](https://learnlearn.in/mozillian/) has changed my life quite a bit. I was and is deeply in love with the open web. I have interacted with some great people. I constantly stayed in touch with the tech community through Mozilla. But I had to stop contributing when there were [irreconcilable differences with the community management](../why-no-mozilla/).
+
+### Divya Deepa Charitable Trust ###
+
+**Teaching volunteer**
+(October 2011 - August 2015)
+
+### Telegram ###
+
+**User support volunteer / Telegram Support Force**
+(August 2014 - December 2015)
+
+### HasGeek ###
+
+**Volunteer at Kilter Conference**
+(April 2017)
+
+I was running around Kilter conference helping people register and speakers set up their talk.
+
 
 ## Traditional Education ##
 
@@ -146,12 +189,15 @@ Being a [Mozillian](https://learnlearn.in/mozillian/) has changed my life quite 
 **Post Graduate Diploma in Medical Law & Ethics**
 (October 2018 - present)
 
-PGDMLE was in my bucket list from medical school. Once I joined law school, my perception of law changed. I started understanding law as something dynamic and something that individuals can help reinterpret. Currently I am looking for a thesis topic.
+PGDMLE was in my bucket list from medical school. Once I joined law school, my perception of law changed. I started understanding law as something dynamic and something that individuals can help reinterpret. I have cleared all four theory papers (in the first attempt I took) and I'm working on my dissertation on "Medico-legal aspects of telemedicine in India"
 
-### Vivekananda Memorial Hospital, Saragur ###
+### Vivekananda Memorial Hospital, Saragur / Swami Vivekananda Youth Movement ###
 
 **Fellowship in HIV Medicine**
 (August 2017 - July 2018)
+
+**Resident Medical Officer**
+(April 2017 - August 2018)
 
 SVYM [rekindled my ambitions](https://blog.learnlearn.in/2017/05/rekindling-ambitions.html). I became a much better doctor here, learning from some of the best doctors I have ever met. The team here was incredible and I continue to be associated with them. I did a thesis project titled "Why do PLHIV fall sick in the era of ART" which was a qualitative project. The [LaTeX version is online](https://gitlab.com/plhiv-still-sick/2018-mysore). I could manage anyone who came in through the emergency department door (and anyone who came out of pregnant ladies). I managed NICU (including CPAP), deliveries (including receiving newborns some of whom needed resuscitation), trauma (including patients who received ICD), reduction of fractures and dislocations, myocardial infarcts (my god, how many code blues!), bleeding pregnant ladies, severely asthmatic, COPD, sepsis, AIDS of the impossible to be alive stage. I did scores of lumbar punctures, pleural tapping, abdominal tapping. Did a few central line placements, FAST scans. Assisted scores of orthopaedic surgeries (and a few obstetric and general). Mentored medical interns from various medical schools. Managed nursing teams. Was the convenor of CPR committee. Drafted the ACS protocol. I also managed general medicine OPD on days when physician was not available. Did multiple case presentations (we had case presentations every week in grand rounds). I love SVYM (Vivekananda Memorial Hospital) for making me the doctor I am. I believe the year and half I spent here was equivalent to doing first year of postgraduation in Paediatrics, OBG, Medicine, and Surgery.
 
