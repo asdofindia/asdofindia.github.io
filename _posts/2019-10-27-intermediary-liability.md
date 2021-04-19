@@ -11,7 +11,7 @@ I was listening to Mike Hoye's [state of Mozilla (fall 2019)](https://youtu.be/R
 
 ## Intermediary Liability ##
 
-Intermediary liability is the broad and technical term that becomes the foundation of bringing in regulation on software/online services. There is a lot to read about what "intermediary" means and I find [this report by SFLC from March '19](https://sflc.in/sites/default/files/reports/Intermediary_Liability_2_0_-_A_Shifting_Paradigm.pdf) to be a comprehensive overview. Essentially services like Facebook, twitter, google search should all fall under the definition of intermediary.
+Intermediary liability is the broad and technical term that becomes the foundation of bringing in regulation on software/online services. There is a lot to read about what "intermediary" means and I find [this report by SFLC.in from March '19](https://sflc.in/sites/default/files/reports/Intermediary_Liability_2_0_-_A_Shifting_Paradigm.pdf) to be a comprehensive overview. Essentially services like Facebook, twitter, google search should all fall under the definition of intermediary.
 
 At the moment, though, services like Uber seem to be forgotten by people thinking of intermediary liability as the focus is on user-generated content, free speech, and information. These services should also fall under the broad ambit of "intermediary". In fact, the [motor vehicles amendment act of 2019](http://egazette.nic.in/WriteReadData/2019/210413.pdf) which introduced heavy penalties for traffic violations also defined "aggregators" as digital intermediaries. The word "intermediary" should probably stand for all software based services.
 
