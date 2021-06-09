@@ -57,6 +57,10 @@ This page lists the books I have read and the books I want to read.
 
 ## Have read ##
 
+### Mind
+
+* Phantoms in the Brain by V.S. Ramachandran - [review](/phantoms-in-the-brain/)
+
 ### Uncategorized non-fiction
 
 * The Diary of a Young Girl - I don't remember about it because I read it when I was very young.
