@@ -2,7 +2,7 @@ body {
     background-color: #f2f2f2;
     background: url('https://learnlearn.in/noise.png') repeat scroll top #f2f2f2;
     color: #212121;
-    font: 1em manjari, "Helvetica Neue", "Calibri Light", Roboto, sans-serif;
+    font: 1em Manjari, "Helvetica Neue", "Calibri Light", Roboto, sans-serif;
     display: grid;
     grid-template-areas:
         "header"
