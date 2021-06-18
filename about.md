@@ -1,10 +1,15 @@
 ---
 layout: default
 title: About
-excerpt: Akshay S Dinesh is a polymath who lives in the Internet
+excerpt: Akshay S Dinesh is an interdisciplinary systems thinker who lives in the Internet
 permalink: about/
 ---
-I'm Akshay S Dinesh (asd). I am a jack of all trades and a master of some (and [oftentimes better than a master of one](https://www.tedxmanchester.com/speakers-2020/david-epstein/)). I live in the Internet. I love learning. I am a doctor. I code. I fight for digital rights. I advocate [free software](https://learnlearn.in/foss/) (although I don't place it above human beings). You can read a more detailed biopic on [my wikipedia user page](https://en.wikipedia.org/wiki/User:Asdofindia). You can also read an old version of [about me from my blog](https://blog.learnlearn.in/2009/02/about-me.html).
+
+I'm Akshay S Dinesh (asd). But that is just my name. Who am I? What do I identify myself as? I will give you an answer. But before that I will have to question your cognitive biases a bit. When someone says they're a "...", do you box them into that identity? Do you conjure all the stereotypes related to that identity and put it on them? If you do so, you cannot understand me (or anyone else). If you can stop boxing people into identities, here is who I am.
+
+I'm a deep generalist and a fiercely interdisciplinary systems thinker. I live in the Internet. I love learning, unlearning, relearning, and questioning. I am a doctor (the kind of doctor who treats humans). I code (when there is a need to). I fight for digital rights. I advocate [free software](https://learnlearn.in/foss/) (although I don't place it above human beings). I practice and preach intersectional feminism. I stand up to and question my political allies (so that our combined politics is much stronger).
+
+I used to call myself a rationalist, socialist, etc and I used to be an ideological purist and a do-gooder. But then I became an absurdist pragmatist. I oppose lazy and selfish pragmatism because ideological purism is better than that. But rational, altruistic pragmatism is even better.
 
 ## On the web
 Besides this [social feed](https://asd.learnlearn.in/welcome/), I write at a few other places:
@@ -17,10 +22,11 @@ The best way to keep up with all my writings is to [follow me](../follow/)
 
 ## Contact ##
 
-I love hearing from you. Please, please, send me a message.
-There are multiple ways to contact me. The easiest is to send me a message on telegram messenger by clicking here: [t.me/akshay](https://t.me/akshay)
+I crave social validation like most humans. I love hearing from you.
 
-You can send me an email too to [akshay@learnlearn.in](mailto:akshay@learnlearn.in) or [akshay@autistici.org](mailto:akshay@autistici.org). If you are okay with using [google services](https://learnlearn.in/quit-google/) I also have a gmail - [asdofindia@gmail.com](mailto:asdofindia@gmail.com).
+There are multiple ways to contact me. The easiest is to send me a message on telegram messenger by clicking here: [t.me/akshay](https://t.me/akshay) (but do not just send a hi because I get so much spam that I block people who look like they don't know what they're doing).
+
+You can send me an email too to [akshay@learnlearn.in](mailto:akshay@learnlearn.in). If you are okay with using [google services](https://learnlearn.in/quit-google/) I also have a gmail - [asdofindia@gmail.com](mailto:asdofindia@gmail.com).
 
 If you want a more secure way to communicate, here is [my public key](//learnlearn.in/akshay.asc)
 
@@ -34,7 +40,7 @@ The command you are looking for might be `gpg --import`
 
 ### Instant Messaging ###
 
-You can send me a message on [Matrix](https://matrix.org/). My ID is [@akshay:matrix.org](https://matrix.to/#/@akshay:matrix.org)
+Apart from telegram, you can send me a message on [Matrix](https://matrix.org/). My ID is [@akshay:matrix.org](https://matrix.to/#/@akshay:matrix.org)
 
 ## Links ##
 Okay, if you want to stalk me, here are the places you go:
@@ -55,8 +61,8 @@ I do not believe in CVs, but apparently it is important.
 
 ### Health ###
 
-* Clinical history taking
-* Physical examination (respiratory system being my favourite)
+* History taking (in nauseating detail, if required)
+* Physical examination
 * Diagnosis and management of common infectious diseases and non-communicable diseases
 * Management of emergencies including poly-trauma, MI, stroke, sepsis and other medical emergencies
 * Minor procedures (I&D, dressing, NG tube insertion, central line placement, peripheral line)
@@ -70,15 +76,15 @@ I do not believe in CVs, but apparently it is important.
 
 ### Tech ###
 
-* GNU/Linux, bash scripting, system administration (including maintaining servers that support email, DNS, websites). Can install and configure any package. Preferred OS = ArchLinux. Can configure correctly and securely ssh, ufw, fail2ban, certbot, postfix, dovecot, mailman (2 & 3), nginx, apache, caddy, mosh, tmux, cryptpad, npm, yarn, pipenv, and other useful packages.
-* Web development - nodejs (express, sails), java (jax-rs). Can write compliant html using the latest features. Can write CSS, javascript. Can setup gulp, grunt, webpack, sass.
-* Static site development - jekyll, docpad
-* Programming - can do whatever I want in python, javascript, java, and kotlin; can write algorithms slowly but surely in c, c++, julia, R, go, ruby, rust, bash, haskell, php, scala, clojure (lisp, ftw!). Can use async/await properly in javascript. Can use streams and lambdas correctly in java.
+* GNU/Linux, bash scripting, system administration (including maintaining servers that support email, DNS, websites). Can install and configure any package. Monkey patching, maintaining forks, debugging running processes, ransacking logs, trial & error of all combinations of configurations, deliberately introducing bugs to isolate problems, brute forcing, penetration testing own services, recovering from failures, losing production data - I've been there and done all of that.
+* Web development - Backend, frontend, full stack, outside the stack, if it has anything to do with the web, I've done it. Won't list the javascript frameworks I have explored (because they are endless). In addition to nodejs, I've worked on servers in Java (Quarkus, Jakarta EE), Kotlin, Python.
+* Static site development - holds a special place in my heart. I'm a big fan of jekyll and docpad.
+* Dynamic sites - can adjust with wordpress (even though I find php very boring).
+* Programming - can do whatever I want in python, javascript, java, and kotlin; can write algorithms slowly but surely in c, c++, julia, R, go, ruby, rust, bash, haskell, php, scala, clojure (lisp, ftw!). Can use async/await properly in javascript (despite red-blue functions). Can use streams and lambdas correctly in java.
 * Android development - can build widgets (as of now)
 * Algorithms and data structures
-* Frameworks - jquery, bootstrap, bulma, react, jersey
-* Libraries - google or-tools, fulcrum, dplyr, ggplot2, d3.js, leaflet.js
-* Database - mongodb, elasticsearch, postgresql
+* Maps, spatial programming, data science - have worked with google or-tools, fulcrum, d3.js, dplyr, leaflet.js, mapbox, openstreetmap, ggplot2, the whole of tidyverse, pandas, geoserver, overpass turbo.
+* Database - mongodb, elasticsearch, postgresql, neo4j
 * Webextensions
 * Chatbots, chatops; webhooks
 * Code review - can read others' code, can debug bugs
@@ -93,6 +99,8 @@ I do not believe in CVs, but apparently it is important.
 ### Special ###
 
 * Critical thinking (to the point it becomes annoying to some)
+* Systems thinking and ability to understand complex adaptive systems
+* Sociological thinking
 * Devising business plans and foreseeing potential problems
 * Fixing accounting tables where numbers aren't matching
 * Ethical sense & moral compass that points in the right direction
@@ -101,20 +109,35 @@ I do not believe in CVs, but apparently it is important.
 ### People ###
 
 * Treating everyone as equals and with respect
-* De-escalating and resolving conflicts (of other people)
+* De-escalating and resolving conflicts (of other people. Because you see, if I'm involved and triggered, it wouldn't be so easy, would it?)
 * Mentoring/peer-learning
 
 ## Informal Education ##
 
+### Home ###
+
+**Voracious reader**
+(April 2021 - present)
+
+With the 2nd wave of COVID in India I have been sitting at home and consuming vast amounts of literature (mostly non-fiction, but some fiction too).
+
+**MOOC student**
+
+I'm a big fan of MOOCs. MIT's OCW is how I spent my 11th and 12th learning. Right now I'm going through Nand2Tetris and Understanding Health Systems.
+
 ### Swathanthra Malayalam Computing / Indic Project ###
+
+**Release Engineer, Indic Keyboard**
+(July 2020 - present)
+
+I prepare and coordinate the [F-Droid](https://f-droid.org/en/packages/org.smc.inputmethod.indic/) release of [Indic Keyboard](https://indic.app) (the original one, not Google's clone).
 
 **Volunteer**
 (June 2014 - present)
 
 I volunteer as a sysadmin, wiki sysop, git repo maintainer, etc.
 
-
-**Community Manager for GSoC**
+**Community Manager**
 (March 2016 - present)
 
 Was one of the organization admins in Google Summer of Code and among the points of contact for students.
@@ -127,6 +150,12 @@ Was one of the organization admins in Google Summer of Code and among the points
 **Consultant - Data Collection and Visualization**
 (Sept 2018 - present)
 
+### JeevaRaksha Trust, Bangalore ###
+
+**Trainer**
+(2018 - present)
+
+With JeevaRaksha I've led or been part of various emergency care life support courses and basic care life support courses in Mysore, Bangalore, Koppal, and Saragur. The trainees have included medical faculties, medical graduates, para-medical staff, teachers, police. This is where I've thought in depth and learnt hard lessons about pedagogy and being an efficient trainer.
 
 ### Metastring Foundation, Bangalore ###
 
