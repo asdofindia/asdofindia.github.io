@@ -61,6 +61,10 @@ This page lists the books I have read and the books I want to read.
 
 * Phantoms in the Brain by V.S. Ramachandran - [review](/phantoms-in-the-brain/)
 
+### Self-help-ish
+
+* Think Again: The Power of Knowing What You Don't Know by Adam Grant - An exceptional book about confident humility. This book has been an incredibly useful read for me. Gave me answers to a lot of perplexing questions. If anyone is finding their life philosophy riddled with "contradictions", they should read this! I will share a detailed review when I find enough words to express what I feel about this book.
+
 ### Uncategorized non-fiction
 
 * The Diary of a Young Girl - I don't remember about it because I read it when I was very young.
