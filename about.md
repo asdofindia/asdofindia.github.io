@@ -283,11 +283,12 @@ This is also the time I started loving computers. I was fascinated beyond words 
 
 I have kept this section at the end so that you can judge me last. I am [very privileged](https://blog.learnlearn.in/2018/08/what-next.html). Here is an incomplete list of my privileges:
 
-* I was born into a higher middle class family in Kerala.
+* I was born into a upper class family in Kerala.
 * I have not been discriminated against based on my family's religion/caste (and yes, I was born in a privileged caste of the majority religion in my country).
-* I am a straight cis-male.
+* I am a heterosexual cis-male.
+* I do not have a physical or mental disability.
 * My parents are both alive, healthy, independent, and work in public sector.
 * I had access to internet at a very early age.
 * I was allowed and assisted to dream.
 * I passed my childhood without a lot of psychological or physical trauma.
-* [...all the privileges I'm currently blind towards]
+* [...all the privileges I'm currently ignorant about]
