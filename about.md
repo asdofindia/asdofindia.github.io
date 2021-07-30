@@ -11,6 +11,8 @@ I'm a deep generalist and a fiercely interdisciplinary systems thinker. I live i
 
 I used to call myself a rationalist, socialist, etc and I used to be an ideological purist and a do-gooder. But then I became an absurdist pragmatist. I oppose lazy and selfish pragmatism because ideological purism is better than that. But rational, altruistic pragmatism is even better.
 
+I am opposed to the idea of unquestionable expertise. No matter how experienced a person is in a field, they should not be able to get away with unsubstantiated arguments - especially if there is opposition. "Intuition" is how people arrive at conclusions, yes. That's the way brain works. But, intuitions have to be supplemented by logic. Nobody has to be forced to swallow others' intuitions.
+
 ## On the web
 Besides this [social feed](https://asd.learnlearn.in/welcome/), I write at a few other places:
 * [Blissful Life](https://blog.learnlearn.in) - Full length blog posts in English
