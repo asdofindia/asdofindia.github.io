@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Copy of Letter to Wellcome "Open" Research's Editor about Comments Policy
+title: "Copy of Letter to Wellcome \"Open\" Research's Editor about Comments Policy"
 tags:
   - freedom
   - science
