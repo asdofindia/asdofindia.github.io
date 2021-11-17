@@ -80,8 +80,9 @@ I do not believe in CVs, but apparently it is important.
 
 * GNU/Linux, bash scripting, system administration (including maintaining servers that support email, DNS, websites). Can install and configure any package. Monkey patching, maintaining forks, debugging running processes, ransacking logs, trial & error of all combinations of configurations, deliberately introducing bugs to isolate problems, brute forcing, penetration testing own services, recovering from failures, losing production data - I've been there and done all of that.
 * Web development - Backend, frontend, full stack, outside the stack, if it has anything to do with the web, I've done it. Won't list the javascript frameworks I have explored (because they are endless). In addition to nodejs, I've worked on servers in Java (Quarkus, Jakarta EE), Kotlin, Python.
-* Static site development - holds a special place in my heart. I'm a big fan of jekyll and docpad.
+* Static site development - holds a special place in my heart. I'm a big fan of jekyll, docpad, and hugo. Static APIs are super cool.
 * Dynamic sites - can adjust with wordpress (even though I find php very boring).
+* Data scraping - reverse engineering APIs, getting data out of HTML soup.
 * Programming - can do whatever I want in python, javascript, java, and kotlin; can write algorithms slowly but surely in c, c++, julia, R, go, ruby, rust, bash, haskell, php, scala, clojure (lisp, ftw!). Can use async/await properly in javascript (despite red-blue functions). Can use streams and lambdas correctly in java.
 * Android development - can build widgets (as of now)
 * Algorithms and data structures
@@ -115,6 +116,15 @@ I do not believe in CVs, but apparently it is important.
 * Mentoring/peer-learning
 
 ## Informal Education ##
+
+### Open Data Kerala ###
+
+**Maintainer of Map Kerala**
+(May 2021 - present)
+
+Along with [Manoj Karingamadathil](https://meta.wikimedia.org/wiki/User:Manojk) and [Abraham Raji](https://abrahamraji.in/) I built and now maintain [Map Kerala](https://map.opendatakerala.org/) which is a dashboard for geospatial data on Kerala.
+
+It is built with data from openstreetmap and wikidata, utilizing hugo's static site generation combined with vanilla javascript that queries Overpass Turbo API to show realtime data.
 
 ### Home ###
 
@@ -166,6 +176,8 @@ With JeevaRaksha I've led or been part of various emergency care life support co
 
 I joined Metastring to build a health data platform for the country. This is where I picked up Java (and consequently Kotlin and Android). At Metastring, I was working on putting disparate datasets in health together on one platform (in a custom-built multidimensional OLAP cube) and making it available for querying and visualization. We built this over elasticsearch's features using Java.
 
+Link: [github.com/Metastring/](https://github.com/Metastring/)
+
 ### PCMH Restore Health, Bangalore ###
 
 **Primary Care Physician**
@@ -181,9 +193,20 @@ I have been helping many health researchers set up their projects. Data collecti
 ### Infinity+Beyond, Bangalore ###
 
 **Programmer**
-(January 2018 - present)
+(January 2018 - COVID screwing up startups in the country)
 
-I do all kinds of things here - system administration, backend api development, SMS gateway integration, frontend interface development, algorithms for optimizing service.
+I did all kinds of things here - system administration, backend api development, SMS gateway integration, frontend interface development, algorithms for optimizing service.
+
+### Geominds ###
+
+**Programmer**
+(2015)
+
+We built a visualizer for LSG level data during LSG elections in 2015 for Kozhikode district. [http://explore.geominds.in/lsgielections/](http://explore.geominds.in/lsgielections/)
+
+This involved lots of scraping data (python, javascript). Then this data was combined with manually scraped data to visualize with d3.
+
+Link: [github.com/geominds/](https://github.com/geominds/)
 
 ### Mozilla ###
 
