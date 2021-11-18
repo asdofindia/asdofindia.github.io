@@ -117,6 +117,14 @@ I do not believe in CVs, but apparently it is important.
 
 ## Informal Education ##
 
+### Academy of Family Physicians of India ###
+
+**Life Member**
+(December 2018 - present)
+
+**AFPI Karnataka Newsletter editorial team**, later **Chief Editor**
+(2018 - present)
+
 ### Open Data Kerala ###
 
 **Maintainer of Map Kerala**
@@ -164,7 +172,7 @@ Was one of the organization admins in Google Summer of Code and among the points
 
 ### JeevaRaksha Trust, Bangalore ###
 
-**Trainer**
+**Trainer**, later **Senior Trainer**
 (2018 - present)
 
 With JeevaRaksha I've led or been part of various emergency care life support courses and basic care life support courses in Mysore, Bangalore, Koppal, and Saragur. The trainees have included medical faculties, medical graduates, para-medical staff, teachers, police. This is where I've thought in depth and learnt hard lessons about pedagogy and being an efficient trainer.
@@ -241,9 +249,9 @@ I was running around Kilter conference helping people register and speakers set 
 ### National Law School of India University, Bangalore ###
 
 **Post Graduate Diploma in Medical Law & Ethics**
-(October 2018 - present)
+(October 2018 - August 2021)
 
-PGDMLE was in my bucket list from medical school. Once I joined law school, my perception of law changed. I started understanding law as something dynamic and something that individuals can help reinterpret. I have cleared all four theory papers (in the first attempt I took) and I'm working on my dissertation on "Medico-legal aspects of telemedicine in India"
+PGDMLE was in my bucket list from medical school. Once I joined law school, my perception of law changed. I started understanding law as something dynamic and something that individuals can help reinterpret. My dissertation was on "Medico-legal aspects of telemedicine in India" - which went through multiple iterations thanks to the world changing its outlook on telemedicine during pandemic.
 
 ### Vivekananda Memorial Hospital, Saragur / Swami Vivekananda Youth Movement ###
 
