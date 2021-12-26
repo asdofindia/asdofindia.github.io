@@ -9,6 +9,8 @@ I'm Akshay S Dinesh (asd). But that is just my name. Who am I? What do I identif
 
 I'm a deep generalist and a fiercely interdisciplinary systems thinker. I live in the Internet. I love learning, unlearning, relearning, and questioning. I am a doctor (the kind of doctor who treats humans). I code (when there is a need to). I fight for digital rights. I advocate [free software](https://learnlearn.in/foss/) (although I don't place it above human beings). I practice and preach intersectional feminism. I stand up to and question my political allies (so that our combined politics is much stronger).
 
+**NOTE: As of December 2021 - I'm devoted to a movement of transforming primary healthcare in India.** I haven't had time to update this to reflect that.
+
 I used to call myself a rationalist, socialist, etc and I used to be an ideological purist and a do-gooder. But then I became an absurdist pragmatist. I oppose lazy and selfish pragmatism because ideological purism is better than that. But rational, altruistic pragmatism is even better.
 
 I am opposed to the idea of unquestionable expertise. No matter how experienced a person is in a field, they should not be able to get away with unsubstantiated arguments - especially if there is opposition. "Intuition" is how people arrive at conclusions, yes. That's the way brain works. But, intuitions have to be supplemented by logic. Nobody has to be forced to swallow others' intuitions.
