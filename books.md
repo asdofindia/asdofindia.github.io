@@ -64,6 +64,7 @@ This page lists the books I have read and the books I want to read.
 ### Self-help-ish
 
 * Think Again: The Power of Knowing What You Don't Know by Adam Grant - An exceptional book about confident humility. This book has been an incredibly useful read for me. Gave me answers to a lot of perplexing questions. If anyone is finding their life philosophy riddled with "contradictions", they should read this! I will share a detailed review when I find enough words to express what I feel about this book.
+* Dichotomy of Leadership - I thought military leadership is very hierarchical and there's nothing there to apply to our own leadership. But I was wrong. Turns out in military, without the right kind of leadership lives are lost. This book brings out the balancing forces that act on a leader.
 
 ### Uncategorized non-fiction
 
@@ -78,6 +79,7 @@ This page lists the books I have read and the books I want to read.
 * The Doctor and The Saint by Arundathi Roy - helped break the idol called MK Gandhi
 * Annihilation of Caste - [full review](https://blog.learnlearn.in/2020/12/annihilation-of-caste.html)
 * Tyranny of Merit by Michael Sandel - [review inside my blog post](https://blog.learnlearn.in/2020/12/what-to-do-with-privilege.html)
+* Against White Feminism by Rafia Zakari - lays out everything that is wrong with white/savarna feminism and gives an intersectional perspective.
 
 ### Fiction
 
@@ -88,3 +90,7 @@ This page lists the books I have read and the books I want to read.
 * Harry Potter series by JK Rowling - I grew up reading these books and they're truly magical.
 * To Kill a Mockingbird by Harper Lee - The story of Atticus and Scout and Jem and Maycomb and systemic violence and morals.
 * The Old Man and the Sea by Ernest Hemingway - It was like a short film that left one wondering at the end.
+
+## Have skimmed through ##
+
+* Along the Archival Grain: Epsitemic Anxieties and Colonial Common Sense by Ann Laura Stoler - about how to see history from the oppressor's narrative.
