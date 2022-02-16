@@ -13,6 +13,11 @@ I used to call myself a rationalist, socialist, etc and I used to be an ideologi
 
 I am opposed to the idea of unquestionable expertise. No matter how experienced a person is in a field, they should not be able to get away with unsubstantiated arguments - especially if there is opposition. "Intuition" is how people arrive at conclusions, yes. That's the way brain works. But, intuitions have to be supplemented by logic. Nobody has to be forced to swallow others' intuitions.
 
+Since this page is too long, here's a table of contents:
+* TOC
+{:toc}
+
+
 ## On the web
 Besides this [social feed](https://asd.learnlearn.in/welcome/), I write at a few other places:
 * [Blissful Life](https://blog.learnlearn.in) - Full length blog posts in English
@@ -117,7 +122,7 @@ I do not believe in CVs, but apparently it is important.
 
 ## Informal Education ##
 
-## Entrepreneurship ##
+### Entrepreneurship ###
 
 **Biotech entrepreneur**
 (December 2021 - February 2022)
@@ -179,8 +184,12 @@ Was one of the organization admins in Google Summer of Code and among the points
 **Honorary Associate**
 (December 2020 - present)
 
+As an HA under the chronic conditions & public policies cluster, I programmed [a tobacco related parliament questions portal](https://tobaccoquestions.iphindia.org/).
+
 **Consultant - Data Collection and Visualization**
 (Sept 2018 - present)
+
+I'm a consultant on [THETA project](https://pubmed.ncbi.nlm.nih.gov/32211518/) of the health equity cluster.
 
 ### JeevaRaksha Trust, Bangalore ###
 
