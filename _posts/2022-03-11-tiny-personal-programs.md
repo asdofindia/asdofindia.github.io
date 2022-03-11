@@ -66,3 +66,8 @@ If you clicked on the firefox extension links above you'll notice that they are 
 ---
 
 What are some of your tiny programs? Write a blog post and [share with me](/about/#contact).
+
+Here are some other tiny personal programs:
+
+- [Anant Shrivastava](https://github.com/anantshri/script-collection/) (look at loop.sh and gc for sure)
+- [Anand Chitipothu](https://github.com/anandology/hacks)
