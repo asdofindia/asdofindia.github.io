@@ -89,9 +89,9 @@ I do not believe in CVs, but apparently it is important.
 * Dynamic sites - can adjust with wordpress (even though I find php very boring).
 * Data scraping - reverse engineering APIs, getting data out of HTML soup.
 * Programming - can do whatever I want in python, javascript, java, and kotlin; can write algorithms slowly but surely in c, c++, julia, R, go, ruby, rust, bash, haskell, php, scala, clojure (lisp, ftw!). Can use async/await properly in javascript (despite red-blue functions). Can use streams and lambdas correctly in java.
-* Android development - can build widgets (as of now)
+* Android development - jetpack compose, kotlin, MVVM architecture
 * Algorithms and data structures
-* Maps, spatial programming, data science - have worked with google or-tools, fulcrum, d3.js, dplyr, leaflet.js, mapbox, openstreetmap, ggplot2, the whole of tidyverse, pandas, geoserver, overpass turbo.
+* Maps, spatial programming, data science - have worked with google or-tools, fulcrum, d3.js, dplyr, leaflet.js, mapbox, openstreetmap, ggplot2, the whole of tidyverse, pandas, geoserver, overpass turbo, openlayers
 * Database - mongodb, elasticsearch, postgresql, neo4j
 * Webextensions
 * Chatbots, chatops; webhooks
