@@ -89,6 +89,7 @@ I do not believe in CVs, but apparently it is important.
 * Dynamic sites - can adjust with wordpress (even though I find php very boring).
 * Data scraping - reverse engineering APIs, getting data out of HTML soup.
 * Programming - can do whatever I want in python, javascript, java, and kotlin; can write algorithms slowly but surely in c, c++, julia, R, go, ruby, rust, bash, haskell, php, scala, clojure (lisp, ftw!). Can use async/await properly in javascript (despite red-blue functions). Can use streams and lambdas correctly in java.
+* Devops - docker, docker-compose, build automation, deployments
 * Android development - jetpack compose, kotlin, MVVM architecture
 * Algorithms and data structures
 * Maps, spatial programming, data science - have worked with google or-tools, fulcrum, d3.js, dplyr, leaflet.js, mapbox, openstreetmap, ggplot2, the whole of tidyverse, pandas, geoserver, overpass turbo, openlayers
@@ -154,13 +155,37 @@ It is built with data from openstreetmap and wikidata, utilizing hugo's static s
 ### Home ###
 
 **Voracious reader**
-(April 2021 - present)
+(April 2021 - Dec 2021)
 
 With the 2nd wave of COVID in India I have been sitting at home and consuming vast amounts of literature (mostly non-fiction, but some fiction too).
 
 **MOOC student**
 
 I'm a big fan of MOOCs. MIT's OCW is how I spent my 11th and 12th learning. Right now I'm going through Nand2Tetris and Understanding Health Systems.
+
+### Debian
+
+**Packaging**
+(Dec 2020 - present)
+
+I've fixed various nasty bugs in debian packages for the javascript team.
+
+**Mentor for outreachy**
+(May 2021 - present)
+
+I mentor outreachy participants working in Debian Javascript team's projects.
+
+### Free Software Community of India
+
+**Contributor**
+
+As part of the collective that FSCI is, I've contributed to organization of Free Software camp 2020 and Software Freedom Camp 2021.
+
+I have done maintenance in the following services that FSCI run:
+- Prosody XMPP server
+- Loomio
+- Mailman Mailing list
+- Gitlab
 
 ### Swathanthra Malayalam Computing / Indic Project ###
 
