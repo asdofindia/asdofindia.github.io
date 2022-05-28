@@ -35,8 +35,8 @@ main {
 }
 
 pre, code {
-    overflow: auto;
-    white-space: pre-wrap;
+    overflow-x: scroll;
+    white-space: pre;
 
 }
 
