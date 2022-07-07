@@ -7,6 +7,12 @@ tags:
 
 ##### I wanted to understand how Frappe/ERPNext works. So I went through the codebase. #####
 
+## Frappe
+
+[Frappe](https://frappeframework.com/) is a popular, open-source, low-code web platform built by [Frappe](https://frappe.io/). The rest of this post is purely technical.
+
+## Setup
+
 Firstly, I will describe how I set up the development setup.
 
 Frappe needs mysql root user password. I don't even know what that password is. So, instead, I used a mariadb docker like this:
