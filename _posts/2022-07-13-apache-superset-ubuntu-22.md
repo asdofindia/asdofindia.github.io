@@ -22,6 +22,7 @@ Now, we have to install a few python stuff
 
 ```
 sudo apt install python3.8 python3.8-dev python3.8-venv
+sudo apt install build-essential
 ```
 
 The -dev library is required for `python-geohash` which is a dependency.
@@ -31,7 +32,7 @@ Now we can start installation.
 ```
 python3.8 -m venv venv
 source venv/bin/activate
-pip install apache-superset
+pip install apache-superset==1.5.1
 ```
 
 The markupsafe version is broken. We have to downgrade it.
@@ -68,3 +69,25 @@ If that's not possible you can use VirtualBox and install Linux inside that.
 If even that's not possible, docker desktop with WSL might be an option for you.
 
 If you want to try installing from scratch, make sure that you have "Build Tools for Visual Studio 2022" installed [from](https://visualstudio.microsoft.com/downloads/?q=build+tools) (scroll down on that page. It is not visual studio code)
+
+## Update: Superset 2
+
+A couple of days after this blog post was written, apache-superset 2.0.0 became available on pypi.
+
+You can do almost the same steps for 2.0.0 too, but instead of doing
+
+```
+pip install apache-superset==1.5.1
+```
+
+you'll have to do 
+
+```
+pip install apache-superset
+```
+
+And, there is a dependency issue too which can be fixed with
+
+```
+pip install werkzeug==2.0.3
+```
