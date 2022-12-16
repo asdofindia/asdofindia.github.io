@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ChatGPT vs Programmer"
-tags
+tags:
   - technology
 ---
 
