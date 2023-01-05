@@ -123,6 +123,17 @@ I do not believe in CVs, but apparently it is important.
 
 ## Informal Education ##
 
+### Kinara Capital ###
+
+**Full Stack Engineer**
+(June 2022 - present)
+
+### SOCHARA ###
+
+**Curator, Archivist, All things digital**
+(June 2022 - present)
+
+
 ### Entrepreneurship ###
 
 **Biotech entrepreneur**
@@ -235,14 +246,14 @@ Link: [github.com/Metastring/](https://github.com/Metastring/)
 ### PCMH Restore Health, Bangalore ###
 
 **Primary Care Physician**
-(August 2018 - present)
+(August 2018 - 2020)
 
-As a primary care physician, I am learning to provide primary care. You think primary care is easy? Think again. Primary care is managing 4 different chronic illnesses (all deadly on its own) in a patient who is taking multiple drugs for each and then responding to an acute illness which has to be seen in the context of the patient's previously known illnesses. Hospital based secondary or tertiary care can often miss this important context. Therefore, questions like "Should we do an angiogram though ECG is not very suggestive?" are easier to answer for a primary care physician who knows the patient and their family and community closely. Okay, enough of that. I am learning how to manage HIV, diabetes, tuberculosis, hypertension, thyroid dysfunction, heart failure, depression, anxiety, obsessive compulsive disorder, hepatitis, syphilis, etc.
+As a primary care physician, I provided primary care. You think primary care is easy? Think again. Primary care is managing 4 different chronic illnesses (all deadly on its own) in a patient who is taking multiple drugs for each and then responding to an acute illness which has to be seen in the context of the patient's previously known illnesses. Hospital based secondary or tertiary care can often miss this important context. Therefore, questions like "Should we do an angiogram though ECG is not very suggestive?" are easier to answer for a primary care physician who knows the patient and their family and community closely. Okay, enough of that. I am learning how to manage HIV, diabetes, tuberculosis, hypertension, thyroid dysfunction, heart failure, depression, anxiety, obsessive compulsive disorder, hepatitis, syphilis, etc.
 
 **Public Health Consultant**
-(September 2018 - present)
+(September 2018 - 2020)
 
-I have been helping many health researchers set up their projects. Data collection, management, and analysis
+I helped many health researchers set up their projects. Data collection, management, and analysis
 
 ### Infinity+Beyond, Bangalore ###
 
