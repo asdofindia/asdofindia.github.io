@@ -55,7 +55,7 @@ Okay, if you want to stalk me, here are the places you go:
 * [gitlab.com/asdofindia](https://gitlab.com/asdofindia)
 * [github.com/asdofindia](https://github.com/asdofindia)
 * <a rel="me" href="https://mastodon.technology/@akshay">@akshay@mastodon.technology</a>
-* [twitter.com/asdofindia](https://twitter.com/asdofindia)
+* [twitter.com/asdofindia](../to-leave-twitter/)
 * [asdofindia@joindiaspora.com](https://joindiaspora.com/people/2a39042b15979f8b)
 * [facebook.com](//learnlearn.in/facebook/)
 * [mozillians.org/u/asdofindia](../why-no-mozilla/)

@@ -29,3 +29,7 @@ Overall I'm getting a very negative vibe from Twitter these days (the way I used
 This is not about Elon Musk or Mastodon. Neither of those are good enough reasons to leave a social media.
 
 It is about the cost-benefit analysis.
+
+---
+
+I wouldn't post anything to [my Twitter profile](https://twitter.com/asdofindia) alone. Most of the stuff were already written on my blogs and syndicated to Twitter. I still have [mastodon](https://social.learnlearn.in/) and [two](https://t.me/learnlearnin) [channels](https://t.me/interdisciplinarycollection) on telegram where you can follow me.
