@@ -385,3 +385,10 @@ I have kept this section at the end so that you can judge me last. I am [very pr
 * I was allowed and assisted to dream.
 * I passed my childhood without a lot of psychological or physical trauma.
 * [...all the privileges I'm currently ignorant about]
+
+## SSH
+
+If you have to give me access to a random server, you can add the following public key and let me know the ssh parameters.
+
+```ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPrMaUXtKYTx++mKUm1tA5r8qDXtls9x4ie0kHAqfmGQ asd@workstation```
+
