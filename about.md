@@ -123,16 +123,19 @@ I do not believe in CVs, but apparently it is important.
 
 ## Informal Education ##
 
+### SOCHARA ###
+
+**Curator, Archivist, All things digital** / **Digital Humanist**
+(June 2022 - present)
+
+SOCHARA is where my philosophies about work, life, and society found an ideal partner. After an year of talking to people and absorbing SOCHARA, I now infuse energy into the [Digital Humanities @ SOCHARA](https://wiki.sochara.org/en/digital-humanities-at-sochara) department.
+
 ### Kinara Capital ###
 
 **Full Stack Engineer**
-(June 2022 - present)
+(June 2022 - June 2023)
 
-### SOCHARA ###
-
-**Curator, Archivist, All things digital**
-(June 2022 - present)
-
+Kinara Capital is an NBFC that gives collateral free loan to MSMEs. When I joined here I was under the impression that I will be able to build solid tech that has social impact. I learnt a lot about teamwork and communication in corporate spaces here.
 
 ### Entrepreneurship ###
 
