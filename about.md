@@ -123,6 +123,19 @@ I do not believe in CVs, but apparently it is important.
 
 ## Informal Education ##
 
+### Sarvatrika Arogya Andolana - Karnataka ###
+
+**Website, Social Media**
+(June 2023 - present)
+
+[saakarnataka.org](https://saakarnataka.org) is maintained by me.
+
+### Bahutva Karnataka ###
+
+This is a progressive movement in Karnataka. I'm a part.
+
+Read at [bahutvakarnataka.wordpress.com](https://bahutvakarnataka.wordpress.com/).
+
 ### SOCHARA ###
 
 **Curator, Archivist, All things digital** / **Digital Humanist**
@@ -152,10 +165,10 @@ Not something I would recommend to those who cannot take responsibility for the 
 ### Academy of Family Physicians of India ###
 
 **Life Member**
-(December 2018 - present)
+(December 2018 - end of life?)
 
 **AFPI Karnataka Newsletter editorial team**, later **Chief Editor**
-(2018 - present)
+(2018 - 2022)
 
 ### Open Data Kerala ###
 
