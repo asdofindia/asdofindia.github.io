@@ -21,7 +21,7 @@ People across the world have added administrative boundaries at various levels o
 | 10          | Ward     |                                                  |
 
 
-[^adminlevels]: https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative#10_admin_level_values_for_specific_countries
+[^adminlevels]: [OSM Wiki reference](https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative#10_admin_level_values_for_specific_countries)
 
 Since ward falls at admin_level=10, that's the data that we need.
 
