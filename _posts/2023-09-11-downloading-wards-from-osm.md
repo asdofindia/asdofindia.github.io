@@ -11,14 +11,14 @@ OpenStreetMap (called OSM) is the map of the world powered by people like you an
 
 People across the world have added administrative boundaries at various levels on to OSM. For consistency across India, this follows the following standard[^adminlevels]:
 
-|  |  |  |
-|--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| admin_level | Boundary |                                                  |
+|-------------|----------|--------------------------------------------------|
+| 2           | Country  | All countries are admin_level 2, including India |
+| 4           | State    | Kerala, Karnataka, etc                           |
+| 5           | District | Kannur, Wayanad, etc                             |
+| 6           | Taluk    |                                                  |
+| 8           | LSG      | Municipality, Village, etc                       |
+| 10          | Ward     |                                                  |
 
 
 [^adminlevels]: https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative#10_admin_level_values_for_specific_countries
