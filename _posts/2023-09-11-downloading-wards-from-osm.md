@@ -7,6 +7,8 @@ tags:
 
 ##### You can download ward maps from OSM by following this #####
 
+**NOTE: While the following is technically the way to do it, ward level data is not very accurate in OSM at the time. Unless a local OSM contributor tells you that this data has been verified with the actuals from the local self-governing body, then do not rely on this. You can do the verification/edits yourself and download too.**
+
 OpenStreetMap (called OSM) is the map of the world powered by people like you and me. Go to [openstreetmap.org](https://openstreetmap.org/) to explore it or download an app powered by OSM data like osmand or maps.me from your app store.
 
 People across the world have added administrative boundaries at various levels on to OSM. For consistency across India, this follows the following standard[^adminlevels]:
