@@ -49,10 +49,10 @@ By default Aegisub uses ass format, but you can export to other formats.
 
 Here are some links that help in this:
 
-* https://stackoverflow.com/questions/21363334/how-to-add-font-size-in-subtitles-in-ffmpeg-video-filter/21369850#21369850
-* https://superuser.com/questions/1010102/how-to-select-font-for-burning-subtitles-with-ffmpeg
-* https://stackoverflow.com/questions/25870169/how-to-set-background-to-subtitle-in-ffmpeg
-* https://www.baeldung.com/linux/subtitles-ffmpeg
+* [https://stackoverflow.com/questions/21363334/how-to-add-font-size-in-subtitles-in-ffmpeg-video-filter/21369850#21369850](https://stackoverflow.com/questions/21363334/how-to-add-font-size-in-subtitles-in-ffmpeg-video-filter/21369850#21369850)
+* [https://superuser.com/questions/1010102/how-to-select-font-for-burning-subtitles-with-ffmpeg](https://superuser.com/questions/1010102/how-to-select-font-for-burning-subtitles-with-ffmpeg)
+* [https://stackoverflow.com/questions/25870169/how-to-set-background-to-subtitle-in-ffmpeg](https://stackoverflow.com/questions/25870169/how-to-set-background-to-subtitle-in-ffmpeg)
+* [https://www.baeldung.com/linux/subtitles-ffmpeg](https://www.baeldung.com/linux/subtitles-ffmpeg)
 
 There are mainly two ways of adding subtitles:
 
