@@ -825,3 +825,6 @@ So, I took the answer.json and [converted it to a markdown table with this tool]
 | 592 | Delhi                    | Delhi                  | 117   |
 | 593 | Greater Bombay           | Maharashtra            | 122   |
 | 594 | Bangalore Urban          | Karnataka              | 165   |
+
+
+You can get the whole script [here](https://gitlab.com/asdofindia/dominos-districts)
