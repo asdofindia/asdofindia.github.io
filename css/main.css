@@ -190,3 +190,7 @@ table, th, td {
     border-collapse: collapse;
     padding: 5px;
 }
+
+article img {
+    max-width: 100%;
+}
