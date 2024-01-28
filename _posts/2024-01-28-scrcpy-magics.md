@@ -1,4 +1,5 @@
---- layout: post
+---
+layout: post
 title: "The magics of scrcpy"
 tags:
   - freedom
