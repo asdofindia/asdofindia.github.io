@@ -94,3 +94,8 @@ This page lists the books I have read and the books I want to read.
 ## Have skimmed through ##
 
 * Along the Archival Grain: Epsitemic Anxieties and Colonial Common Sense by Ann Laura Stoler - about how to see history from the oppressor's narrative.
+
+
+## Reading lists
+
+* [HN Top 40](https://hnreads.com/post/top40_2023/)
