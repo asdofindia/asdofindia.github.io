@@ -18,18 +18,26 @@ body {
 	top: 2rem;
 	width: 69%;
 	margin-left: 27%;
+	box-shadow: -10px 5px 10px 10px teal;
+    }
+    main > * {
 	padding-left: 3%;
-	border-left: 1px solid black;
-	box-shadow: -10px 5px teal;
+	padding-right: 3%;
+    }
+    #home {
+	padding-left:0; 
+	padding-right: 1%;
+    }
+    article {
+        padding-top: 10px;
+    }
+    .postFooter {
+	padding-bottom: 10px;
     }
 }
 
 article {
     font-size: 1.5rem;
-}
-
-article h2 {
-	position: sticky;
 }
 
 pre, code {
@@ -141,10 +149,11 @@ article pre {
 
 .post {
     padding: 20px;
-    border-radius: 10px;
-    border-top: 1px solid #999;
-    border-bottom: 1px dotted #999;
+    box-shadow: 2px 2px 2px 2px teal;
     margin: 10px 0;
+}
+.post:active {
+    box-shadow: 0px 1px 1px 1px teal;
 }
 
 .linkButton {
