@@ -1,19 +1,26 @@
 body {
-    display: grid;
-    grid-template-areas:
-        "header"
-        "main"
-        "footer";
+    max-width: 2048px;
 }
 @media(min-width: 40em) {
-    body{
-        grid-template-columns: auto auto;
-        grid-template-rows: 50vh 50vh;
-        grid-gap: 2em;
-        grid-template-areas:
-        "header main"
-        "footer main"
-        ;
+    header {
+	position: sticky;
+	width: 25%;
+	top: 2rem;
+	float: left;
+    }
+    footer {
+	bottom: 2rem;
+	width: 25%;
+        position: sticky;
+	float: left;
+    }
+    main {
+	top: 2rem;
+	width: 69%;
+	margin-left: 27%;
+	padding-left: 3%;
+	border-left: 1px solid black;
+	box-shadow: -10px 5px teal;
     }
 }
 
@@ -21,26 +28,14 @@ article {
     font-size: 1.5rem;
 }
 
-header {
-    grid-area: header;
-}
-
-main {
-    grid-area: main;
-    max-width: 40rem;
+article h2 {
+	position: sticky;
 }
 
 pre, code {
     overflow-x: auto;
     white-space: pre-wrap;
-
 }
-
-footer {
-    grid-area: footer;
-    margin: auto;
-}
-
 
 header h1 {
     margin-bottom: 0;
