@@ -1,8 +1,4 @@
 body {
-    background-color: #f2f2f2;
-    background: url('https://learnlearn.in/noise.png') repeat scroll top #f2f2f2;
-    color: #212121;
-    font: 1em Manjari, "Helvetica Neue", "Calibri Light", Roboto, sans-serif;
     display: grid;
     grid-template-areas:
         "header"
@@ -22,7 +18,7 @@ body {
 }
 
 article {
-    font-size: 1.5em;
+    font-size: 1.5rem;
 }
 
 header {
@@ -31,7 +27,7 @@ header {
 
 main {
     grid-area: main;
-    max-width: 40em;
+    max-width: 40rem;
 }
 
 pre, code {
@@ -99,14 +95,6 @@ body a {
 header a {
     font-weight: bold;
     text-decoration: none;
-}
-
-.title a {
-    color: #a00;
-}
-
-.title a:hover {
-    color: #000;
 }
 
 header a.extra {
