@@ -4,21 +4,17 @@ title: Akshay S Dinesh | learning life
 excerpt: "Insight wiki"
 ---
 
-<div id="home">
-  <articles>
-    <ul class="articles posts">
-      {% for post in site.posts %}
-      <a href="{{ post.url }}">
-      <li class="post">
-        {{ post.title }}
-        <br>
-        <span class="postDate">
-          {{ post.date | date: "%a, %b %d '%y" }}
-        </span>
-        <br>
-        {{post.excerpt | strip_html }}...
-      </li></a>
-      {% endfor %}
-    </ul>
-  </articles>
-</div>
+<articles id="home" class="articles posts">
+  {% for post in site.posts %}
+  <a href="{{ post.url }}">
+  <div class="post">
+    {{ post.title }}
+    <br>
+    <span class="postDate">
+      {{ post.date | date: "%a, %b %d '%y" }}
+    </span>
+    <br>
+    {{post.excerpt | strip_html }}...
+  </div></a>
+  {% endfor %}
+</articles>

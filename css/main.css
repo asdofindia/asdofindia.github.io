@@ -61,26 +61,23 @@ a:hover   { color: #000; }
 a:visited { color: #a0a; }
 
 
-articles > ul {
-    padding-left: 5px;
-}
-
-articles > ul  li.post {
+articles > a > div.post {
     list-style-type: none;
     line-height: 1.75em;
     padding-bottom: 20px;
 }
 
-articles > ul > a {
+articles > a {
     color: black;
+    text-decoration: none;
 }
 
-articles > ul > a:visited {
+articles > a:visited {
     color: grey;
 }
 
 articles span {
-    color: #aaa;
+    color: #555;
     font-family: Monaco, "Courier New", monospace;
     font-size: 80%;
 }
@@ -91,30 +88,31 @@ articles span {
     }
 }
 
-body a {
-    text-decoration: none;
-}
-
 header a {
     font-weight: bold;
     text-decoration: none;
 }
 
 header a.extra {
-    color: #aaa;
+    padding: 15px 5px;
+    color: #555;
     margin-left: 1em;
 }
 
 header a.extra:hover {
-    color: #000;
+    color: #444;
+}
+
+header {
+    margin-bottom: 20px;
 }
 
 .meta {
-    color: #aaa;
+    color: #555;
 }
 
 .meta a {
-    color: #77a;
+    color: #55a;
 }
 
 article a {
@@ -185,4 +183,8 @@ table, th, td {
 
 article img {
     max-width: 100%;
+}
+
+.contact > a {
+    margin: 10px;
 }

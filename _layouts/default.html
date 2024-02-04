@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+	<link rel="preload" href="/css/main.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+	<noscript><link rel="stylesheet" href="/css/main.css"></noscript>
+	<link rel="preload" href="/css/syntax.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+	<noscript><link rel="stylesheet" href="/css/syntax.css"></noscript>
         <link href='https://asd.learnlearn.in/feed.atom' rel='alternate' type='application/atom+xml'>
 
         <!-- Social media -->
@@ -78,11 +78,9 @@
                 <p><a href="mailto:asdofindia@gmail.com" rel="me" class="u-email">asdofindia@gmail.com</a></p>
             </div>
             <div class="contact">
-                <p>
-                    <a href="https://github.com/asdofindia" rel="me">github.com/asdofindia</a><br />
-                    <a href="https://gitlab.com/asdofindia" rel="me">gitlab.com/asdofindia</a><br />
-                    <a href="https://social.learnlearn.in/" rel="me">@akshay@social.learnlearn.in</a><br />
-                </p>
+                <a href="https://github.com/asdofindia" rel="me"><div>github.com/asdofindia</div></a>
+                <a href="https://gitlab.com/asdofindia" rel="me"><div>gitlab.com/asdofindia</div></a>
+                <a href="https://social.learnlearn.in/" rel="me"><div>@akshay@social.learnlearn.in</div></a>
             </div>
         </footer>
         {% if site.scripts %}
