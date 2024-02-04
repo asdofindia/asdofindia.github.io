@@ -6,77 +6,9 @@
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
 
-        <style>
-            body {
-                max-width: 2048px;
-            }
-            @media(min-width: 40em) {
-                header {
-                    position: sticky;
-                    width: 25%;
-                    top: 2rem;
-                    float: left;
-                }
-                footer {
-                    bottom: 2rem;
-                    width: 25%;
-                    position: sticky;
-                    float: left;
-                }
-                main {
-                    top: 2rem;
-                    width: 69%;
-                    margin-left: 27%;
-                    box-shadow: -10px 5px 10px 10px teal;
-                }
-                main > * {
-                    padding-left: 3%;
-                    padding-right: 3%;
-                }
-                #home {
-                    padding-left:0; 
-                    padding-right: 1%;
-                }
-                article {
-                    padding-top: 10px;
-                }
-                .postFooter {
-                    padding-bottom: 10px;
-                }
-            }
-
-            /* posts on homepage */
-
-
-            articles > a > div.post {
-                list-style-type: none;
-                line-height: 1.75em;
-                padding-bottom: 20px;
-            }
-
-            articles > a {
-                color: black;
-                text-decoration: none;
-            }
-
-            articles > a:visited {
-                color: grey;
-            }
-
-
-            .post {
-                padding: 20px;
-                box-shadow: 2px 2px 2px 2px teal;
-                margin: 10px 0;
-            }
-            .post:active {
-                box-shadow: 0px 1px 1px 1px teal;
-            }
-
-
-        </style>
-        <link rel="preload" href="/css/main.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-        <noscript><link rel="stylesheet" href="/css/main.css"></noscript>
+        <!-- <link rel="preload" href="/css/main.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> -->
+        <!-- <noscript><link rel="stylesheet" href="/css/main.css"></noscript> -->
+        <link rel="stylesheet" href="/css/main.css">
         <link rel="preload" href="/css/syntax.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
         <noscript><link rel="stylesheet" href="/css/syntax.css"></noscript>
         <link href='https://asd.learnlearn.in/feed.atom' rel='alternate' type='application/atom+xml'>
