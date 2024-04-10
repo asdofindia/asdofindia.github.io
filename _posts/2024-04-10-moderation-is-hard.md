@@ -111,6 +111,10 @@ But there are times when it is possible that someone is learning and developing 
 
 This is an off-the-cuff decision. The moderator has to feel the pulse and act impulsively. And that's where often errors emerge from. A moderator can prevent a lot of errors by reading widely and being very sensitive to people's emotional states. There are also several conversation tactics they can use which helps. I'm gonna try and write about some of them at the end of this post.
 
+### Diversity is not a waste of time
+
+It is extremely useful to have multiple points of view. Debates might have to be stopped. But do not stop diverse viewpoints. It is those points of view which will inform your own point of view.
+
 ### Reverse -isms
 
 I've [written about this particular issue before](../reverse-sexism/). 
