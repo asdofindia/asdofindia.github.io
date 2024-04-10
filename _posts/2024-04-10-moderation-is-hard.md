@@ -59,7 +59,7 @@ I have been a moderator in many online groups for several years. I have also bee
 
 **Moderation is hard. Moderation is very important.**
 
-Moderation is quite like leadership. There are no guidebooks, there are no readymade solutions. Every situation is new. Every situation is different. Every problem is hard. Every day you grow older.
+Moderation is quite like leadership. There are no guidebooks, there are no ready-made solutions. Every situation is new. Every situation is different. Every problem is hard. Every day you grow older.
 
 I would like to talk about some useful insights though.
 
@@ -143,7 +143,7 @@ We might choose to write a long email to the person who wrote the blog, but that
 
 The ideal solution is to increase doing trans-affirmative things in the group. Yes, this one person might have something on their blog that's transphobic, but we make the whole group so obviously trans-friendly that this one person will feel the heat.
 
-But we don't live in fantasy land. It is not as easy to convert a silent majority to visibly trans-affirmative or queer afformative or feminist.
+But we don't live in fantasy land. It is not as easy to convert a silent majority to visibly trans-affirmative or queer affirmative or feminist.
 
 ## Love as a framework
 
