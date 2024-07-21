@@ -20,7 +20,7 @@ found document_upload for
 	target collection=KNH, 
 	file=/uploads/document_upload/file/19/KNH000004.pdf
 creating temp directory /tmp/fromthepage_uploads/19
-copying /var/www/emldict/fromthepage/public/uploads/document_upload/file/19/* to /tmp/fromthepage_uploads/19
+copying /var/www/fromthepage/public/uploads/document_upload/file/19/* to /tmp/fromthepage_uploads/19
 unzip_tree(/tmp/fromthepage_uploads/19)
 	unzip_tree considering /tmp/fromthepage_uploads/19/KNH000004.pdf
 	unzip_tree considering /tmp/fromthepage_uploads/19/process.log
@@ -52,21 +52,21 @@ Found directory /tmp/fromthepage_uploads/19/KNH000004
 compress tree(/tmp/fromthepage_uploads/19/KNH000004)
 compress_tree handling /tmp/fromthepage_uploads/19/KNH000004/page_0001.jpg)
 Found image /tmp/fromthepage_uploads/19/KNH000004/page_0001.jpg
-/var/www/emldict/fromthepage/lib/image_helper.rb:81: warning: passing a block without an image argument is deprecated
+/var/www/fromthepage/lib/image_helper.rb:81: warning: passing a block without an image argument is deprecated
 "Compressed file is now 12884403 at quality 90"
-/var/www/emldict/fromthepage/lib/image_helper.rb:81: warning: passing a block without an image argument is deprecated
+/var/www/fromthepage/lib/image_helper.rb:81: warning: passing a block without an image argument is deprecated
 "Compressed file is now 10553270 at quality 80"
-/var/www/emldict/fromthepage/lib/image_helper.rb:81: warning: passing a block without an image argument is deprecated
+/var/www/fromthepage/lib/image_helper.rb:81: warning: passing a block without an image argument is deprecated
 "Compressed file is now 8526727 at quality 70"
-/var/www/emldict/fromthepage/lib/image_helper.rb:81: warning: passing a block without an image argument is deprecated
+/var/www/fromthepage/lib/image_helper.rb:81: warning: passing a block without an image argument is deprecated
 "Compressed file is now 8201708 at quality 60"
-/var/www/emldict/fromthepage/lib/image_helper.rb:81: warning: passing a block without an image argument is deprecated
+/var/www/fromthepage/lib/image_helper.rb:81: warning: passing a block without an image argument is deprecated
 "Compressed file is now 7735076 at quality 50"
-/var/www/emldict/fromthepage/lib/image_helper.rb:81: warning: passing a block without an image argument is deprecated
+/var/www/fromthepage/lib/image_helper.rb:81: warning: passing a block without an image argument is deprecated
 "Compressed file is now 6464711 at quality 40"
-/var/www/emldict/fromthepage/lib/image_helper.rb:81: warning: passing a block without an image argument is deprecated
+/var/www/fromthepage/lib/image_helper.rb:81: warning: passing a block without an image argument is deprecated
 "Compressed file is now 6197795 at quality 30"
-/var/www/emldict/fromthepage/lib/image_helper.rb:81: warning: passing a block without an image argument is deprecated
+/var/www/fromthepage/lib/image_helper.rb:81: warning: passing a block without an image argument is deprecated
 "Compressed file is now 5738645 at quality 20"
 compress_tree handling /tmp/fromthepage_uploads/19/KNH000004/page_0002.jpg)
 Found image /tmp/fromthepage_uploads/19/KNH000004/page_0002.jpg
@@ -76,19 +76,19 @@ Magick::ImageMagickError: width or height exceeds limit `/tmp/fromthepage_upload
 /var/lib/gems/3.0.0/gems/rmagick-4.2.6/lib/rmagick_internal.rb:1593:in `block in initialize'
 /var/lib/gems/3.0.0/gems/rmagick-4.2.6/lib/rmagick_internal.rb:1592:in `each'
 /var/lib/gems/3.0.0/gems/rmagick-4.2.6/lib/rmagick_internal.rb:1592:in `initialize'
-/var/www/emldict/fromthepage/lib/image_helper.rb:80:in `new'
-/var/www/emldict/fromthepage/lib/image_helper.rb:80:in `block in compress_image'
-/var/www/emldict/fromthepage/lib/image_helper.rb:77:in `downto'
-/var/www/emldict/fromthepage/lib/image_helper.rb:77:in `each'
-/var/www/emldict/fromthepage/lib/image_helper.rb:77:in `compress_image'
-/var/www/emldict/fromthepage/lib/tasks/ingestor.rake:155:in `block in compress_tree'
-/var/www/emldict/fromthepage/lib/tasks/ingestor.rake:147:in `each'
-/var/www/emldict/fromthepage/lib/tasks/ingestor.rake:147:in `compress_tree'
-/var/www/emldict/fromthepage/lib/tasks/ingestor.rake:151:in `block in compress_tree'
-/var/www/emldict/fromthepage/lib/tasks/ingestor.rake:147:in `each'
-/var/www/emldict/fromthepage/lib/tasks/ingestor.rake:147:in `compress_tree'
-/var/www/emldict/fromthepage/lib/tasks/ingestor.rake:63:in `process_batch'
-/var/www/emldict/fromthepage/lib/tasks/ingestor.rake:35:in `block (2 levels) in <main>'
+/var/www/fromthepage/lib/image_helper.rb:80:in `new'
+/var/www/fromthepage/lib/image_helper.rb:80:in `block in compress_image'
+/var/www/fromthepage/lib/image_helper.rb:77:in `downto'
+/var/www/fromthepage/lib/image_helper.rb:77:in `each'
+/var/www/fromthepage/lib/image_helper.rb:77:in `compress_image'
+/var/www/fromthepage/lib/tasks/ingestor.rake:155:in `block in compress_tree'
+/var/www/fromthepage/lib/tasks/ingestor.rake:147:in `each'
+/var/www/fromthepage/lib/tasks/ingestor.rake:147:in `compress_tree'
+/var/www/fromthepage/lib/tasks/ingestor.rake:151:in `block in compress_tree'
+/var/www/fromthepage/lib/tasks/ingestor.rake:147:in `each'
+/var/www/fromthepage/lib/tasks/ingestor.rake:147:in `compress_tree'
+/var/www/fromthepage/lib/tasks/ingestor.rake:63:in `process_batch'
+/var/www/fromthepage/lib/tasks/ingestor.rake:35:in `block (2 levels) in <main>'
 /usr/share/rubygems-integration/all/gems/rake-13.0.6/lib/rake/task.rb:279:in `block in execute'
 /usr/share/rubygems-integration/all/gems/rake-13.0.6/lib/rake/task.rb:279:in `each'
 /usr/share/rubygems-integration/all/gems/rake-13.0.6/lib/rake/task.rb:279:in `execute'
