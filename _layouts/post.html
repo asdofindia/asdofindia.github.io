@@ -17,9 +17,9 @@ layout: default
 <hr>
 <aside class="postFooter">
 {% if page.next %}
-Newer post: <a href="{{ page.next.url }}" class="newerPostLink">{{ page.next.title }}</a><br>
+Newer post: <a accesskey="k" href="{{ page.next.url }}" class="newerPostLink">{{ page.next.title }}</a><br>
 {% endif %}
 {% if page.previous %}
-Older post: <a href="{{ page.previous.url }}" class="olderPostLink">{{ page.previous.title }}</a>
+Older post: <a accesskey="j" href="{{ page.previous.url }}" class="olderPostLink">{{ page.previous.title }}</a>
 {% endif %}
 </aside>
