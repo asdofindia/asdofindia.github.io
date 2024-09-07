@@ -19,7 +19,7 @@ Then what you can do is the following.
 
 [transport](https://www.postfix.org/transport.5.html) is a mechanism that allows postfix to pattern-match To addresses and decide what to do with the emails.
 
-If you want to discard emails being sent to "user@example.com", you can edit ``/var/mailu/overrides/postfix/transport.map` to include this line:
+If you want to discard emails being sent to "user@example.com", you can edit `/var/mailu/overrides/postfix/transport.map` to include this line:
 
 ```
 user@example.com discard:
