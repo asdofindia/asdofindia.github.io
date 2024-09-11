@@ -90,6 +90,7 @@ This page lists the books I have read and the books I want to read.
 * Harry Potter series by JK Rowling - I grew up reading these books and they're truly magical.
 * To Kill a Mockingbird by Harper Lee - The story of Atticus and Scout and Jem and Maycomb and systemic violence and morals.
 * The Old Man and the Sea by Ernest Hemingway - It was like a short film that left one wondering at the end.
+* Sakina's Kiss - nice relatable Indian story covering gender roles, etc
 
 ## Have skimmed through ##
 
