@@ -7,6 +7,8 @@ tags:
 
 ##### Verbatim quoting the comment made by CVN #####
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L0_tqC5rCAw?si=M3BSs-RE3OfEQjD6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 I am sure that my stand in this topic is a minority opinion. I am also certain that this opinion would be met more with ridicule and resistance than with approval in this forum.
 
 My position is that the so called "different systems of medicine" should have no place out of "History of ideas" in a modern society. I know, many people don't like the word 'modern'. By the term "modern society", I mean a society that upholds the values of "liberty, equality, fraternity and justice". These values, which we call constitutional values, are really values of 'Enlightenment' - or 'European Enlightenment' if you insist.
