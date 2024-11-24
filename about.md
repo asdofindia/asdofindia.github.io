@@ -123,6 +123,20 @@ I do not believe in CVs, but apparently it is important.
 
 ## Informal Education ##
 
+### DemTech.ai ###
+
+**Head of Engineering**
+(October 2024 - present)
+
+Building [Technology for Democracy](https://demtech.ai)
+
+### Nivarana ###
+
+**Technical Editor**
+(September 2024 - present)
+
+Building [Nivarana.org](https://nivarana.org)
+
 ### Sarvatrika Arogya Andolana - Karnataka ###
 
 **Website, Social Media**
