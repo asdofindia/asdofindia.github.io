@@ -137,6 +137,13 @@ Building [Technology for Democracy](https://demtech.ai)
 
 Building [Nivarana.org](https://nivarana.org)
 
+### Action For Equity ###
+
+**Co-founder**
+(Jan 2024 - present)
+
+Building a new organization to house all my work. [Read more on Action for Equity website](https://actionforequity.in)
+
 ### Sarvatrika Arogya Andolana - Karnataka ###
 
 **Website, Social Media**
