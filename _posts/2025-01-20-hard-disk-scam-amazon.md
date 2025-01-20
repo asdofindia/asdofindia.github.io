@@ -17,9 +17,14 @@ When I started copying some files into the hard disk, it started making noises. 
 
 So, in situations like these, we can use `smartctl -a /dev/sdb` (where sdb is the device) to check the "Self-Monitoring, Analysis, and Reporting Technology" status. I did it for this hard disk and discovered that it was a used, failing seagate harddisk.
 
-So, that's the scam.
+So, that's the scam. 
+
+What can you do to protect yourself?
+
+The good old Mozilla has an add-on called [fakespot](https://blog.mozilla.org/en/products/how-to-use-fakespot/) which warns you about fake reviews and bad sellers. Install that while shopping. [Fakespot.com](https://www.fakespot.com/)
 
 Attached below you'll find more details about the scammers, and the smartctl output.
+
 
 ---
 
