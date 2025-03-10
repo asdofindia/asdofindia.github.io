@@ -47,7 +47,7 @@ The command you are looking for might be `gpg --import`
 
 ### Instant Messaging ###
 
-Apart from telegram, you can send me a message on [Matrix](https://matrix.org/). My ID is [@akshay:matrix.org](https://matrix.to/#/@akshay:matrix.org). You can also message me on xmpp via [akshay@autistic.org](xmpp:akshay@autistici.org?omemo-sid-1160323333=150d3cbbcef7ff8c2de0258809e9def8c7430982e8dcbd2904194968eb8e3226)
+Apart from telegram, you can send me a message on [Matrix](https://matrix.org/). My ID is [@akshay:matrix.org](https://matrix.to/#/@akshay:matrix.org). You can also message me on xmpp via [akshay@autistic.org](xmpp:akshay@autistici.org?omemo-sid-1160323333=150d3cbbcef7ff8c2de0258809e9def8c7430982e8dcbd2904194968eb8e3226). You can also message me on signal with the username [@asdofindia.42](https://signal.me/#eu/DhDM_f2Mm5xRl-MhaS4D4njf8Kp2c-olyux64EBQr9bwT8K5d9FGgac69nitJgFZ)
 
 ## Links ##
 Okay, if you want to stalk me, here are the places you go:
