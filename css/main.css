@@ -194,3 +194,7 @@ article img {
     margin: 10px;
     padding: 10px;
 }
+
+@view-transition {
+    navigation: auto;
+}
