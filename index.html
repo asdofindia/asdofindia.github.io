@@ -8,7 +8,7 @@ excerpt: "Insight wiki"
   {% for post in site.posts %}
   <a href="{{ post.url }}">
   <div class="post">
-    {{ post.title }}
+    <div style="view-transition-name: title-{{ post.url | slugify }}">{{ post.title }}</div>
     <br>
     <span class="postDate">
       {{ post.date | date: "%a, %b %d '%y" }}
