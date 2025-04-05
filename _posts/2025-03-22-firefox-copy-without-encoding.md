@@ -1,6 +1,6 @@
 ---
 layout: post
-title: firefox-copy-without-encoding
+title: "Firefox: Copy from urlbar without encoding"
 tags:
 - tips
 ---
