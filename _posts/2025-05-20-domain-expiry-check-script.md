@@ -6,6 +6,8 @@ tags: script, devops
 
 ##### What if there are domains you care about but the expiry alerts don't necessarily come to your email address? #####
 
+**Update on 2025-05-26**: There's a bug in this code that causes lines to disappear. Read more at the end of the post.
+
 I've had it before. There are people who start websites. And they forget to renew their domain. And then they ask me whether I can recover the domain somehow. Often after the grace period for domain recovery.
 
 So, I decided to write (with ChatGPT) a script that'll check domain expiry using `whois` (which has to be installed locally for this to work) and use `notify-send` to send me an alert if necessary. I then automated running this using systemd. The whole thing is attached.
@@ -124,3 +126,10 @@ WantedBy=timers.target
 
 
 So I just have to remember to `systemctl --user daemon-reload` `systemctl --user enable domain-expiry.timer`
+
+### Erratum
+
+**Update on 2025-05-26**: As promised, LLM code can't be trusted. In the above, the else clause of `if [[ -n "$new_expiry" ]]; then` will simply output "Could not find expiry date" and skip inserting that domain into the output. Thus, if some domain expiry couldn't be discovered, it'll drop that domain!
+
+To fix this, just add `echo "$expiry,$domain" >> "$TEMP_FILE"` after the line `echo "Could not find expiry date"`
+
