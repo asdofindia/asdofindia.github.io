@@ -20,9 +20,8 @@ Since this page is too long, here's a table of contents:
 
 ## On the web
 Besides this [social feed](https://asd.learnlearn.in/welcome/), I write at a few other places:
-* [Blissful Life](https://blog.learnlearn.in) - Full length blog posts in English
+* [Blissful Life](https://blog.learnlearn.in) - Full length blog posts in English (including posts related to public health)
 * [Learn Learnin'](https://learnlearn.in) - Website dedicated to insights and knowledge
-* [Medicine, Mind, and Me](https://mbbshacker.blogspot.com) - Full length blog posts related to healthcare
 * [ഇഹലോകവാസം](https://ihalokavaasam.blogspot.com) - Full length blog posts in Malayalam
 
 The best way to keep up with all my writings is to [follow me](../follow/)
