@@ -133,3 +133,19 @@ So I just have to remember to `systemctl --user daemon-reload` `systemctl --user
 
 To fix this, just add `echo "$expiry,$domain" >> "$TEMP_FILE"` after the line `echo "Could not find expiry date"`
 
+**Update on 2025-06-10**: Well well well... whois has been deprecated, and now registries are supposed to provide data over RDAP protocol. So, the above script can be updated to use rdap by default (and falling back to whois) by replacing the line 
+
+```
+  expiry_line=$(whois "$domain" 2>/dev/null | grep -iE "Expiry Date|Expiration Date|renewal date" | head -n 1)
+```
+
+with
+
+```
+  expiry_line=$(rdap -O json "$domain" 2>/dev/null | jq -r '.events[]? | select(.eventAction=="expiration") | .eventDate' | head -n 1)
+
+  if [ -z "$expiry_line" ]; then
+    expiry_line=$(whois "$domain" 2>/dev/null | grep -iE "Expiry Date|Expiration Date|renewal date" | head -n 1)
+  fi
+
+```
