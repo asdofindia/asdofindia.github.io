@@ -5,8 +5,6 @@ description = "I'm now in a transition"
 url = "now/"
 +++
 
-## Now
-
 Last updated: 2025-06-19
 
 I live in Bangalore, almost in Indiranagar, although Swathi and I are looking to move (maybe within Indiranagar, maybe within Bangalore, maybe within Karnataka).
