@@ -1,0 +1,16 @@
+baseURL = 'https://asd.learnlearn.in'
+languageCode = 'en-us'
+title = 'ASD'
+
+theme = 'asd'
+
+[taxonomies]
+  tag = 'tags'
+
+[permalinks]
+  tags = "/tag/:slug"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

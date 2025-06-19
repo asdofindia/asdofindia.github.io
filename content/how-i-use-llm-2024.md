@@ -1,0 +1,106 @@
++++
+type = 'post'
+title = 'How I use LLM in September 2024'
+tags = ['ai']
+date = '2024-09-25'
++++
+
+##### Almost two years into the era of AI explosion, here's how my life has *completely* changed #####
+
+The biggest loss has been for Google. Then StackOverflow. Here's exactly what I use LLMs for these days.
+
+I predominantly use ChatGPT (in whatever model they provide in the free tier at the time of the day), then Claude, and sometimes Gemini. I use only the free tier in all these.
+
+### Searching for things/terms I vaguely remember or know ###
+
+Those "tip of the tongue" moments when I know what I'm looking for but just don't have the right words for it, I prompt with whatever I remember about it and ask LLMs to tell me about it. Eg:
+
+> What are the small markets in North East India where there's no cashier, but people voluntarily pay money and take what they need
+
+This was when I forgot what "honesty shops" were called.
+
+> What's it called when words like hacker and pirate are reclaimed to mean good things?
+
+This is when I forgot the word "reappropriation".
+
+> What's the inauguration of a submarine called
+
+And that's when we were trying to find "commissioning" for a JeevaRaksha scenario.
+
+Similarly I have discovered niche academic branches by talking to it about the topic I'm interested in and asking for suggestions.
+
+### Changing tone of text ###
+
+Converting from bullet points to paragraphs, asking for making some text less aggresive or more corporate-ish.
+
+Eg:
+
+> Take the following resume and convert it into a brief biosketch.
+
+### For book recommendations ###
+
+I can describe a situation and ask for book recommendations. The challenge here has been that like all recommendations I find online, it is difficult for me to start reading something that someone suggests.
+
+### For creative ideas, art, taglines, slogans, names ###
+
+I have designed a report cover using Claude to give me ideas and then using Gemini to generate image using Claude's prompt.
+
+In a protest I had Claude generate very poetic slogans which we put on posters. Eg:
+
+> Give me a few short catchy statements to put on a placard against patriarchy and caste. Invoke constitution
+
+It gave me "Liberty, equality, fraternity - No room for patriarchy!", "Dignity for all - It's our constitutional call!", "Constitutional values prevail - Patriarchy and caste must fail!", and so on. Pretty neat when our mind is not working and we need "something, anything"
+
+### For differential diagnoses when I'm confused ###
+
+This has been the biggest blessing for me. I've correctly diagnosed potentially life-threatening complications with ChatGPT. For differentials, I use the following kind of template.
+
+> I have a patient with the following history and following examination findings <insert history and examination findings here>. Generate a list of differential diagnoses with pros and cons for each.
+
+This gives me not just differentials, but also what in the history/examination doesn't fit and what fits.
+
+### Single-use software ###
+
+Of course, various kinds of programming tasks are being done using these. The most frequent use for me is to solve specific problems that come up in specific situations that are unlikely to ever be repeated. Earlier I would search and find a website (if I'm lucky) that solve this specific problem. But now I just ask on of C/C/G to write a python/nodejs script that solves the problem. Yesterday I had to put 611 names into three columns in an HTML table, with numbering. I asked this:
+
+> I have a file with 600+ lines. Write javascript code to read this file and generate an html table with exactly three columns, distributing the lines row by row (into three columns). Also manually add the number to the beginning, like "1. ", "2. ", etc.
+
+### Command line reference, one liners ###
+
+Like above, there are several times when I want to do something on the command line, but just don't want to spend time reading the manual. When I wanted to convert an OBS screen recording to a "gif" for Telegram, I asked this:
+
+> Write ffmpeg command to convert tab-navigation.mkv to tab-navigation.mp4 stripping audio.
+
+And when I wanted to strip out the parts in the recording where vandals entered a zoom meeting, I asked this:
+
+> I have an mp4 video in which I want to black out the video feed from 1:19:13 to 1:20:24 and keep only audio for that time. For the rest of the time the original video and audio can be used. Give me an ffmpeg command for the same which avoids re-encoding.
+
+### Creating learning scenarios ###
+
+This is broadly useful when teaching. We want to quickly generate a scenario, but don't want to think much. You can do something like:
+
+> I am training some air force staff in airway emergencies management. Give me a scenario of respiratory distress that progressively worsens and require intubation. Make sure this is connected to the force in some way
+
+### Custom Recipes ###
+
+Give it what you have, and ask it to give you a recipe. Eg:
+
+> I have macaroni pasta olive oil pressure cooker some Indian masalas (chilli powder coriander powder etc capsicum tomato onion potato egg. Give me a tasty recipe for one person one meal
+
+### Social Media creatives ###
+
+> Generate a square image depicting budget with imaginary line charts, pie charts, tables and so on.
+
+### Conclusion ###
+
+If you know how to use it, LLMs are quite powerful and can solve a wide range of problems. Just like how it was possible to find a lot of things online using Google and yet people wouldn't use Google well, the power of LLMs will also remain unused by many many people. One way we can help is by documenting the creative ways we have discovered and share with others. How about you tell me what ways you use LLMs that I haven't yet thought of?
+
+### Addendum ###
+
+Some people wrote back to me with the additional ways they use LLMs. I'm adding those here.
+
+[Kaushik](https://linktr.ee/kaushik.kakdey) told me about how LLMs help in understanding ill-defined problems by making unknown unknowns more obvious and by foregrounding assumptions. This helps to ask better questions and produce more reliable solutions.
+
+[Viswanatha](https://blog.animaregem.me/) told me the use in making slides using LaTeX (useful in college)
+
+[Hrishi](https://stultus.in) shared [meenaviyal.com](https://meenaviyal.com/)

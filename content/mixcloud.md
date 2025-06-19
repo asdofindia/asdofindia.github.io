@@ -1,0 +1,13 @@
++++
+type = 'post'
+title = 'Mixcloud'
+tags = ['music']
+date = '2018-11-12'
++++
+##### Mixcloud is a good online radio service with lots of music #####
+
+While I use [Wynk](https://wynk.in/), [Saavn](https://www.saavn.com/), and [Gaana](https://gaana.com/) in no particular order for consuming Indian songs, I wasn't really sure of a place to go to listen to global music.
+
+Arya showed me [Mixcloud](https://www.mixcloud.com/) on her Indian visit this time. I've been in love with it ever since.
+
+[Discover Mixcloud](https://www.mixcloud.com/discover/) for yourself.

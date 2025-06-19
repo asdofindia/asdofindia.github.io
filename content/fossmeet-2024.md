@@ -1,0 +1,11 @@
++++
+type = 'post'
+title = 'FOSSMeet 2024'
+tags = ['talks']
+date = '2024-08-22'
++++
+
+##### My talk at FOSSMeet 2024 of NIT Calicut #####
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIvITu6OSHM?si=N14IgDp4u-CS6JAh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
