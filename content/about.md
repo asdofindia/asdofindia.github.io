@@ -46,7 +46,23 @@ The command you are looking for might be `gpg --import`
 
 ### Instant Messaging ###
 
-Apart from telegram, you can send me a message on [Matrix](https://matrix.org/). My ID is [@akshay:matrix.org](https://matrix.to/#/@akshay:matrix.org). You can also message me on xmpp via [akshay@autistic.org](xmpp:akshay@autistici.org?omemo-sid-1160323333=150d3cbbcef7ff8c2de0258809e9def8c7430982e8dcbd2904194968eb8e3226). You can also message me on signal with the username [@asdofindia.42](https://signal.me/#eu/DhDM_f2Mm5xRl-MhaS4D4njf8Kp2c-olyux64EBQr9bwT8K5d9FGgac69nitJgFZ)
+Apart from telegram, you can send me a message on [Matrix](https://matrix.org/). My ID is [@akshay:matrix.org](https://matrix.to/#/@akshay:matrix.org). You can also message me on xmpp via [akshay@autistic.org](xmpp:akshay@autistici.org?omemo-sid-1160323333=150d3cbbcef7ff8c2de0258809e9def8c7430982e8dcbd2904194968eb8e3226). You can also message me on signal with the username [@asdofindia.42](https://signal.me/#eu/DhDM_f2Mm5xRl-MhaS4D4njf8Kp2c-olyux64EBQr9bwT8K5d9FGgac69nitJgFZ). To message me on WhatsApp [click here](https://wa.me/qr/ZUVQBH44NCPDJ1).
+
+My phone number can be obtained by solving the following puzzle:
+
+* **A** is the largest single digit number (in decimal system) 
+* **B** is the square of **A** 
+* There are **C** months in a year 
+* Apollo **D** landed on moon with Neil Armstrong and Buzz Aldrin 
+* **E** = **C** + **D** 
+* Ambedkar Jayanti is observed on Aril **F** 
+* If you take the infinity symbol and turn it vertically, it looks like the number **G** 
+* **H** = **G** - 1
+* A 'score' refers to **I** number
+
+My number is **BEFGHI**
+
+If you're worried whether you've got the right number, the digit sum of the 10 digits would be 36. If it's not, don't call.
 
 ## Links ##
 Okay, if you want to stalk me, here are the places you go:
