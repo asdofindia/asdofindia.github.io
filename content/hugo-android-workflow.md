@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Hugo Android Workflow"
 date: 2025-06-27
 tags: workflow
