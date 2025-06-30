@@ -150,3 +150,17 @@ with
   fi
 
 ```
+
+**Update on 2025-06-30**: LLMs are so stupid. Instead of warning me of any expiry less than 14 days away, it was doing any expiry less than 14 days away, but greater than today. So, effectively a domain which was expiring today, it didn't warn me!
+
+So, in the following line
+
+```bash
+if [[ -n "$new_expiry_ts" && $(( (new_expiry_ts - TODAY)/86400 )) -le $WARNING_DAYS && $new_expiry_ts -ge $TODAY ]]; then
+```
+
+remove the -ge part to make it
+
+```bash
+if [[ -n "$new_expiry_ts" && $(( (new_expiry_ts - TODAY)/86400 )) -le $WARNING_DAYS ]]; then
+```
