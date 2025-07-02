@@ -66,7 +66,7 @@
     {{- $limit := (cond (le site.Config.Services.RSS.Limit 0) 65536 site.Config.Services.RSS.Limit) }}
     {{- $feed_sections := site.Params.feedSections | default site.Params.mainSections -}}
     {{/* Range through only the pages with a Type in $feed_sections. */}}
-    {{- $pages := where .RegularPages "Type" "in" $feed_sections -}}
+    {{- $pages := where site.RegularPages "Type" "in" $feed_sections -}}
     {{- if (eq .Kind "home") -}}
         {{- $pages = where site.RegularPages "Type" "in" $feed_sections -}}
     {{- end -}}
@@ -78,14 +78,14 @@
         {{ $page := . }}
         <entry>
             {{ printf `<title type="html"><![CDATA[%s]]></title>` .Title | safeHTML }}
-            <link href="{{ .Permalink }}?utm_source=atom_feed" rel="alternate" type="text/html" />
+            <link href="{{ .Permalink }}" rel="alternate" type="text/html" />
             {{- range .Translations }}
-                {{- $link := printf "%s?utm_source=atom_feed" .Permalink | safeHTML }}
+                {{- $link := printf "%s" .Permalink | safeHTML }}
                 {{- printf `<link href=%q rel="alternate" type="text/html" hreflang=%q />` $link .Lang | safeHTML }}
             {{- end }}
             {{/* rel=related: See https://validator.w3.org/feed/docs/atom.html#link */}}
             {{- range first 5 (site.RegularPages.Related .) }}
-                <link href="{{ .Permalink }}?utm_source=atom_feed" rel="related" type="text/html" title="{{ .Title }}" />
+                <link href="{{ .Permalink }}" rel="related" type="text/html" title="{{ .Title }}" />
             {{- end }}
             {{ with .Params.id }}
                 <id>{{ . | plainify }}</id>
@@ -104,19 +104,6 @@
             {{ $description1 := .Description | default "" }}
             {{ $description := (cond (eq "" $description1) "" (printf "<blockquote>%s</blockquote>" ($description1 | markdownify))) }}
             {{ printf `<content type="html"><![CDATA[%s%s]]></content>` $description .Content | safeHTML }}
-            {{ with site.Taxonomies }}
-                {{ range $taxo,$_ := . }} <!-- Defaults taxos: "tags", "categories" -->
-                    {{ with $page.Param $taxo }}
-                        {{ $taxo_list := . }} <!-- $taxo_list will be the tags/categories list -->
-                        {{ with site.GetPage (printf "/%s" $taxo) }}
-                            {{ $taxonomy_page := . }}
-                            {{ range $taxo_list }} <!-- Below, assuming pretty URLs -->
-                                <category scheme="taxonomy:{{ printf "%s" $taxo | humanize }}" term="{{ (. | urlize) }}" label="{{ . }}" />
-                            {{ end }}
-                        {{ end }}
-                    {{ end }}
-                {{ end }}
-            {{ end }}
         </entry>
     {{ end }}
 </feed>

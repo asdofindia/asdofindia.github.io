@@ -4,6 +4,9 @@ title = 'ASD'
 
 theme = 'asd'
 
+[params]
+feedSections = ["post"]
+
 [taxonomies]
   tag = 'tags'
 
@@ -14,3 +17,6 @@ theme = 'asd'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[outputs]
+  home = ["HTML", "ATOM", "rss", "json"]

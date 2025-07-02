@@ -37,3 +37,17 @@
     date_format       = "2006-01-02"
     isListGroupByDate = false
     isShowFooter      = true
+
+# https://github.com/kaushalmodi/hugo-atom-feed
+[mediaTypes."application/atom+xml"]
+  suffixes = ["atom", "xml"]
+[outputFormats.Atom]
+  # https://validator.w3.org/feed/docs/atom.html#whatIsAtom
+  name = "Atom"
+  mediaType = "application/atom+xml"
+  baseName = "feed" # generated file = <baseName>.<mediaType."application/atom+xml".suffixes[0]> = atom.xml
+  isPlainText = false
+  rel = "alternate"
+  isHTML = false
+  noUgly = true
+  permalinkable = false
