@@ -138,19 +138,19 @@ I do not believe in CVs, but apparently it is important.
 
 ## Informal Education ##
 
-### DemTech.ai ###
-
-**Head of Engineering**
-(October 2024 - present)
-
-Building [Technology for Democracy](https://demtech.ai)
-
 ### Nivarana ###
 
 **Technical Editor**
 (September 2024 - present)
 
 Building [Nivarana.org](https://nivarana.org)
+
+### Drug Action Forum - Karnataka ###
+
+**Board member**
+(April 2024 - present)
+
+Working on access to medicine.
 
 ### Action For Equity ###
 
@@ -172,12 +172,19 @@ This is a progressive movement in Karnataka. I'm a part.
 
 Read at [bahutvakarnataka.wordpress.com](https://bahutvakarnataka.wordpress.com/).
 
+### DemTech.ai ###
+
+**Head of Engineering**
+(October 2024 - June 2025)
+
+Helped in building [Technology for Democracy](https://demtech.ai)
+
 ### SOCHARA ###
 
 **Curator, Archivist, All things digital** / **Digital Humanist**
-(June 2022 - present)
+(June 2022 - March 2025)
 
-SOCHARA is where my philosophies about work, life, and society found an ideal partner. After an year of talking to people and absorbing SOCHARA, I now infuse energy into the [Digital Humanities @ SOCHARA](https://wiki.sochara.org/en/digital-humanities-at-sochara) department.
+At SOCHARA I was infusing energy into the [Digital Humanities @ SOCHARA](https://wiki.sochara.org/en/digital-humanities-at-sochara) department.
 
 ### Kinara Capital ###
 
