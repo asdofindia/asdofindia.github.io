@@ -1,4 +1,5 @@
 +++
+type = 'post'
 date = '2025-08-05T11:52:58+05:30'
 title = 'Postfix to Loomio on Same Server'
 tags = ['sysadmin', 'postfix', 'email-server', 'fsci']
