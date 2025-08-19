@@ -289,7 +289,7 @@ I'm a consultant on [THETA project](https://pubmed.ncbi.nlm.nih.gov/32211518/) o
 ### JeevaRaksha Trust, Bangalore ###
 
 **Trainer**, later **Senior Trainer**
-(2018 - present)
+(2018 - August 9, 2025)
 
 With JeevaRaksha I've led or been part of various emergency care life support courses and basic care life support courses in Mysore, Bangalore, Koppal, and Saragur. The trainees have included medical faculties, medical graduates, para-medical staff, teachers, police. This is where I've thought in depth and learnt hard lessons about pedagogy and being an efficient trainer.
 
