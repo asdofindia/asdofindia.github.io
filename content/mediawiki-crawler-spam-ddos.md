@@ -20,3 +20,25 @@ Some helpful suggestions are documented on [this meza issue](https://github.com/
 These options include installing extensions like [CrawlerProtection](https://www.mediawiki.org/wiki/Extension:CrawlerProtection) (that prevents access to heavy pages like RecentChanges) and blocking very old user agents.
 
 So if your wiki is being inundated with requests by bots, making it a DDoS kind of situation, you know where to find help.
+
+## Home-grown solutions
+
+For [SMC's wiki](https://wiki.smc.org.in), since there's no content in Chinese, and since there's probably not many people from China who should be using it, I added a block based on whether Accept-Language header including zh. In caddy that's like:
+
+```
+wiki.smc.org.in {
+    root * /var/www/wiki.smc.org.in
+    php_fastcgi unix//var/run/php/php8.2-fpm-wiki-smc.sock
+    file_server
+    log {
+        output file /var/log/caddy/wiki.smc.log
+    }
+    handle {
+        @blocked {
+            header Accept-Language *zh*
+        }
+        respond @blocked 403
+    }
+}
+
+```
