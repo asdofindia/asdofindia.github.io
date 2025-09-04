@@ -18,3 +18,6 @@ I've been trying to read a book a week, but failing at it mostly.
 I'm also trying to make sure all meals are prepared at home.
 
 I do make sure to either jog or workout in the morning.
+
+Also:
+* [JSA's data and digitization sub-group](https://phmindia.org/data-and-digitization/)
