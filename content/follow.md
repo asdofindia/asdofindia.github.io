@@ -7,7 +7,7 @@ url = "follow/"
 
 There are multiple ways to get updates from me.
 
-* **Web Feed**: [Follow my atom feed](https://asd.learnlearn.in/feed.atom)
+* **Web Feed**: [Follow my atom feed](https://asd.learnlearn.in/feed.atom) (Includes posts only from this site)
 * **Telegram**: [Follow my Telegram channel](https://telegram.me/learnlearnin)
 * **Newsletter**: [Subscribe via mail](https://blog.learnlearn.in/newsletter/)
 
