@@ -11,7 +11,7 @@ Free Software Community of India has a peertube instance at [videos.fsci.in](htt
 
 The key to remaining healthy is pruning out whatever is unhealthy.
 
-Yes, there is [Killed by Google](https://killedbygoogle.com/), [Microsoft Graveyard](https://microsoftgraveyard.com/), and even [Killed by Mozilla](https://microsoftgraveyard.com/). Yes, people think of killing services as a sin and as a sign of weakness. But no. [Even birds do it](https://www.youtube.com/watch?v=hUi6n-JDNE0).
+Yes, there is [Killed by Google](https://killedbygoogle.com/), [Microsoft Graveyard](https://microsoftgraveyard.com/), and even [Killed by Mozilla](https://killedbymozilla.com/). Yes, people think of killing services as a sin and as a sign of weakness. But no. [Even birds do it](https://www.youtube.com/watch?v=hUi6n-JDNE0).
 
 And thus, I started a [consensus process on FSCI's collaborative decision making platform](https://codema.in/d/RlXtu91S/is-video-hosting-financially-sustainble-for-fsci-/1) to sunset the peertube instance. Many people reluctantly agreed and I was looking forward to happily shutting the instance down.
 
