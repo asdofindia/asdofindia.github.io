@@ -8,6 +8,8 @@ tags = ['policy']
 Google recently announced that it'll be forcing developers to register with government identity cards on their platform to be able to distribute Android applications anywhere. I came across [keepandroidopen.org](https://keepandroidopen.org/) in [FSMK's chat group](https://fsmk.org/) today. So I quickly composed an email to Competition Commission of India. Here's the mail that I sent.
 
 ---
+Sub: Google is abusing market monopoly to force developers to use its platform
+To: cci‑chairman@nic.in
 
 Dear CCI Chairman,
 
