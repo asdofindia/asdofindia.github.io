@@ -46,7 +46,46 @@ I had to switch to `print_r` to print arrays.
 Eventually I narrowed the issue down to the function fetchRevisionRowFromConds which was basically calling the database using a QueryBuilder. I used the `getSQL()` method of this query builder to get the actual SQL query that was being run and it was something like
 
 ```sql
-SELECT  rev_id,rev_page,rev_timestamp,rev_minor_edit,rev_deleted,rev_len,rev_parent_id,rev_sha1,actor_rev_user.actor_user AS `rev_user`,actor_rev_user.actor_name AS `rev_user_text`,rev_actor,comment_rev_comment.comment_text AS `rev_comment_text`,comment_rev_comment.comment_data AS `rev_comment_data`,comment_rev_comment.comment_id AS `rev_comment_cid`,page_namespace,page_title,page_id,page_latest,page_is_redirect,page_len,user_name  FROM `revision` JOIN `actor` `actor_rev_user` ON ((actor_rev_user.actor_id = rev_actor)) JOIN `comment` `comment_rev_comment` ON ((comment_rev_comment.comment_id = rev_comment_id)) JOIN `page` ON ((page_id = rev_page)) LEFT JOIN `user` ON ((actor_rev_user.actor_user != 0) AND (user_id = actor_rev_user.actor_user))   WHERE page_namespace = 0 AND page_title = 'Palakkad/linksplus' AND rev_id = 6911;
+SELECT  rev_id, rev_page,rev_timestamp,rev_minor_edit,rev_deleted,rev_len,rev_parent_id,rev_sha1,actor_rev_user.actor_user AS `rev_user`,actor_rev_user.actor_name AS `rev_user_text`,rev_actor,comment_rev_comment.comment_text AS `rev_comment_text`,comment_rev_comment.comment_data AS `rev_comment_data`,comment_rev_comment.comment_id AS `rev_comment_cid`,page_namespace,page_title,page_id,page_latest,page_is_redirect,page_len,user_name  FROM `revision` JOIN `actor` `actor_rev_user` ON ((actor_rev_user.actor_id = rev_actor)) JOIN `comment` `comment_rev_comment` ON ((comment_rev_comment.comment_id = rev_comment_id)) JOIN `page` ON ((page_id = rev_page)) LEFT JOIN `user` ON ((actor_rev_user.actor_user != 0) AND (user_id = actor_rev_user.actor_user))   WHERE page_namespace = 0 AND page_title = 'Palakkad/linksplus' AND rev_id = 6911;
+```
+
+Or here's a formatted version
+
+```sql
+ SELECT rev_id,
+       rev_page,
+       rev_timestamp,
+       rev_minor_edit,
+       rev_deleted,
+       rev_len,
+       rev_parent_id,
+       rev_sha1,
+       actor_rev_user.actor_user        AS `rev_user`,
+       actor_rev_user.actor_name        AS `rev_user_text`,
+       rev_actor,
+       comment_rev_comment.comment_text AS `rev_comment_text`,
+       comment_rev_comment.comment_data AS `rev_comment_data`,
+       comment_rev_comment.comment_id   AS `rev_comment_cid`,
+       page_namespace,
+       page_title,
+       page_id,
+       page_latest,
+       page_is_redirect,
+       page_len,
+       user_name
+FROM   `revision`
+       JOIN `actor` `actor_rev_user`
+         ON (( actor_rev_user.actor_id = rev_actor ))
+       JOIN `comment` `comment_rev_comment`
+         ON (( comment_rev_comment.comment_id = rev_comment_id ))
+       JOIN `page`
+         ON (( page_id = rev_page ))
+       LEFT JOIN `user`
+              ON ( ( actor_rev_user.actor_user != 0 )
+                   AND ( user_id = actor_rev_user.actor_user ) )
+WHERE  page_namespace = 0
+       AND page_title = 'Palakkad/linksplus'
+       AND rev_id = 6911;  
 ```
 
 Hmm. This was not at all the path I was expecting it to take. Where is all that actor stuff coming from?
