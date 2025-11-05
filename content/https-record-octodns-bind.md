@@ -9,7 +9,7 @@ tags = ['sysadmin']
 
 SVCB is a new type of DNS record that's like CNAME but with more powers. It is defined in the [Service Binding and Parameter Specification via the DNS RFC](https://datatracker.ietf.org/doc/rfc9460/). HTTPS record is a specifically named variant of SVCB record.
 
-```
+```dns
    @ 7200 IN HTTPS 1 . alpn=h3
 ```
 
@@ -17,19 +17,19 @@ A record like this makes the apex domain (@) be marked as supporting QUIC and HT
 
 Another option is to have an alias.
 
-```
+```dns
    example.com. 3600 IN HTTPS 0 svc.example.net.
 ```
 
 Here, example.com is considered to be aliased to svc.example.net exactly like how the following CNAME record would work
 
-```
+```dns
    www.example.com. 3600 IN CNAME svc.example.net.
 ```
 
 Note that putting example.com. for CNAME cannot work.
 
-```
+```dns
    ; Invalid
    example.com. 3600 IN CNAME svc.example.net.
 ```
@@ -44,7 +44,7 @@ OctoDNS had added support for SVCB and HTTPS RR in [mid-2024](https://github.com
 
 I tried looking at the code to figure out how to configure it and arrived at the following configuration:
 
-```
+```yaml
   - ttl: 3600
     type: HTTPS
     values:
