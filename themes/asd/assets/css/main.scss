@@ -267,6 +267,7 @@ details[open] summary {
 
 header[role="banner"] {
     overflow-x: hidden;
+    margin-top: 1rem;
     > a {
         text-decoration: none;
         &:hover {
@@ -278,7 +279,6 @@ header[role="banner"] {
         font-size: calc(min(9.8vw, 4.5rem));
         font-weight: 900;
         line-height: 1;
-        margin: 1rem auto 0;
         white-space: nowrap;
     }
     nav {
