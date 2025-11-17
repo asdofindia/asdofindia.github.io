@@ -39,5 +39,5 @@ php maintenance/run.php StopForumSpam:updateDenyList --show
 By default it is set to expire and reload in 5 days. You can change this by setting `$wgSFSDenyListCacheDuration` like this:
 
 ```php
-$wgSFSDenyListCacheDuration = 86400 // seconds in a day
+$wgSFSDenyListCacheDuration = 86400; // seconds in a day
 ```
