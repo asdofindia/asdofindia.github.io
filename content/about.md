@@ -87,7 +87,7 @@ I do not believe in CVs, but apparently it is important.
 * Physical examination
 * Diagnosis and management of common infectious diseases and non-communicable diseases
 * Management of emergencies including poly-trauma, MI, stroke, sepsis and other medical emergencies
-* Minor procedures (I&D, dressing, NG tube insertion, central line placement, peripheral line)
+* Minor procedures (I&D, dressing, NG tube insertion, central line placement, peripheral line, suturing)
 * Uncomplicated deliveries
 * Newborn resuscitation
 * Cardiopulmonary resuscitation
@@ -99,16 +99,16 @@ I do not believe in CVs, but apparently it is important.
 ### Tech ###
 
 * GNU/Linux, bash scripting, system administration (including maintaining servers that support email, DNS, websites). Can install and configure any package. Monkey patching, maintaining forks, debugging running processes, ransacking logs, trial & error of all combinations of configurations, deliberately introducing bugs to isolate problems, brute forcing, penetration testing own services, recovering from failures, losing production data - I've been there and done all of that.
-* Web development - Backend, frontend, full stack, outside the stack, if it has anything to do with the web, I've done it. Won't list the javascript frameworks I have explored (because they are endless). In addition to nodejs, I've worked on servers in Java (Quarkus, Jakarta EE), Kotlin, Python.
+* Web development - Backend, frontend, full stack, outside the stack, if it has anything to do with the web, I've done it. Won't list the javascript frameworks I have explored (because they are endless). In addition to JavaScript ecosystem (NextJS, NuxtJS, Gatsby, Astro), I've worked on servers in Java (Quarkus, Jakarta EE), Kotlin, Python, Go, Ruby/Rails.
 * Static site development - holds a special place in my heart. I'm a big fan of jekyll, docpad, and hugo. Static APIs are super cool.
-* Dynamic sites - can adjust with wordpress (even though I find php very boring).
+* Dynamic sites - WordPress, MediaWiki, Koha, Omeka S, Loomio, Discourse.
 * Data scraping - reverse engineering APIs, getting data out of HTML soup.
-* Programming - can do whatever I want in python, javascript, java, and kotlin; can write algorithms slowly but surely in c, c++, julia, R, go, ruby, rust, bash, haskell, php, scala, clojure (lisp, ftw!). Can use async/await properly in javascript (despite red-blue functions). Can use streams and lambdas correctly in java.
+* Programming - can do whatever I want in python, javascript, java, kotlin, go; can write algorithms slowly but surely in c, c++, julia, R, ruby, rust, bash, haskell, php, scala, clojure (lisp, ftw!). Can use async/await properly in javascript (despite red-blue functions). Can use streams and lambdas correctly in java.
 * Devops - docker, docker-compose, build automation, deployments
 * Android development - jetpack compose, kotlin, MVVM architecture
 * Algorithms and data structures
-* Maps, spatial programming, data science - have worked with google or-tools, fulcrum, d3.js, dplyr, leaflet.js, mapbox, openstreetmap, ggplot2, the whole of tidyverse, pandas, geoserver, overpass turbo, openlayers
-* Database - mongodb, elasticsearch, postgresql, neo4j
+* Maps, spatial programming, data science - have worked with google or-tools, fulcrum, d3.js, dplyr, leaflet.js, MapLibre GL JS mapbox, openstreetmap, ggplot2, the whole of tidyverse, pandas, geoserver, overpass turbo, openlayers
+* Database - mongodb, elasticsearch, postgresql, mariadb/mysql, neo4j
 * Webextensions
 * Chatbots, chatops; webhooks
 * Code review - can read others' code, can debug bugs
@@ -138,6 +138,13 @@ I do not believe in CVs, but apparently it is important.
 
 ## Informal Education ##
 
+### Action For Equity ###
+
+**Co-founder**
+(Jan 2024 - present)
+
+Building a new organization to house all my work. [Read more on Action for Equity website](https://actionforequity.in)
+
 ### Nivarana ###
 
 **Technical Editor**
@@ -145,19 +152,27 @@ I do not believe in CVs, but apparently it is important.
 
 Building [Nivarana.org](https://nivarana.org)
 
+### Institute of Public Health, Bangalore ###
+
+**Advisor**
+November 2025 - present
+
+**Honorary Associate**
+December 2020 - present
+
+As an HA under the chronic conditions & public policies cluster, I programmed [a tobacco related parliament questions portal](https://tobaccoquestions.iphindia.org/).
+
+**Consultant - Data Collection and Visualization**
+(Sept 2018 - present)
+
+I was a consultant on [THETA project](https://pubmed.ncbi.nlm.nih.gov/32211518/) of the health equity cluster.
+
 ### Drug Action Forum - Karnataka ###
 
 **Board member**
 (April 2024 - present)
 
 Working on access to medicine.
-
-### Action For Equity ###
-
-**Co-founder**
-(Jan 2024 - present)
-
-Building a new organization to house all my work. [Read more on Action for Equity website](https://actionforequity.in)
 
 ### Sarvatrika Arogya Andolana - Karnataka ###
 
@@ -171,6 +186,15 @@ Building a new organization to house all my work. [Read more on Action for Equit
 This is a progressive movement in Karnataka. I'm a part.
 
 Read at [bahutvakarnataka.wordpress.com](https://bahutvakarnataka.wordpress.com/).
+
+### Open Data Kerala ###
+
+**Maintainer of Map Kerala**
+(May 2021 - present)
+
+Along with [Manoj Karingamadathil](https://meta.wikimedia.org/wiki/User:Manojk) and [Abraham Raji](https://abrahamraji.in/) I built and now maintain [Map Kerala](https://map.opendatakerala.org/) which is a dashboard for geospatial data on Kerala.
+
+It is built with data from openstreetmap and wikidata, utilizing hugo's static site generation combined with vanilla javascript that queries Overpass Turbo API to show realtime data.
 
 ### DemTech.ai ###
 
@@ -212,15 +236,6 @@ Not something I would recommend to those who cannot take responsibility for the 
 
 **AFPI Karnataka Newsletter editorial team**, later **Chief Editor**
 (2018 - 2022)
-
-### Open Data Kerala ###
-
-**Maintainer of Map Kerala**
-(May 2021 - present)
-
-Along with [Manoj Karingamadathil](https://meta.wikimedia.org/wiki/User:Manojk) and [Abraham Raji](https://abrahamraji.in/) I built and now maintain [Map Kerala](https://map.opendatakerala.org/) which is a dashboard for geospatial data on Kerala.
-
-It is built with data from openstreetmap and wikidata, utilizing hugo's static site generation combined with vanilla javascript that queries Overpass Turbo API to show realtime data.
 
 ### Home ###
 
@@ -273,18 +288,6 @@ I volunteer as a sysadmin, wiki sysop, git repo maintainer, etc.
 (March 2016 - present)
 
 Was one of the organization admins in Google Summer of Code and among the points of contact for students.
-
-### Institute of Public Health, Bangalore ###
-
-**Honorary Associate**
-(December 2020 - present)
-
-As an HA under the chronic conditions & public policies cluster, I programmed [a tobacco related parliament questions portal](https://tobaccoquestions.iphindia.org/).
-
-**Consultant - Data Collection and Visualization**
-(Sept 2018 - present)
-
-I'm a consultant on [THETA project](https://pubmed.ncbi.nlm.nih.gov/32211518/) of the health equity cluster.
 
 ### JeevaRaksha Trust, Bangalore ###
 
@@ -447,4 +450,3 @@ I have kept this section at the end so that you can judge me last. I am [very pr
 If you have to give me access to a random server, you can add the following public key and let me know the ssh parameters.
 
 ```ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPrMaUXtKYTx++mKUm1tA5r8qDXtls9x4ie0kHAqfmGQ asd@workstation```
-
