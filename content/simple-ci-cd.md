@@ -88,3 +88,15 @@ echo "all done"
 I don't have CI here, but of course one could add a test step and add a [notification regarding failure](https://serverfault.com/a/266456) to achieve CI as well. (Ah, I think I'll add a notification for failure for my CD as well. Nice idea!)
 
 You might also notice that I deploy using systemd and do not rely on docker, etc. But even if it were docker/kubernetes, it would have gone through the same steps (build, push to docker container registry, rollout to k8s)
+
+## What happens
+
+When I push code to github, github makes a request to the configured webhook URL example.com/a-secret-url. My service-manager is listening on that hook and runs the corresponding bash script `update.sh`. It runs all the commands needed to fetch the latest code, build, and deploy that.
+
+## Caveats
+
+This is just enough for this project. There might be projects with more complicated requirements which require more complicated workflows and tools.
+
+Service-manager presently relies on obscurity of webhook URL to prevent abuse. It also doesn't have CSRF protection.
+
+I haven't tested this system with many other projects as of now, and the workflow might need some modifications depending on other common needs.
