@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<article>
+<article class="pb-4">
     <h1>{{ .Title }}</h1>
     🗄️ {{ range $k, $v := .GetTerms "tags" }} {{- if $k }}, {{ end }}
     <a
@@ -15,4 +15,10 @@
     </aside>
     {{ end }} {{ .Content }}
 </article>
+<hr />
+<div class="pb-4">
+    <p>Subscribe to my <a href="https://blog.learnlearn.in/newsletter/">newsletter</a> where I send new links from all my blogs and curated links related to society, politics, etc.</p>
+    <p>Or find <a href="/follow/">other ways to follow me</a></p>
+
+</div>
 {{ end }}
