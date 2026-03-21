@@ -352,6 +352,8 @@ def create_embedding(image):
 
 While I do not know if this is accurate, I do know that the strings that show up in the file are similar/same.
 
+## Conclusion
+
 So there is a great chance, that the developers of Poshan Tracker are using [dlib](https://dlib.net/) and the models `shape_predictor_68_face_landmarks` and `dlib_face_recognition_resnet_model_v1` for for doing the face matching/verification.
 
 These are models created by Davis King, the main author of dlib, 10 years ago. The details of how they were created are present in [https://github.com/davisking/dlib-models](https://github.com/davisking/dlib-models) but suffice to say a lot of the data is coming from celebrity faces on the internet. The dlib_face_recognition_resnet_model_v1 was trained on the photos of 7485 individuals. And the shape_predictor_68_face_landmarks is trained on a 300 faces challenge handpicked after:
