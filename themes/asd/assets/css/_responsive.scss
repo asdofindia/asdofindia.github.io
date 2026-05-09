@@ -1,0 +1,50 @@
+@media (max-width: 768px) {
+  .post-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .post-article .post-title {
+    font-size: 2rem;
+  }
+
+  .site-header {
+    padding: 1.5rem 0 1rem;
+    margin-bottom: 2rem;
+
+    .site-title {
+      font-size: 1.35rem;
+    }
+  }
+
+  .theme-toggle {
+    font-size: 0.7rem;
+    padding: 0.2rem 0.45rem;
+  }
+
+  .w {
+    padding: 0 1rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.45rem;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 16px;
+  }
+
+  .post-card {
+    padding: 1rem;
+  }
+
+  .site-header .site-nav a {
+    font-size: 0.8rem;
+    padding: 0.25rem 0.5rem;
+  }
+}

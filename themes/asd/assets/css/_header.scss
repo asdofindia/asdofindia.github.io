@@ -1,0 +1,63 @@
+.site-header {
+  padding: 2.5rem 0 1.5rem;
+  text-align: center;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 3rem;
+
+  .site-title {
+    font-size: 1.6rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    color: var(--text);
+    text-decoration: none;
+    display: inline-block;
+    transition: color 0.15s ease;
+
+    &:hover {
+      color: var(--accent);
+      text-decoration: none;
+    }
+  }
+
+  .site-nav {
+    margin-top: 0.75rem;
+
+    ul {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 0.25rem;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    li {
+      margin: 0;
+    }
+
+    a {
+      display: inline-block;
+      padding: 0.3rem 0.75rem;
+      font-size: 0.9rem;
+      font-weight: 500;
+      color: var(--text-secondary);
+      border-radius: var(--radius-sm);
+      transition: all 0.15s ease;
+
+      &:hover {
+        color: var(--accent);
+        background: var(--bg-alt);
+        text-decoration: none;
+      }
+
+      &:visited {
+        color: var(--text-secondary);
+
+        &:hover {
+          color: var(--accent);
+        }
+      }
+    }
+  }
+}

@@ -15,5 +15,23 @@
                 <script type="text/javascript" src="{{ $js.RelPermalink }}"></script>
             {{- end -}}
         {{- end -}}
+        <script>
+        (function() {
+            var t = localStorage.getItem('theme') || 'auto';
+            var b = document.body;
+            b.setAttribute('a', t);
+            var btn = document.getElementById('theme-toggle');
+            if (btn) {
+                btn.textContent = t.charAt(0).toUpperCase() + t.slice(1);
+                btn.addEventListener('click', function() {
+                    var c = b.getAttribute('a');
+                    var n = c === 'auto' ? 'light' : c === 'light' ? 'dark' : 'auto';
+                    b.setAttribute('a', n);
+                    localStorage.setItem('theme', n);
+                    btn.textContent = n.charAt(0).toUpperCase() + n.slice(1);
+                });
+            }
+        })();
+        </script>
     </body>
 </html>

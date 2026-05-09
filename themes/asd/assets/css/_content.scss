@@ -1,0 +1,138 @@
+article h1,
+article h2,
+article h3,
+article h4,
+article h5,
+article h6 {
+  position: relative;
+}
+
+blockquote {
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem;
+  border-left: 4px solid var(--accent);
+  background: var(--bg-alt);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  color: var(--text-secondary);
+
+  p {
+    margin: 0;
+
+    + p {
+      margin-top: 0.75rem;
+    }
+  }
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background: var(--border);
+  margin: 2.5rem 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+
+  th, td {
+    padding: 0.6rem 0.75rem;
+    border: 1px solid var(--border);
+    text-align: left;
+  }
+
+  th {
+    font-weight: 600;
+    background: var(--bg-alt);
+  }
+
+  tbody tr:nth-child(even) {
+    background: var(--bg-alt);
+  }
+}
+
+figure {
+  margin: 1.5rem 0;
+
+  img {
+    margin: 0 auto;
+  }
+
+  figcaption {
+    text-align: center;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin-top: 0.5rem;
+  }
+}
+
+pre {
+  margin: 1.5rem 0;
+  padding: 1.25rem;
+  background: var(--code-bg) !important;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow-x: auto;
+  font-family: var(--font-mono);
+  font-size: 0.9rem;
+  line-height: 1.6;
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: auto;
+}
+
+code {
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: auto;
+}
+
+:not(pre) > code {
+  background: var(--bg-alt);
+  padding: 0.15em 0.4em;
+  border-radius: var(--radius-sm);
+  color: var(--accent);
+  border: 1px solid var(--border-light);
+  font-size: 0.875em;
+}
+
+.highlight {
+  margin: 1.5rem 0;
+
+  pre {
+    margin: 0;
+  }
+}
+
+.toc {
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.25rem;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+
+  nav > ul {
+    margin: 0;
+    padding-left: 1.25rem;
+  }
+
+  ul {
+    list-style: none;
+    padding-left: 1.25rem;
+
+    li {
+      margin: 0.3rem 0;
+    }
+  }
+
+  a {
+    color: var(--text-secondary);
+
+    &:hover {
+      color: var(--accent);
+    }
+  }
+}
