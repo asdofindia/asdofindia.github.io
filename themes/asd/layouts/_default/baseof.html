@@ -2,11 +2,18 @@
 <html lang="{{ $.Site.LanguageCode }}">
     {{- partial "head.html" . -}}
     <body a="{{ $.Site.Params.theme_config.appearance | default "auto" }}">
+        {{- partial "banner.html" . -}}
         <main class="page-content" aria-label="Content">
             <div class="w">
                 {{- block "main" . }}{{- end }}
-                {{ partial "footer.html" }}
+                {{- partial "footer.html" . -}}
             </div>
         </main>
+        {{- if .Params.custom_js -}}
+            {{- range .Params.custom_js -}}
+                {{ $js := resources.Get (print "js/" . ".js") }}
+                <script type="text/javascript" src="{{ $js.RelPermalink }}"></script>
+            {{- end -}}
+        {{- end -}}
     </body>
 </html>

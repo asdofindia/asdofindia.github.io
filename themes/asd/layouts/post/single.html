@@ -1,24 +1,38 @@
 {{ define "main" }}
 
-<article class="pb-4">
-    <h1>{{ .Title }}</h1>
-    🗄️ {{ range $k, $v := .GetTerms "tags" }} {{- if $k }}, {{ end }}
-    <a
-        href="{{ .RelPermalink }}"
-        class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline"
-    >
-        {{- .LinkTitle -}}
-    </a>
-    {{- end }} {{ if .Params.toc }}
-    <aside {{ if .Params.tocBorder }} class="toc" {{ end }}>
+<article class="post-article pb-4">
+    {{ partial "back_link.html" . }}
+
+    <div class="post-meta">
+        <span class="meta-date">
+            <time datetime="{{ .Date }}">{{ .Date | time.Format site.Params.theme_config.date_format }}</time>
+        </span>
+        {{ if .ReadingTime }}
+        <span class="meta-reading">{{ .ReadingTime }} min read</span>
+        {{ end }}
+        {{ if .GetTerms "tags" }}
+        <span class="meta-tags">
+            {{ range .GetTerms "tags" }}
+            <a href="{{ .RelPermalink }}" class="tag">{{ .LinkTitle }}</a>
+            {{ end }}
+        </span>
+        {{ end }}
+    </div>
+
+    <h1 class="post-title">{{ .Title }}</h1>
+
+    {{ if .Params.toc }}
+    <aside class="toc">
         {{ .TableOfContents }}
     </aside>
-    {{ end }} {{ .Content }}
+    {{ end }}
+
+    {{ .Content }}
 </article>
-<hr />
-<div class="pb-4">
+
+<div class="post-footer pb-4">
     <p>Subscribe to my <a href="https://blog.learnlearn.in/newsletter/">newsletter</a> where I send new links from all my blogs and curated links related to society, politics, etc.</p>
     <p>Or find <a href="/follow/">other ways to follow me</a></p>
-
 </div>
+
 {{ end }}

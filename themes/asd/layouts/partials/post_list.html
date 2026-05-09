@@ -8,32 +8,39 @@
     {{- else -}}
         {{- if (eq .context.Kind "term") -}}
             {{- $posts = .context.Data.Pages -}}
-	{{- else -}}
-            {{- $posts = (where site.RegularPages "Type" "post") }}
-	{{- end -}}
+        {{- else -}}
+            {{- $posts = (where site.RegularPages "Type" "post") -}}
+        {{- end -}}
     {{- end -}}
 {{- end -}}
 
-{{- $limit_exceeded:= "" -}}
+{{- $limit_exceeded := false -}}
 {{- if (and .limit (gt (len $posts) .limit)) -}}
     {{- $limit_exceeded = true -}}
-{{- else -}}
-    {{- $limit_exceeded = false -}}
-{{ end }}
+{{- end -}}
 
-{{- if (gt (len $posts) 0) }}
-    {{- if .limit }}
-        {{ $posts = (first .limit $posts ) }}
-    {{ end }}
-    <ul>
+{{- if (gt (len $posts) 0) -}}
+    {{- if .limit -}}
+        {{ $posts = (first .limit $posts) }}
+    {{- end -}}
+    <ul class="post-grid">
         {{- range $post := $posts -}}
-        <li>
-            <span>{{- ($post.Date | time.Format site.Params.theme_config.date_format) }}</span>
-            <a href="{{ $post.Permalink | relURL }}">{{ $post.Title }}</a>
+        <li class="post-card">
+            <div class="card-date">{{ $post.Date | time.Format site.Params.theme_config.date_format }}</div>
+            <a href="{{ $post.Permalink | relURL }}" class="card-title">{{ $post.Title }}</a>
+            {{- with $post.GetTerms "tags" -}}
+            <div class="card-tags">
+                {{- range . -}}
+                <a href="{{ .RelPermalink }}" class="tag">{{ .LinkTitle }}</a>
+                {{- end -}}
+            </div>
+            {{- end -}}
         </li>
-        {{ end }}
-        {{- if and .show_more $limit_exceeded }}
-            <li><a href="{{ .show_more_url | relURL }}">{{ .show_more_text | default "Show more..." }}</a></li>
-        {{ end }}
+        {{- end -}}
     </ul>
-{{ end }}
+    {{- if and .show_more $limit_exceeded -}}
+        <div class="show-more">
+            <a href="{{ .show_more_url | relURL }}">{{ .show_more_text | default "Show more..." }}</a>
+        </div>
+    {{- end -}}
+{{- end -}}

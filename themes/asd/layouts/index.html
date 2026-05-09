@@ -1,14 +1,4 @@
 {{ define "main" }}
-
-<h1>{{ .Title }}</h1>
-<ul class="horizontal-menu">
-    <li><a href="/about">About</a></li>
-    <li><a href="/now">Now</a></li>
-    <li><a href="https://learnlearn.in">Insights</a></li>
-    <li><a href="https://blog.learnlearn.in">Blog</a></li>
-    <li><a href="/follow">+Follow</a></li>
-</ul>
-
 {{ .Content }}
-{{ partial "post_list.html" (dict "context" . "section" .Section)}}
+{{ partial "post_list.html" (dict "context" . "section" .Section) }}
 {{ end }}

@@ -4,18 +4,27 @@
 
 {{ .Content }}
 
-<!-- divide post list by year  -->
-{{ if  .Site.Params.theme_config.isListGroupByDate  }}
+{{ if .Site.Params.theme_config.isListGroupByDate }}
     {{ range .Pages.GroupByDate "2006 Year" }}
-    <p>{{ .Key }}</p>
-    <ul>
+    <h2>{{ .Key }}</h2>
+    <ul class="post-grid">
         {{ range .Pages }}
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        <li class="post-card">
+            <div class="card-date">{{ .Date | time.Format site.Params.theme_config.date_format }}</div>
+            <a href="{{ .RelPermalink }}" class="card-title">{{ .Title }}</a>
+            {{ with .GetTerms "tags" }}
+            <div class="card-tags">
+                {{ range . }}
+                <a href="{{ .RelPermalink }}" class="tag">{{ .LinkTitle }}</a>
+                {{ end }}
+            </div>
+            {{ end }}
+        </li>
         {{ end }}
     </ul>
     {{ end }}
 {{ else }}
-    {{ partial "post_list.html" (dict "context" . "section" .Section)}}
+    {{ partial "post_list.html" (dict "context" . "section" .Section) }}
 {{ end }}
 
 {{ end }}
