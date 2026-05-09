@@ -6,6 +6,9 @@ theme = 'asd'
 
 [params]
 feedSections = ["post"]
+  [author]
+    name = "Akshay S Dinesh"
+    email = "asdofindia@gmail.com"
 
 [taxonomies]
   tag = 'tags'
