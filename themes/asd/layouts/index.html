@@ -8,7 +8,6 @@
 <ul class="archive-list">
   {{ range .Pages }}
   <li>
-    <time class="archive-date">{{ .Date | time.Format "2006-01-02" }}</time>
     <a href="{{ .RelPermalink }}" class="archive-link">{{ .Title }}</a>
     {{- with .GetTerms "tags" }}
     <span class="archive-tags">
