@@ -161,6 +161,34 @@ details {
   }
 }
 
+// Search
+
+.search-wrap {
+  margin-bottom: 2rem;
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  font-size: 0.95rem;
+  font-family: var(--font-sans);
+  color: var(--text);
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  outline: none;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+
+  &:focus {
+    border-color: var(--accent);
+    box-shadow: var(--shadow-md);
+  }
+
+  &::placeholder {
+    color: var(--text-muted);
+  }
+}
+
 // Utility
 
 .pb-4 {

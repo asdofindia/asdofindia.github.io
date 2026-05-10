@@ -1,4 +1,23 @@
 {{ define "main" }}
 {{ .Content }}
+<div class="search-wrap">
+  <input type="search" id="search-input" class="search-input" placeholder="Search posts by title..." aria-label="Search posts by title">
+</div>
 {{ partial "post_list.html" (dict "context" . "section" .Section) }}
+<script>
+(function() {
+  var input = document.getElementById('search-input');
+  if (!input) return;
+  input.addEventListener('input', function() {
+    var q = input.value.toLowerCase().trim();
+    var cards = document.querySelectorAll('.post-card');
+    cards.forEach(function(card) {
+      var title = card.querySelector('.card-title');
+      if (!title) return;
+      var text = title.textContent.toLowerCase();
+      card.style.display = (!q || text.indexOf(q) !== -1) ? '' : 'none';
+    });
+  });
+})();
+</script>
 {{ end }}
