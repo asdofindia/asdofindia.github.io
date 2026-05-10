@@ -449,4 +449,4 @@ I have kept this section at the end so that you can judge me last. I am [very pr
 
 If you have to give me access to a random server, you can add the following public key and let me know the ssh parameters.
 
-```ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPrMaUXtKYTx++mKUm1tA5r8qDXtls9x4ie0kHAqfmGQ asd@workstation```
+```ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGI1y2g6qyrdcWt+YtoziL3+/gfxg8Sui91KkG6/NbCK asd@kantarimulak```
