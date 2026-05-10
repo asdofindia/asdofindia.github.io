@@ -176,8 +176,10 @@ Working on access to medicine.
 
 ### Sarvatrika Arogya Andolana - Karnataka ###
 
-**Website, Social Media**
+**Working Group Member**
 (June 2023 - present)
+
+Maintaining website, social media, coordinating meetings, fundraising, organizing rallies, drafting statements, legislations.
 
 [saakarnataka.org](https://saakarnataka.org) is maintained by me.
 
