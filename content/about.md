@@ -55,7 +55,7 @@ My phone number can be obtained by solving the following puzzle:
 * There are **C** months in a year 
 * Apollo **D** landed on moon with Neil Armstrong and Buzz Aldrin 
 * **E** = **C** + **D** 
-* Ambedkar Jayanti is observed on Aril **F** 
+* Ambedkar Jayanti is observed on April **F** 
 * If you take the infinity symbol and turn it vertically, it looks like the number **G** 
 * **H** = **G** - 1
 * A 'score' refers to **I** number
