@@ -7,7 +7,7 @@ date = '2024-08-11'
 
 ##### Verbatim quoting the comment made by CVN #####
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L0_tqC5rCAw?si=M3BSs-RE3OfEQjD6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/L0_tqC5rCAw?si=M3BSs-RE3OfEQjD6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I am a practitioenr of modern medicine, actually orthopedics. I've been a lifelong critic of alternative medicine. I was never a modi-bhakt. I don't take my Colles patients to OT also. Most of them, I don't. That's just an intro.
 
