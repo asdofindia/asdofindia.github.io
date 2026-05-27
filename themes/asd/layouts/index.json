@@ -6,7 +6,7 @@
     { 
       "title": {{ .Title | jsonify }},
       "permalink": {{ .Permalink | jsonify }},
-      "summary": {{ .Summary | jsonify }}
+      "summary": {{ .Summary | plainify | jsonify }}
     } 
   {{ end }} 
   ] 
