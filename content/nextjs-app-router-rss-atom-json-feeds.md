@@ -2,7 +2,7 @@
 date = '2026-06-08T10:40:16+05:30'
 title = 'NextJS App Router RSS, Atom, and JSON Feeds'
 type = 'post'
-tags = ['nextjs']
+tags = ['nextjs', 'webdev', 'programming']
 +++
 
 ##### How to add all kinds of feeds to your nextjs app router based app #####

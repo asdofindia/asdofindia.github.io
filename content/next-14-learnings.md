@@ -1,7 +1,7 @@
 +++
 type = 'post'
 title = 'Next 14 learnings'
-tags = ['programming']
+tags = ['programming', 'nextjs', 'webdev']
 date = '2024-10-21'
 +++
 
