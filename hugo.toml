@@ -20,6 +20,8 @@ feedSections = ["post"]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.highlight]
+    style = 'catppuccin-latte'
 
 [outputs]
   home = ["HTML", "ATOM", "rss", "json"]
