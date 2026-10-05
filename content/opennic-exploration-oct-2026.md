@@ -31,7 +31,7 @@ http://akshay.geek {
 
 And although it took some time for the DNS to propagate, it actually started working after a while.
 
-I tried registering on `.o` as well. The [dot.o](http://dot.o/) registry was working very well, and even had an https mirror at [https://dot-o.eo.gl/](https://dot-o.eo.gl/). But after registering akshay.o, it has been in pending state.
+I tried registering on `.o` as well ([http://akshay.o](http://akshay.o)). The [dot.o](http://dot.o/) registry was working very well, and even had an https mirror at [https://dot-o.eo.gl/](https://dot-o.eo.gl/). But after registering akshay.o, it had been in pending state for a few hours. I got impatient and emailed the support mail, and got it activated.
 
 ## HTTPS
 
@@ -87,6 +87,7 @@ And here're the list of interesting sites I've come across. (Pretty disappointin
 
 People's homepages:
 
+* http://akshay.geek/ and http://akshay.o/
 * http://p4bl0.geek/
 * http://pablo.rackham.pirate/
 * http://pjvm.geek/
