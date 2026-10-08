@@ -46,7 +46,7 @@ The command you are looking for might be `gpg --import`
 
 ### Instant Messaging ###
 
-Apart from telegram, you can send me a message on [Matrix](https://matrix.org/). My ID is [@akshay:matrix.org](https://matrix.to/#/@akshay:matrix.org). You can also message me on xmpp via [akshay@autistic.org](xmpp:akshay@autistici.org?omemo-sid-1160323333=150d3cbbcef7ff8c2de0258809e9def8c7430982e8dcbd2904194968eb8e3226). You can also message me on signal with the username [@asdofindia.42](https://signal.me/#eu/DhDM_f2Mm5xRl-MhaS4D4njf8Kp2c-olyux64EBQr9bwT8K5d9FGgac69nitJgFZ). To message me on WhatsApp [click here](https://wa.me/qr/ZUVQBH44NCPDJ1).
+Apart from telegram, you can send me a message on [Matrix](https://matrix.org/). My ID is [@akshay:matrix.org](https://matrix.to/#/@akshay:matrix.org). You can also message me on xmpp via [akshay@learnlearn.in](xmpp:akshay@learnlearn.in?roster;preauth=vJaEOmv6dYAqp1timSfD3aOq;ibr=y;omemo-sid-1805741902=e545d9ec63dc96edd10efd86318c56d60ab439de1764da2607d7854529c16f74;omemo-sid-911051601=95af5fb9d2fc37458aae6f401516ad7dbe8d0efe2095abc862cbebce20313972). (I was previously on akshay@autistici.org - but [A/I was taken down](https://solidaritywithautisticiinventati.net/) illegally by Trump.) You can also message me on signal with the username [@asdofindia.42](https://signal.me/#eu/DhDM_f2Mm5xRl-MhaS4D4njf8Kp2c-olyux64EBQr9bwT8K5d9FGgac69nitJgFZ). To message me on WhatsApp [click here](https://wa.me/qr/ZUVQBH44NCPDJ1).
 
 My phone number can be obtained by solving the following puzzle:
 
@@ -69,7 +69,8 @@ Okay, if you want to stalk me, here are the places you go:
 
 * [gitlab.com/asdofindia](https://gitlab.com/asdofindia)
 * [github.com/asdofindia](https://github.com/asdofindia)
-* <a rel="me" href="https://mastodon.technology/@akshay">@akshay@mastodon.technology</a>
+* <a rel="me" href="https://kolektiva.social/@akshay">@akshay@kolektiva.social</a>
+* [bsky.app/profile/asd.learnlearn.in](https://bsky.app/profile/asd.learnlearn.in)
 * [twitter.com/asdofindia](../to-leave-twitter/)
 * [asdofindia@joindiaspora.com](https://joindiaspora.com/people/2a39042b15979f8b)
 * [facebook.com](//learnlearn.in/facebook/)
