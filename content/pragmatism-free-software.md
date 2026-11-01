@@ -327,12 +327,6 @@ Remembering https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attri
 **2026-10-31 13:12:50 smlckz:**
 Also: https://beyondloom.com/blog/onwigglypaint.html
 
-**2026-10-31 13:14:50 untrusem:**
-who is at mumbaifoss, have a good day :)
-
-**2026-10-31 13:15:07 untrusem:**
-smlckz: Internet Janitor is so cool
-
 **2026-10-31 13:19:00 Akshay S Dinesh:**
 very relevant.
 
