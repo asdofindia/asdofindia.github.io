@@ -5,7 +5,7 @@ type = 'post'
 tags = ['freedom']
 +++
 
-##### This is an excrept from the [FSCI](https://fsci.in) xmpp chat room discussing the philosophy behind ideology, pragmatism, and how free software deals with AI #####
+##### This is an excerpt from the [FSCI](https://fsci.in) xmpp chat room discussing the philosophy behind ideology, pragmatism, and how free software deals with AI #####
 
 
 **2026-10-30 16:39:38 spaciouskarter78_:**
