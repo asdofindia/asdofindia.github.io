@@ -318,13 +318,13 @@ I am reasonably sure that the backlinks can only be done when doing search/retri
 **2026-10-31 12:34:59 Akshay S Dinesh:**
 No matter how much anti-AI activists say that LLMs are just copying code, there's actual some kind of "new" code coming here. 
 
-**2026-10-31 13:03:53 smlckz:**
+**2026-10-31 13:03:53 s:**
 Like many others things, the matter of originality is a spectrum. Between blatant byte to byte equivalent copy and completely independent reimplementation of an idea, lies the grey area of 'inspiration' and designation as 'derived work'. At which point in this spectrum, moving towards the direction of originality, does something stop being a derived work and be considered an original work of authorship, is difficult to determine in general and need to be considered on a case-by-case basis. For example, if a sufficiently precisely specified algorithm (which should not be able to be copyrighted, yet see software patents), how does a reimplementation avoid being classified as derived work.. I remember reading when the GNU utilities were being developed, its developers had to avoid looking at the (copyrighted) source code of the original implementations, and focus on a different set of tradeoffs to optimize towards in the code they wrote, to inadvertently writing code that would've turned out as 'derived work'. Now, should it affect the models in question, given the amount of resources they have in hand, they should be easily, relatively speaking, get themselves tuned out of the problem..
 
 **2026-10-31 13:07:37 Akshay S Dinesh:**
 Remembering https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/  which was shared here last week in context of the question of originality. 
 
-**2026-10-31 13:12:50 smlckz:**
+**2026-10-31 13:12:50 s:**
 Also: https://beyondloom.com/blog/onwigglypaint.html
 
 **2026-10-31 13:19:00 Akshay S Dinesh:**
@@ -434,7 +434,7 @@ I think I was confusing argument as in "a debate between two or more people argu
 **2026-10-31 14:20:44 badrihippo:**
 We can continue calling it "argument" if you want :)
 
-**2026-10-31 14:20:46 smlckz:**
+**2026-10-31 14:20:46 s:**
 This reminds me of https://en.wiktionary.org/wiki/Auseinandersetzung
 
 **2026-10-31 14:21:24 badrihippo:**
@@ -451,20 +451,20 @@ As long as people don't think we're arguing in FSCI.
 **2026-10-31 14:22:40 Akshay S Dinesh:**
 I agree. I will probably restate it as "we do not know how to get to a better state, and we do not know what to do with copyright"
 
-**2026-10-31 14:22:46 smlckz:**
+**2026-10-31 14:22:46 s:**
 A good addition in such a meta-discussion..
 
 **2026-10-31 14:23:37 badrihippo:**
 I recently saw a post by someone (Elena Rossini) on the Fediverse about planning to learn German because there's so much German content on the Fediverse that she wants to be able to understand
 
-**2026-10-31 14:24:32 smlckz:**
+**2026-10-31 14:24:32 s:**
 Realpolitik and pragmatism much?
 
-**2026-10-31 14:24:43 smlckz:**
+**2026-10-31 14:24:43 s:**
 /me sighs
 
 **2026-10-31 14:24:53 RD:**
-Why do you know this word smlckz?
+Why do you know this word s?
 
 **2026-10-31 14:25:01 Akshay S Dinesh:**
 now that's a german word I really can use more
@@ -553,7 +553,7 @@ Then that's your practical objective :D
 **2026-10-31 14:41:05 Akshay S Dinesh:**
 I think pragmatism/realpolitik is just another way of saying "consider more than one issue/ideology". "Do I use AI for the next function I'm going to write?" - The idealist will answer purely based on 1 ideology (anti-AI ideology). The pragmatist/realist/realpolitik will use a mix of ideologies to arrive at it - "capitalism, nature conservation, free software, environment, alternatives, benefit, what's at stake, etc. etc." 
 
-**2026-10-31 14:41:11 smlckz:**
+**2026-10-31 14:41:11 s:**
 Perhaps one might even need to go in the opposite direction of what the ideals dictate/point to, temporarily, to later eventually move towards that ideal; to use a Chinese idiom: losing the battle to win the war. (Don't ask me how is this relevant or applicable, it's for you to figure out)
 
 **2026-10-31 14:41:49 Akshay S Dinesh:**
@@ -569,7 +569,7 @@ Which takes a lot of decision-making and cognitive load, moreso when you're tryi
 ~Unless they have an LLM to "guide" them through the thought process of course~
 
 **2026-10-31 14:44:47 Akshay S Dinesh:**
-smlckz, can you give an example of going in opposite direction of the ideal's dictat?
+s, can you give an example of going in opposite direction of the ideal's dictat?
 
 **2026-10-31 14:45:05 badrihippo:**
 Nice idiom. I think this is what I was getting at. Sometimes, we might need to keep $thing now to help us reach a world where $thing doesn't exist later (in my argument, copyright, but could be anything).
@@ -598,7 +598,7 @@ sorry, i meant, ideological purism
 **2026-10-31 14:48:04 Pirate Pulawen:**
 I too agree. Copyright going away would be a good outcome, copyleft came because, copyright was already present.
 
-**2026-10-31 14:48:10 smlckz:**
+**2026-10-31 14:48:10 s:**
 What can't adapt and evolve is ''dead'', what we have to avoid is getting stuck in any particular ideology. Ideologies too have to keep up with the developments to remain relevant. Principles can remain constant.
 
 **2026-10-31 14:48:14 Akshay S Dinesh:**
@@ -610,7 +610,7 @@ I for sure think that with caste, gender one has to be radical because it's very
 **2026-10-31 14:49:37 Akshay S Dinesh:**
 With copyright, I don't know how radicalism can operate as it will also require figuring out a lot of economic questions/answers.
 
-**2026-10-31 14:49:44 smlckz:**
+**2026-10-31 14:49:44 s:**
 Again, avoid falling into a pit. If one great unified theory of everything could not be achieved, how would 'one' ideology be sufficient?
 
 **2026-10-31 14:50:19 Akshay S Dinesh:**
@@ -619,7 +619,7 @@ good. then you're also saying pragmatism is about multiple ideologies. then we'r
 **2026-10-31 14:54:09 Akshay S Dinesh:**
 I agree. I think this is one of the reasons why it'll be very difficult for pragmatist people to come together as a movement. (Oh, that also explains why I keep feeling like an outsider in every movement space)
 
-**2026-10-31 14:54:12 smlckz:**
+**2026-10-31 14:54:12 s:**
 Like isn't this a very common thing? Countries with different set of ideals cooperating, parties with different set of ideals forming coalition governments and such. Not exactly extreme 'opposite', to the point of irreconcilability, but still.
 
 **2026-10-31 14:55:22 Akshay S Dinesh:**
@@ -639,16 +639,16 @@ One thing that's a definite feature of pragmatism is that it can only be worked 
 
 Ethics is important however unfortunately some people find it subjective
 
-**2026-10-31 15:08:34 smlckz:**
+**2026-10-31 15:08:34 s:**
 I am talking about avoiding the entrenchment of any one or multiple ideologies. Ideologies, as organization of ideas, are useful tools/mechanisms/systems to reach goals and realize ideals, but has to be constantly nurtured over time, to avoid it going stale, turning rigid, to turn into 'religion', so to speak. The mind need to have primacy over its implements, not let it happen the other way around.
 
-**2026-10-31 15:38:46 smlckz:**
+**2026-10-31 15:38:46 s:**
 This I suppose has to do with the 'user experience' of the manner in which one is supposed to deal with the complexities of reality. That's how I suppose religion has been popular, it reduces the reality, helps with the cognitive load. Any ideology, movement that simplifies in the same manner to reach a level of popularity has the same problem; the original intentions have been vastly diluted in the process. How are we supposed to deal with the reality of people seeking simple solutions in face of complex, multi-faceted problems is a hard problem indeed. In a meta-manner, I too have simplified and reduced the situation in this exposition, please fill in the relevant details that I can not put in a few words that is applicable to it. How to deal with information overload, the DDoS attacks on the psyche of people, for them to have the leisure to think through and organize with understanding of the inherent complexity..
 
 **2026-10-31 15:57:11 RD:**
 I think religious activities (like do certain tasks in a ritualistic manner) do reduce cognitive load, but with fundamental questions unanswered, I am not sure how it reduces cognitive load. For example, there being so many religions and a person only follows the one they are born in. Naturally, that should make people question religion. I am not sure how people deal with the contradictions. Another example is when their prayers are not fulfilled. I don't agree it is about cognitive load only but probably conformity plays a role too. 
 
-**2026-10-31 16:03:30 smlckz:**
+**2026-10-31 16:03:30 s:**
 Yes, capacity of curiosity; peer pressure. As I said, there are more details, I can not be aware of all aspects involved, nor can I list the ones I'm aware of and thoroughly discuss them. Do you have time and leisure to follow along?
 
 **2026-10-31 16:04:29 RD:**
@@ -663,7 +663,7 @@ That may in some cases require making decisions that are the *opposite* of what 
 **2026-10-31 18:31:28 badrihippo:**
 This ties in with what you said Akshay S Dinesh about the impossibility of making pragmatic decisions without looking at the real world
 
-**2026-10-31 18:31:59 smlckz:**
+**2026-10-31 18:31:59 s:**
 Yes. Generalized to _all_ movements.
 
 **2026-10-31 18:32:19 badrihippo:**
@@ -681,7 +681,7 @@ And *that* means maybe a blog post written by a leader of the movement 10 years 
 **2026-10-31 18:38:02 badrihippo:**
 Gandhi recognised this too when he said something to the effect that he may keep changing his views as he  learns things, and if there are any statements he make that contradict each other, then people should go with the later one
 
-**2026-10-31 18:41:27 smlckz:**
+**2026-10-31 18:41:27 s:**
 As nice as it might have been, they too have intelligent people in their rank.. Javier Milei for example from what I can gather is quite well read/educated. As much we want to ascribe incompetence, we can't underestimate anyone. As Mao put it: Despise the enemy strategically, but take them seriously tactically.
 
 **2026-10-31 18:43:49 badrihippo:**
@@ -690,7 +690,7 @@ Oh, I don't doubt their competence at all. In fact I would go so far as to say t
 **2026-10-31 18:44:09 badrihippo:**
 We should all learn from them
 
-**2026-10-31 18:55:08 smlckz:**
+**2026-10-31 18:55:08 s:**
 When we have this spirit and mindset of learning, there's hope. It's just that this place doesn't seem suitable to discuss general political theory (instead of what's relevant to software freedom) further. Perhaps in a different channel.
 
 **2026-10-31 18:57:55 badrihippo:**
@@ -699,7 +699,7 @@ I think it's relevant here, as it provides a foundation for undestanding where w
 **2026-10-31 18:58:51 badrihippo:**
 And I like the way the discussion is moving forward rather than being stuck going around in circles with pro/anti LLM arguments :P
 
-**2026-10-31 18:58:52 smlckz:**
+**2026-10-31 18:58:52 s:**
 Then I'll have to keep it relevant to matters of software and computing.
 
 **2026-10-31 18:59:03 badrihippo:**
@@ -708,30 +708,30 @@ Yes, I was going to suggest that
 **2026-10-31 19:04:02 badrihippo:**
 Is this an example of "losing the battle to win the war"?
 
-**2026-10-31 19:11:04 smlckz:**
+**2026-10-31 19:11:04 s:**
 He's not strictly adhering to not relying on proprietary software (compare Thunberg, who would not take flights and ride on boats), but taking flights allows him to spread his ideology further, to a broader audience, perhaps?
 
-**2026-10-31 19:21:00 smlckz:**
+**2026-10-31 19:21:00 s:**
 To consider fundametal issues relevant to the movement: how to ensure its sustainability in its current state and transmission of the ideals to contemporary peers who may benefit from it as well as to the future generations, ensuring the continuation of the movement.
 
-**2026-10-31 20:01:37 smlckz:**
+**2026-10-31 20:01:37 s:**
 Regarding the schism that has arisen out of various degrees of LLM usage to generate code and the impact it has on the community, some feeling alienated, and others feeling empowered instead, and everything in between: in the end, who is this supposed to benefit, who is benefited instead? In the earlier divide between free and open source software, regarding monetizability, the insistence to giving back to the commons and later forcing them to do so has alienated away corporate/industrial participation in free software, or discouraged the same; if I've understood what David Chrisnall has to say on this matter.
 
 Perhaps they weren't interested in giving back to commons at all, as much fond of taking in, insofar to ensure market position and profit. Therefore two distinct stream of developers, with little overlap could be observed: one about ensuring software freedom for its users, perhaps end-users, and another 'socialism for the rich' industrial open source software, avoiding reimplementation of same basic software in common, every corporate player benefitting, with any benefit for end-users entirely coincidental. Any poor developer contributing to these projects benefit these entities, performing unpaid labour for 'greater good'. At least an accumulation of such contributions may be considered positively for hiring in some places, you still have situations like xz or the very recent PHP2Shell one.
 
 It's a question of dignity and respect of the developers toiling on myriad projects, in case they may not be entitled to monetary remuneration through donations and grants, that led to a certain amount of outcry. In the manner Torvalds positioned himself in this subject does not help. Inasmuch they see disregard of both their person and the effort, they are withdrawing themselves to places where they still can find mutual respect.
 
-**2026-10-31 20:23:34 smlckz:**
+**2026-10-31 20:23:34 s:**
 In the way western identity politics work, you are to consider which position to adopt between the binaries: to those who believe in human dignity being violated (as well climate concerns, concerns on loss of expertise or cognitive decline and so on, but I consider these as supplimentary arguments used to discourage others) through use of LLMs, thus distancing themselves from it and anything they perceive that may have been tainted by LLM usage, and others oblivious and un/disaffected to such concerns, thereby continuing their use of it. Eithers LLMs has to progress to the point when the former group can concede defeat and give up decisively, in the way it worked for Chess and Go; or the the fight for meaning and dignity continues. If this was merely a fight for ensuring software freedom, there wouldn't be a reason to deny using (open weight) LLMs for the benefit of free software development (see Cory Doctorow's stance for instance). Thus I've brought out human dignity and respect (as distinct from prestige and pride) to provide explanation on this situation.
 
 **2026-10-31 20:33:34 Akshay S Dinesh:**
-smlckz: very insightful.
+s: very insightful.
 
-**2026-10-31 20:36:29 smlckz:**
+**2026-10-31 20:36:29 s:**
 This has been on my mind for a while, just spent an hour or so this evening putting it into words here.
 
 **2026-10-31 20:38:52 Akshay S Dinesh:**
-Working on smlckz's dignity/meaning framework, I think the way dignity/meaning is distributed in free software movement is also skewed in ways. Linus gets a lot of meaning and dignity from Linux project regardless of whether he codes or AI codes. But another contributor might get disproportionately less dignity/meaning to begin with, and it'll become even more diminished if their code is replaced by AI code. So naturally, some people have more to lose when Linus encourages AI.
+Working on s's dignity/meaning framework, I think the way dignity/meaning is distributed in free software movement is also skewed in ways. Linus gets a lot of meaning and dignity from Linux project regardless of whether he codes or AI codes. But another contributor might get disproportionately less dignity/meaning to begin with, and it'll become even more diminished if their code is replaced by AI code. So naturally, some people have more to lose when Linus encourages AI.
 
 **2026-10-31 20:40:07 Shakil Tech:**
 You can't solve all issues single handedly 
@@ -743,20 +743,20 @@ For me, personally, I don't derive much dignity from doing coding per se. Much o
 **2026-10-31 20:43:07 Akshay S Dinesh:**
 To add to the framework, I might perhaps tie in psychology and say there might be people for whom their dignity/meaning is tightly connected to the work they do, and others who derive dignity/meaning outside work. 
 
-**2026-10-31 20:49:32 smlckz:**
+**2026-10-31 20:49:32 s:**
 From German constitution's Article 1(1) of Basic Law (Grundgesetz) reads:
 
 >  Human dignity shall be inviolable. To respect and protect it shall be the duty of all state authority.
 
 In this sense, dignity can not be derived, only respected, acknowledged. The matter of meaning, motivation has to be considered seperately. E.g. Maslow's Hierarchy of Needs and so on.
 
-**2026-10-31 20:55:30 smlckz:**
+**2026-10-31 20:55:30 s:**
 They are getting prestige, clout. Take away the ability to showcase their 'work' to others and derive popularity from it, immediately it becomes meaningless to produce code like this. I'm here talking about all these projects that have been LLM generated en masse and then put forward publicly as open source to be showcased.
 
-**2026-10-31 21:00:18 smlckz:**
+**2026-10-31 21:00:18 s:**
 There has been this dichotomy between software artifact as a product to be 'sold' (monetarily or otherwise) and software as art.. these two surely have difference with regard to how they derive meaning through their work
 
-**2026-10-31 22:51:24 smlckz:**
+**2026-10-31 22:51:24 s:**
 If we go deeper into it, there's two modalities to consider from a sociological perspective: that of individual developer towards the fringes of the social graph, connecting none or few edges to them, and the ones closer to the centre.
 
 At the beginning, some may contribute with bug reports and small patches as fixes to them, building rapport as they become more prolific, prominent, across multiple projects, till they become core developers of such projects. Their path of gradual development is getting cut off or severely hindered from competition with LLM generated code. (The same situation, or worse, inside a company, especially when dealing with code that wont cause severe damage should things go wrong.) If you consider what Terrence 
@@ -769,10 +769,10 @@ On the other hand, there are leaders like DHH who brought mainstream politics di
 
 After writing out this, do I realize how much have I observed over time, even as mostly an outsider.
 
-**2026-10-31 22:57:44 smlckz:**
+**2026-10-31 22:57:44 s:**
 Sorry (but not really) for dumping half a blogpost worth of text. Enjoy :D 
 
-**2026-11-01 08:43:00 smlckz:**
+**2026-11-01 08:43:00 s:**
 Continuing from where I left and got a bit sidetracked, the derivation of meaning, was it.. again a spectrum between these two extremes: one of reverence of the spirit of computing, programming, and one of regard as a tool, a mere means of livelihood, people distributed in between, perhaps even moving in certain direction.
 
 Reverence of the spirit manifests through a certain kind of sanctification of the process and the resulting code; I don't mean in a strictly religious sense, please generalize to see what I'm intending to convey. In practice, we are talking about ensuring quality, correctness, performance, security and so on. These are all desirable in code, and developers may feel an intrinsic sense of validation, satisfaction, in being able to uphold their role of sincerity, through the extent to which they can realize these in their code. There's also extrinsic validation from peers through performance of such realization, in the manner of profilicity. (See research by Moeller and D'Ambrosio on sincerity, authenticity and profilicity as 'identity technologies'.) We can see the 'worship' (again generalize, or find me better analogies to describe the collective motivational framework and organization as such) of the former in myriad books, research articles, blog posts that expound on their importance, develop ways to 
